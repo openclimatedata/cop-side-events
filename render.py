@@ -133,11 +133,17 @@ template = env.from_string(
   </div>
   <script>
     var now = new Date()
+    var addZero = function(i) {
+        if (i < 10) {
+            i = "0" + i
+        }
+        return i
+    }
+    var nowString = now.getFullYear() + "-" + addZero((now.getMonth()+1)) + '-' + addZero(now.getDate()) + ' ' + addZero(now.getHours()) + ":" + addZero(now.getMinutes())
     var times = document.getElementsByTagName("time")
-
     var togglePastEvents = function() {
         for (var i = 0; i < times.length; i++) {
-            if (new Date(times[i].attributes["datetime"].value) < now) {
+            if (times[i].attributes["datetime"].value < nowString) {
               times[i].parentElement.parentElement.classList.toggle("is-hidden")
             }
         }
