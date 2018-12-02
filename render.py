@@ -13,6 +13,13 @@ for source in sources:
 
 events = sorted(events, key=lambda k: (k["start"], k["location"]))
 
+for day in range(2, 15):
+    print(day)
+    for event in events:
+        if event["day"].day == day:
+            event["first"] = True
+            break
+
 template = env.from_string(
     """
 <!DOCTYPE html>
@@ -29,6 +36,11 @@ template = env.from_string(
       .section {
         padding: 0 1rem 0 1rem;
       }
+      a.anchor {
+        display:block;
+        padding-top: 110px;
+        margin-top: -110px;
+      }
     </style>
   </head>
   <body class="has-navbar-fixed-top">
@@ -37,7 +49,6 @@ template = env.from_string(
     <a class="navbar-item" href="#">
       #COP24&nbsp;<span class="is-hidden-mobile"> (Unofficial) Side Event Aggregator</span>
     </a>
-    <a class="navbar-item" id="next" href="#next">Next</a>
 
     <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-rest">
       <span aria-hidden="true"></span>
@@ -81,6 +92,7 @@ template = env.from_string(
     Last Update: {% now 'Europe/Berlin', '%a, %d %b %Y %H:%M' %}
     </section>
     {% for event in events %}
+      {% if event["first"] %}<a id="{{ event.day.strftime("%d") }}" class="anchor"></a>{% endif %}
       <section class="section is-size-5 is-size-6-mobile">
       <p class="is-size-4 is-size-5-mobile">{{ event.day.strftime('%A, %d %B') }}<br>
       <time datetime="{{ event.start.strftime("%Y-%m-%d %H:%M") }}">{{ event.start.strftime("%H:%M") }}</time> -
@@ -123,42 +135,6 @@ template = env.from_string(
         timestamps.push(new Date(times[i].attributes["datetime"].value))
     }
 
-    var toDay = function(day) {
-        for (var i = 0; i < timestamps.length; i++) {
-            if (timestamps[i].getDate() >= day) {
-              times[i].scrollIntoView()
-              window.scrollBy(0, -120)
-              break
-            }
-        }
-    }
-
-    var next = function() {
-        for (var i = 0; i < timestamps.length; i++) {
-            if (timestamps[i] >= now) {
-              times[i].scrollIntoView()
-              window.scrollBy(0, -120)
-              break
-            }
-        }
-    }
-    next()
-    document.getElementById("next").addEventListener('click', next)
-    document.getElementById("dec02").addEventListener('click', function() {toDay(2)})
-    document.getElementById("dec03").addEventListener('click', function() {toDay(3)})
-    document.getElementById("dec04").addEventListener('click', function() {toDay(4)})
-    document.getElementById("dec05").addEventListener('click', function() {toDay(5)})
-    document.getElementById("dec06").addEventListener('click', function() {toDay(6)})
-    document.getElementById("dec07").addEventListener('click', function() {toDay(7)})
-    document.getElementById("dec08").addEventListener('click', function() {toDay(8)})
-    document.getElementById("dec09").addEventListener('click', function() {toDay(9)})
-    document.getElementById("dec10").addEventListener('click', function() {toDay(10)})
-    document.getElementById("dec11").addEventListener('click', function() {toDay(11)})
-    document.getElementById("dec12").addEventListener('click', function() {toDay(12)})
-    document.getElementById("dec13").addEventListener('click', function() {toDay(13)})
-    document.getElementById("dec14").addEventListener('click', function() {toDay(14)})
-
-
     // Get all "navbar-burger" elements
     var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
 
@@ -187,8 +163,6 @@ template = env.from_string(
           el.classList.toggle("is-active")
         })
     })
-
-
 
   </script>
   </body>
