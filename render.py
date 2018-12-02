@@ -14,7 +14,6 @@ for source in sources:
 events = sorted(events, key=lambda k: (k["start"], k["location"]))
 
 for day in range(2, 15):
-    print(day)
     for event in events:
         if event["day"].day == day:
             event["first"] = True
@@ -89,7 +88,12 @@ template = env.from_string(
   </nav>
   <div class="container">
     <section class="section">
+    <p>
     Last Update: {% now 'Europe/Berlin', '%a, %d %b %Y %H:%M' %}
+    </p>
+    <p>
+    <a class="button is-primary" id="togglePastEvents"><span id="show" class="showOrHide is-hidden">Show</span><span id="hide" class="showOrHide">Hide</span>&nbsp;past events</a>
+    </p>
     </section>
     {% for event in events %}
       {% if event["first"] %}<a id="{{ event.day.strftime("%d") }}" class="anchor"></a>{% endif %}
@@ -123,17 +127,27 @@ template = env.from_string(
         {% endfor %}
         </p>
       {% endif %}
-      </section>
       <hr>
+      </section>
     {% endfor %}
   </div>
   <script>
     var now = new Date()
     var times = document.getElementsByTagName("time")
-    var timestamps = []
-    for (var i = 0; i < times.length; i++) {
-        timestamps.push(new Date(times[i].attributes["datetime"].value))
+
+    var togglePastEvents = function() {
+        for (var i = 0; i < times.length; i++) {
+            if (new Date(times[i].attributes["datetime"].value) < now) {
+              times[i].parentElement.parentElement.classList.toggle("is-hidden")
+            }
+        }
+        [].slice.call(document.getElementsByClassName("showOrHide"))
+            .forEach(function(el) {
+                el.classList.toggle("is-hidden")
+            })
+
     }
+    togglePastEvents()
 
     // Get all "navbar-burger" elements
     var $navbarBurgers = Array.prototype.slice.call(document.querySelectorAll('.navbar-burger'), 0);
@@ -163,6 +177,8 @@ template = env.from_string(
           el.classList.toggle("is-active")
         })
     })
+
+    document.getElementById("togglePastEvents").addEventListener("click", togglePastEvents)
 
   </script>
   </body>
