@@ -1,0 +1,765 @@
+- day: &id001 2018-12-02
+  description: "As a kick-off to thee COP24 #PandaHub, this event will build momentum\
+    \ for national governments to\_commit to increasing the ambition of their climate\
+    \ commitments. Following opening speeches from key high-level officials on the\
+    \ need to ramp up climate action and on expectations for the COP, the event will\
+    \ be the opportunity to\_launch of WWF\u2019s Ambition Report\_and highlight opportunities\
+    \ to ramp up climate action in key countries notably China, the European Union\
+    \ and South\_Africa."
+  end: 2018-12-02 14:45:00
+  location: WWF Pavilion
+  participants:
+  - "Manuel Pulgar Vidal -\_Leader of WWF\u2019s Climate and\_Energy\_Practice, Former\
+    \ Environment Minister of Peru and President of COP20"
+  - Representatives from the European Union, China, and South Africa.
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-02 12:30:00
+  title: "OPENING EVENT: Delivering now for a 1.5\xB0C future: Ramping up climate\
+    \ ambition at the national level"
+- day: *id001
+  description: "Corporate climate action and sustainability strategies are on the\
+    \ rise. Companies are evolving from simplistic approaches to more complex data-\
+    \ and science-driven strategies, placing greater emphasis on supply chains. This\
+    \ side event will highlight how blockchain, and Digital Ledger Technology (DLT)\
+    \ more broadly, can help companies tackle some of the new challenges posed by\
+    \ stakeholders\u2019 growing needs for transparency through improved data management,\
+    \ impact quantification and verification, reporting progress, traceability of\
+    \ goods and business value."
+  end: 2018-12-02 16:15:00
+  location: WWF Pavilion
+  participants:
+  - "Mark Griffiths -\_Global Leader, Climate Business Hub, WWF"
+  - "Sarah Leugers -\_Director of Communications, Gold Standard +\_Climate Ledger\
+    \ Initiative (CLI)"
+  - "J\xFCrg\_F\xFCssler -\_CEO, INFRAS, and CLI"
+  - "Nick\_Beglinger -\_CEO and Founder, Cleantech21 and Hack4Climate +\_CLI"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-02 15:00:00
+  title: Blockchain for corporate supply chains
+- day: *id001
+  description: "Tipping Point\_demonstrates\_the array of\_complex connections which\
+    \ make the alignment of\_climate policy in Poland with\_EU targets\_a challenge.\_\
+    The economic, social and political background of Polish energy dependence on coal\
+    \ is\_clearly explained. The movie also presents the opportunities provided by\
+    \ alternative energy sources\_and the barriers faced by those who advocate for\
+    \ them. The film warns\_but - above all -\_offers solutions to\_stop the\_oncoming\_\
+    catastrophe brought about by climate change."
+  end: 2018-12-02 18:15:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-02 16:30:00
+  title: 'Movie screening: The Tipping Point'
+- day: *id001
+  description: '** This event is by invitation only **'
+  end: 2018-12-02 21:30:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-02 18:30:00
+  title: Media training night school
+- day: &id002 2018-12-03
+  description: "This event will explore a lesser known proposal made by AOSIS and\
+    \ supported by AILAC, to automatically cancel a portion of emissions units generated\
+    \ under Article\_6.2 and 6.4 mechanism. If calibrated correctly, this could simultaneously\
+    \ to help ensure that Article 6.2 and 6.4 are delivering additional mitigation\
+    \ benefits while\_ not undermining would-be purchasers or suppliers of emission\
+    \ reductions. With presenters from countries, economists and carbon market industry\
+    \ representatives, we will explore all sides of this debate, including other potential\
+    \ ways to ensure OMGE."
+  end: 2018-12-03 11:15:00
+  location: WWF Pavilion
+  participants:
+  - Stefano DeClara - Director, International Policy, The International Emissions
+    Trading Association
+  - Lambert Schneider - Associate, Stockholm Environment Institute
+  - MJ Mace - AOSIS (tbc)
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-03 10:00:00
+  title: 'Article 6 market tools for going beyond offsetting: A dialogue on how to
+    ensure overall mitigation of global emissions (OMGE) is reflected in Article 6.2
+    and 6.4 of the Paris rulebook'
+- day: *id002
+  description: "Indigenous Peoples\u2019 governance has a clear connection to climate\
+    \ change. Tenured Indigenous lands tend to have lower deforestation rates, and\
+    \ Indigenous and communally held lands hold about a quarter of aboveground global\
+    \ carbon stores. This event will feature a presentation, short video, and discussion\
+    \ among Indigenous Peoples representatives on how Indigenous territorial governance\
+    \ and rights are an undervalued climate solution."
+  end: 2018-12-03 12:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-03 11:30:00
+  title: 'Indigenous Governance: an undervalued climate ally'
+- day: *id002
+  description: The event will provide an overview of the set of issues to be addressed
+    in the Pre-2020 Stocktake process at COP24 and subsequent COPs, and discuss potential
+    outcomes. Initial presentations should provide an overview of the current situation,
+    including mitigation targets, ambition and performance, Action Agenda, Technical
+    Examination Process, and Finance and means of implementation. The discussion will
+    aim to discuss potential responses and outcomes from the COP, and the implications
+    for other COP processes, including the Talanoa process and potential outcomes
+    related to post-2020 ambition. The event should provide insights into potential
+    directions and outcomes from the Pre-2020 Stocktake process in COP24, and what
+    a strong, coherent and equitable package of outcomes from COP24 could be.
+  end: 2018-12-03 14:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-03 13:00:00
+  title: 'Towards a successful pre-2020 Stocktake: Addressing the action and support
+    deficit'
+- day: *id002
+  description: "The Solar Impulse Foundation has set itself the challenge of identifying\
+    \ 1000\_solutions that are profitable and can protect the environment."
+  end: 2018-12-03 16:15:00
+  location: WWF Pavilion
+  participants:
+  - "Bertrand Piccard -\_Founder, Solar Impulse Foundation"
+  - Maros Sefcovic - European Commission
+  - Isabelle Durant - Deputy Secretary-General, UNCTAD
+  - Cristina Aleixendri - Co-founder & Chief Operational Officer, bound4blue
+  - Inna Baverman - Co-founder & International Marketing Director, Eco Wave Power
+    Ltd.
+  - "Briac Barthes -\_\_Cofounder,\_Hilyte Power"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-03 15:00:00
+  title: How can multilateral institutions support innovators to ramp-up the implementation
+    of clean and efficient solutions?
+- day: *id002
+  description: "This event will showcase best practices in reducing emissions from\
+    \ what is often the largest\_source of a company\u2019s carbon footprint: the\
+    \ value chain. Content presented will help remove\_barriers to addressing value\
+    \ chain emissions and case studies will demonstrate what is\_possible -- to help\
+    \ inspire more companies to set and reach ambitious climate targets."
+  end: 2018-12-03 17:45:00
+  location: WWF Pavilion
+  participants:
+  - "Alex\_Farsan -\_Global Lead, Science Based Targets, WWF"
+  - "Ian Trim -\_Director of Energy,\_Navigant"
+  - "Sarah Leugers -\_Director of Communications, Gold Standard"
+  - "Flore Aug\xE9 -\_Climate Change Strategy Manager, Danone"
+  - "Matt\_Spannagle -\_Carbon and Forest Adviser,\_Barry Callebaut"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-03 16:30:00
+  title: 'Value Change: Climate-positive action in corporate value chains'
+- day: *id002
+  description: '** This event is by invitation only **'
+  end: 2018-12-03 21:30:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-03 18:30:00
+  title: Media training night school
+- day: &id003 2018-12-04
+  description: "Oceans are undergoing rapid change due to increasing CO 2 emissions,\
+    \ with ocean\_warming, acidification, deoxygenation and sea-level rise identified\
+    \ as serious risks to\_marine ecosystems and subsequent impact on society. Experts\
+    \ will focus on how\_the ocean is mitigating climate change on land but at a cost,\
+    \ announce new\_initiatives and make recommendations for sustainable development."
+  end: 2018-12-04 11:15:00
+  location: WWF Pavilion
+  participants:
+  - Carol Turley OBE - Senior Scientist, Plymouth Marine Laboratory, UK
+  - Ronny Jumeau - Permanent Representative of Seychelles to the United Nations
+  - "Hans Otto P\xF6rtner - Co-Chair Intergovernmental Panel on Climate Change, Working\
+    \ Group II and the Alfred Wegner Institute, Germany"
+  - Martin Sommerkorn - Head of Conservation of the WWF Arctic Programme
+  - Steve Widdicombe - Global Ocean Acidification Observing Network, Head of Science,
+    Plymouth Marine Laboratory, UK
+  - "Cliff Law - National Institute of Water and Atmospheric Research and Director\
+    \ of the national Ocean Acidification Programme,\_ New Zealand"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-04 10:00:00
+  title: 'Oceans & climate: The evidence unwrapped'
+- day: *id003
+  description: "The side event will shed\_light on on-the-ground stories of\_loss\
+    \ and damage caused by climate change and highlight progress on the issue so far.\
+    \ It will\_explore what is needed\_to advance the issue of Loss and Damage in\
+    \ order\_to\_meet the objective of the Paris\_Agreement."
+  end: 2018-12-04 14:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-04 13:00:00
+  title: "Loss and Damage: Step up ambition on action towards today\u2019s reality!"
+- day: *id003
+  description: "This event will bring together representatives from Latin American\
+    \ Countries\_to highlight the actions they are taking to achieve nationally-determined\
+    \ contributions, and eventually increase\_ambition to meet the 1.5\xB0 goal."
+  end: 2018-12-04 16:15:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-04 15:00:00
+  title: "Latin American cities aiming for 1.5\xB0C"
+- day: *id003
+  description: "This event, organised by REN 21,\_will look at the leading role cities\
+    \ and non-state actors can play in advancing renewable\_energy policy and the\
+    \ 1.5\xB0C objective. Local governments have legislative and purchasing power\
+    \ that\_they can use to implement\_change in their own operations, in the wider\
+    \ community and ultimately\_push for change at regional and national level. With\
+    \ such capacity, local governments can become\_beacons for change in their region\
+    \ or country, demonstrating the effectiveness of policies and local\_action to\
+    \ reach the 1.5C objective. Non-state actors can support these initiatives through\
+    \ mobilising\_citizen engagement."
+  end: 2018-12-04 18:15:00
+  location: WWF Pavilion
+  participants:
+  - "Gunilla Els\xE4sser, Director Food, Climate & Energy, WWF Sweden"
+  - Jisun Hwang, Senior Climate Advocacy and Policy Officer, ICLEI
+  - Lea Ranalder, Project Manager, REN21
+  - Anna Skowron, Project Manager Climate Energy, World Future Council
+  - Oras Tynkkynen, Senior Advisor, Finnish Innovation Fund (SITRA)
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-04 16:30:00
+  title: "Renewable energy for cities: achieving the 1.5\xB0C goal"
+- day: *id003
+  description: '** This event is by invitation only **'
+  end: 2018-12-04 21:30:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-04 18:30:00
+  title: Media training night school
+- day: &id004 2018-12-05
+  description: "Considerable progress has been made to measure Land Use, Land Use\
+    \ Change and\_Forestry (LULUCF) targets, meriting increased ambition for these\
+    \ natural climate\_solutions in countries\u2019 NDCs. This event will highlight\
+    \ how NDCs can be enhanced\_with more ambitious LULUCF targets, from the biophysical\
+    \ opportunity to their importance in assisting with the subnational adoption of\
+    \ natural climate solutions."
+  end: 2018-12-05 11:15:00
+  location: WWF Pavilion
+  participants:
+  - Niklas Hagelberg - UNEP
+  - Nancy Harris - WRI
+  - Bernadette Fischler - WWF
+  - Mary Mbenge - Makueni County, Kenya
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-05 10:00:00
+  title: 'Land use: The untapped opportunity in nationally-determined contributions'
+- day: *id004
+  description: "The recently published IPCC report \u201CGlobal Warming of 1.5\xB0\
+    C\u201D is a reminder of the\_climate crisis that we are currently facing. It\
+    \ also provides hope and inspiration by\_outlining the climate impacts that we\
+    \ can avoid if we limit warming to 1.5 degrees\_instead of 2 degrees. Harnessing\
+    \ the carbon sequestration potential of wetlands\_represents 14% of the mitigation\
+    \ potential from natural ecosystems and 19% of low-cost natural climate solutions."
+  end: 2018-12-05 12:45:00
+  location: WWF Pavilion
+  participants:
+  - "Lisa Schindler Murray -\_Policy Advisor, International Climate Change, The Nature\
+    \ Conservancy"
+  - "Susanna Toll -\_Senior Communications and Advocacy Officer, Wetlands International"
+  - "Julika Tribukait -\_Project Coordinator, Mangroves, WWF-Germany"
+  - Lina Barrera - Senior Director, International Policy, Conservation International
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-05 11:30:00
+  title: 'How do we get there: The need for a coordinated global mangrove conservation
+    agenda'
+- day: *id004
+  description: "This event will bring together indigenous people organizations of\
+    \ COICA (AIDESEP and OPIAC), government representatives and finance institutions\
+    \ around the critical role of indigenous peoples in enhancing the implementation\
+    \ of \_NDCs and other integrated international goals, as well as the challenges\
+    \ and opportunities to finance indigenous strategies to achieve climate and development\
+    \ goals."
+  end: 2018-12-05 14:45:00
+  location: WWF Pavilion
+  participants:
+  - COICA representative
+  - AIDESEP representative
+  - OPIAC representative
+  - "Ministry of Environment \u2013 Peru"
+  - Climate Finance institution representative (tbc)
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-05 13:00:00
+  title: Amazon Indigenous peoples walk the talk into the Talanoa Dialogue
+- day: *id004
+  description: "This event will demonstrate that it is possible to put resilience\
+    \ and adaptation into\_practice in the face of a changing climate through evidence-based\
+    \ information sharing as\_well as identifying and acting on common interests among\
+    \ a very broad range of partners\_and stakeholders (governments, community leaders,\
+    \ indigenous communities, scientists,\_social development agencies and financial\
+    \ institutions). This initiative is underway along the\_St. John River, New Brunswick\
+    \ in Eastern Canada."
+  end: 2018-12-05 16:15:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-05 15:00:00
+  title: 'Building ecological and community climate resilience: a working example
+    from Atlantic Canada'
+- day: *id004
+  description: "The side event will shed\_light on WWF's vision for key criteria concerning\_\
+    National Adaptation Plans (NAPs). It will provide an opportunity for\_different\
+    \ countries to react to these as well as to present progress made in developing\
+    \ and implementing their NAP."
+  end: 2018-12-05 18:15:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-05 16:30:00
+  title: 'National Adaptation Plans: Approaches on building social-ecological resilience
+    to climate change impacts'
+- day: &id005 2018-12-06
+  description: "This high-level event will explore the advantages and risks of better\_\
+    integrating the implementation of the three Rio Conventions and how the\_optimal\
+    \ balance and alignment can be achieved. It will also discuss how a Global Deal\
+    \ for Nature and People in 2020 can make addressing climate change and\_nature\
+    \ loss a top political and economic priority."
+  end: 2018-12-06 11:15:00
+  location: WWF Pavilion
+  participants:
+  - "Bernadette Fischler -\_Head of 2020 Advocacy, WWF-UK"
+  - Stewart Maginnis - Global Director, Global Forest and Climate Change Programme
+  - Dr. Barron Joseph Orr - Lead Scientist, UNCCD
+  - David Waskow - Director, International Climate Initiatives, WRI
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-06 10:00:00
+  title: 'Three conventions, one planet: The case for a new Global Deal for Nature
+    and People'
+- day: *id005
+  description: "This event will bring together various business leadership initiatives\
+    \ that can help underpin a\_global deal for nature and people. The event will\
+    \ explore options to connect business efforts to\_combat climate change and nature\
+    \ degradation, and begin to set out what business needs\_from governments in 2020\
+    \ to ensure that we conserve and enhance the natural world."
+  end: 2018-12-06 12:45:00
+  location: WWF Pavilion
+  participants:
+  - Manuel Pulgar Vidal, Global Lead, Climate and Energy, WWF International
+  - Sean de Cleene, Head of Food Systems Initiative, Member of the Executive Committee,
+    World Economic Forum
+  - Claire Tutenuit, General Delegate, Enterprises for the Environment and representative
+    of Act4Nature
+  - "Juliana Baladelli Ribeiro, Analyst Nature based Solutions, Funda\xE7\xE3o Grupo\
+    \ Botic\xE1rio (Botic\xE1rio Group Foundation)"
+  - Feng Li, Branding Director, LONGi Green Energy Technology Co., Ltd.
+  - "Jaco du Toit, Senior Advocacy Adviser \u2013 Our Planet/2020, WWF UK"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-06 11:30:00
+  title: 'Business for nature and climate: The case for an integrated approach'
+- day: *id005
+  description: Description coming soon.
+  end: 2018-12-06 14:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-06 13:00:00
+  title: Ambition, Talanoa and IPCC
+- day: *id005
+  description: "Addressing climate risks in conservation is no longer an option for\
+    \ Africa; it is time now to act!\_The event will highlight the WWF Africa Adaptation\
+    \ Initiative and its\_strategy. It will be\_followed by showcasing practical adaptation\
+    \ work from the ground, emphasizing the natural\_solutions for climate change,\
+    \ the involvement of CSOs\_ and communities in climate-smart\_conservation work."
+  end: 2018-12-06 16:15:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-06 15:00:00
+  title: Climate-smart conservation - providing adaptation solutions for nature and
+    people in Africa
+- day: *id005
+  description: '600 Million people in Africa have no access to electricity:'
+  end: 2018-12-06 17:45:00
+  location: WWF Pavilion
+  participants:
+  - Most of them live in remote rural areas, relying on burning polluting kerosene
+    or wood to get light.
+  - Those connected to grid in Africa means expensive energy and live an average of
+    54 days of power outage a year.
+  - Electricity development has just not kept pace with increasing demand on the continent
+    - between 2001-2005, GDP of over half of Sub Saharan countries rose by 4.5% while
+    electricity generation capacity grew at 1.2%.
+  - From 2014 to 2017, only 2 percent of energy finance from multilateral development
+    banks went to off-grid and decentralized energy solutions that are most likely
+    to close the access gap in rural areas.
+  - "Manuel Pulgar-Vidal, Global Lead on Climate &\_Energy, WWF"
+  - Mbolatiana Ranjevasoa (Ms), Director of Environmental Integration, Ministry of
+    Energy and Hydracarbon Madagascar
+  - Solani Mhango, Conservation Director, WWF-Mozambique
+  - AfDB (TBC)
+  - Chinese representative (TBC)
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-06 16:30:00
+  title: How to accelerate universal access to sustainable energy in Africa, for the
+    benefit of climate, nature and people?
+- day: *id005
+  description: "The event will explore how government planners and funders of large\
+    \ scale\_infrastructure\u2014roads, ports, dams, bridges, etc\u2014must account\
+    \ for the impacts of climate\_change in these long term investments, while still\
+    \ meeting social and environmental\_safeguards requirements. The relatively new\
+    \ concept of sustainable infrastructure can\_address some of these challenges,\
+    \ but truly addressing climate risks requires integrating\_planning for resilience\
+    \ and\_sustainability well before projects are financed and designed,\_\u201C\
+    upstream\u201D in the pre-feasibility stage of strategic planning. Through contributions\
+    \ from the\_multilateral development banks, other players like GIZ on behalf of\
+    \ the German Government,\_country governments, and WWF, this event will outline\
+    \ current gaps and future opportunities\_to improve upstream infrastructure planning\
+    \ for both climate resilience and long term\_sustainability."
+  end: 2018-12-06 19:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-06 18:00:00
+  title: 'Creating space for biodiversity, ecosystem services, and infrastructure
+    in a rapidly warming world: Supporting NDC implementation'
+- day: &id006 2018-12-11
+  description: Current Paris Agreement country pledges will not be enough to limit
+    global warming and avoid dangerous climate change levels. Yet, climate action
+    in cities can bring new levels of ambition, steering rapid and transformational
+    changes.
+  end: 2018-12-11 09:30:00
+  location: WWF Pavilion
+  participants:
+  - Maria Gardfjell, Deputy Mayor, Uppsala Municipality (TBC)
+  - Maryke van Staden, Director, Bonn Center for Local Climate Action and Reporting,
+    ICLEI
+  - Seth Schultz, Special Advisor on Science & Innovation, Covenant of Mayors
+  - Andrea Fernandez, Director of Governance & Global Partnerships, C40 or Brendan
+    Shane, Programme Director Deadline 2020, C40
+  - Vanessa Perez-Cirera, Deputy Leader, Global Climate and Energy Practice, WWF Intl.
+  - Anthony Pearce, Programme Manager One Planet Cities, WWF Sweden
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-11 08:00:00
+  title: "One Planet City Challenge - A Global Agenda for 1.5\xB0C in Cities"
+- day: *id006
+  description: "The event will\_showcase\_the\_catalytic role\_that domestic alliances\
+    \ of\_companies, local and subnational governments, academia and civil society\
+    \ are beginning to play in accelerating climate action and\_championing\_opportunities\
+    \ for\_higher ambition\_that\_directly\_address domestic\_development\_needs."
+  end: 2018-12-11 12:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-11 09:30:00
+  title: 'Alliances for Climate Action: How a growing movement of domestic multi-stakeholder
+    alliances can champion climate action and ambition around the world'
+- day: *id006
+  description: "The event will showcase the work on Just Transition being done by\
+    \ unions and the\_Just Transition Centre and partners, sharing examples of good\
+    \ practice and lessons\_learned, with the aim of motivating for more unions to\
+    \ be engaged in the planning\_processes for the transition to a low carbon society."
+  end: 2018-12-11 14:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-11 13:00:00
+  title: Just transition and the labour movement
+- day: *id006
+  description: "Many investors are stepping up to the climate challenge \u2013 what\
+    \ are their ambitions, how are they currently positioned and what tools can be\
+    \ used? Presentation of new WWF assessment, followed by a panel:"
+  end: 2018-12-11 15:55:00
+  location: WWF Pavilion
+  participants:
+  - Tools and models (PACTA, SBT-FI)
+  - Investment strategies and solutions
+  - Investor collaboration, e.g. CA100+, Investor Agenda
+  - Asset owner engagement with asset managers
+  - Call for a Just Transition
+  - "Paddy Arber -\_Senior Analyst, Global Public Policy, Aviva"
+  - "Nicolette Bartlett -\_Director of Climate Change, CDP"
+  - "Anthony Hobley -\_CEO, Carbon Tracker Initiative"
+  - "Max Horster -\_Managing Director, ISS-Ethix Climate Solutions"
+  - Noemie Klein, Director, Ecofys/Navigant
+  - Thomas Liesch, Climate Integration, SBTi Lead, Allianz
+  - "Simon Messenger -\_Director, 2o Investing Initiative"
+  - "Bettina Reinboth -\_Associate Director, Policy and Research, UNPRI"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-11 15:00:00
+  title: "Investors aligment with the Paris Agreement - on track for <2\xB0C?"
+- day: *id006
+  description: Following announcements at the One Planet Summit, the Multilateral
+    Development Banks have embarked on a process to define how they will align their
+    investments to be consistent with achieving the goals of the Paris Agreement.
+    An interim plan was issued on the sidelines of the Global Climate Action Summit,
+    and an update is to be announced at COP24.
+  end: 2018-12-11 17:05:00
+  location: WWF Pavilion
+  participants:
+  - Nancy Saich, Lead Climate Change Advisor, EIB (tbc)
+  - Preety Bhandari, Director for Climate Change and Disaster Risk Management, ADB
+    (tbc)
+  - Craig Davies, Lead Climate Change Specialist, EBRD (tbc)
+  - Amal-lee Amin, Manager for Climate Change and Sustainable Development, IADB (tbc)
+  - Audrey Rojkoff, Lead Climate Specialist, AFD) (tbc)
+  - WRI (tbc)
+  - Germanwatch (tbc)
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-11 16:10:00
+  title: Mainstreaming Paris alignment in multilateral development banks
+- day: *id006
+  description: 'Regulatory and supervisory initiatives to support the alignment of
+    financial flows with a well-below 2oC pathway:'
+  end: 2018-12-11 18:15:00
+  location: WWF Pavilion
+  participants:
+  - EU Action Plan, TCFD etc - what to expect?
+  - Central banks and supervisors (NGFS) becoming active
+  - Finance Fit for Paris (3fP) Tracker, the two degree consistency of financial market
+    regulation within EU member states
+  - "Shifting financial flows requires tracking both \u2018green\u2019 financial flows\
+    \ and real economy investment"
+  - 'Can we regulate for better transparency: Assessment of the disclosure of Insurers
+    in France on Ar. 173 reporting'
+  - Climate finance reporting standard (ISO14097)
+  - Ian Cochran, I4CE
+  - Fatma Dirkes, Vice President of Frankfurt School and Director of International
+    Advisory Services
+  - Remco Fischer, Programme Officer, UNEP Finance Initiative
+  - Philip Owen, Head of Unit, Directorate-General for Climate Action, Climate finance,
+    mainstreaming, Montreal Protocol, European Commission
+  - Nick Robins, Professor in Practice - Sustainable Finance, London School of Economics
+    and Political Science
+  - Wimboh Santoso, Chairman of the Board of Commissioner, The Financial Services
+    Authority (tbc)
+  - Massamba Thioye, Manager, Sustainable Development Mechanism Program, UNFCCC
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-11 17:20:00
+  title: Financial regulation as a lever for driving the shift of financial flows
+- day: *id006
+  description: "In 2008, the UK passed the Climate Change Act.\_ It put a long-term\
+    \ climate goal into law, established the mechanisms for getting to that goal,\
+    \ and set up an independent body to map out the route and hold government to account.\
+    \ Ten years on, New Zealand is about to introduce the Zero Carbon Bill. What were\
+    \ the UK law\u2019s strengths and shortcomings? How has NZ gone further, aiming\
+    \ for net zero? What has NZ learned from the UK, what does the UK need to do next,\
+    \ and what can others learn from both?"
+  end: 2018-12-11 19:45:00
+  location: WWF Pavilion
+  participants:
+  - Adrian Gault, Chief Economist at the UK Committee on Climate Change (CCC)
+  - Tony Juniper, Exec Dir. Of Campaigns & Advocacy at WWF-UK, and one of the lead
+    campaigners for the Climate Change Act a decade ago.
+  - Victor Komarovsky, Generation Zero, New Zealand
+  - India Logan-Riley, Te Ara Whatu, New Zealand
+  - "Laura Aylett, UK Department for Business, Energy & Industrial Strategy \u2013\
+    \ facilitator [TBC]"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-11 18:30:00
+  title: 'Putting climate action beyond politics: UK and New Zealand climate laws'
+- day: &id007 2018-12-12
+  description: "To achieve 1.5\xB0C we need a rapid transition to an energy system\
+    \ based on 100% Renewables, if we are to avoid the worst impacts of climate change.\
+    \ The event shows what such a shift could look like on a global scale and how\
+    \ to successfully develop 100%RE roadmaps through continuous cross-sector, multi-stakeholder\
+    \ dialogues and cutting-edge research."
+  end: 2018-12-12 11:00:00
+  location: WWF Pavilion
+  participants:
+  - "Michael Sch\xE4fer, WWF"
+  - Dr. Sven Teske, University of Technology Sydney
+  - Anna Skowron, World Future Council
+  - "Sixbert Mwanga, Climate Action Network\_Tanzania"
+  - Artur Runge-Metzger, European Commission DG Climate Action
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-12 09:45:00
+  title: 'Building successful 100%RE roadmaps: Leaders in Post-Paris times'
+- day: *id007
+  description: The world's expansive grasslands and savannahs are vital havens for
+    biodiversity and food production, yet often overlooked in climate discussions.
+    These ecosystems provide immense opportunities to sequester carbon with tangible
+    co-benefits to nature and food security. This session will shine a spotlight on
+    these opportunities and the actions needed to make them happen.
+  end: 2018-12-12 12:00:00
+  location: WWF Pavilion
+  participants:
+  - "Ian McConnel -\_WWF Global Beef Lead"
+  - "Jean-Fran\xE7ois Timmers - WWF Global Soy Lead (tbc)"
+  - "Ruaraidh Petre -\_Executive Director, Global Roundtable for Sustainable Beef"
+  - "Pip Band -\_Manager, Sustainability Strategy and Stakeholder Engagement, Meat\
+    \ and Livestock Australia"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-12 11:15:00
+  title: '30x30 Forest, Food, and Land Challenge On the Ground: Highlighting the importance
+    of grasslands & savannahs for climate & biodiversity'
+- day: *id007
+  description: "This event will spotlight tangible examples of the 30x30 Challenge\_\
+    in action. The session will do so through a focus on the Cerrado \u2013 the world\u2019\
+    s most\_biodiverse savanna. The session will address progress there in each of\
+    \ the three\ncomponents of the 30x30 Challenge: healthy and responsible food systems;\_\
+    restoration, conservation and resilience; and transparent supply chains and\_\
+    governance at a landscape level."
+  end: 2018-12-12 13:00:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-12 12:00:00
+  title: '30x30 Forest, Food and Land Challenge on the ground: Spotlight on the Cerrado
+    Brazil'
+- day: *id007
+  description: "The event will present the latest information about projections for\
+    \ the GCF pipeline, and the scale of resources required from the GCF to finance\
+    \ it, relevance to efforts to\_scale up action and commitments in both pre and\
+    \ post 2020 periods, and some of the policy\_issues surrounding the replenishment\
+    \ process. Representatives of Parties and GCF Board\_will be invited to talk about\
+    \ their expectations for the outcome of the replenishment\_process and GCF\u2019\
+    s important place in supporting climate action, including the scale of resources\_\
+    to be committed for the upcoming replenishment period."
+  end: 2018-12-12 14:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-12 13:15:00
+  title: 'GCF replenishment: What can we expect?'
+- day: *id007
+  description: "This event will convene a dialogue between representatives from UN\
+    \ Conventions on climate\_change /\_biodiversity /\_oceans and non-state actor\_\
+    coalitions\_to explore opportunities\_for a systemic approach to a common objective:\_\
+    the achievement of the 2030 Agenda.\_By aligning targets, identifying trade-offs\
+    \ and\_systemic levers, as well as delineating\_concrete\_actions to break down\
+    \ siloed implementation between these international\_agreements and instruments,\_\
+    an example pathway towards accelerated\_implementation could be identified."
+  end: 2018-12-12 16:15:00
+  location: WWF Pavilion
+  participants:
+  - Patricia Espinosa, Executive Secretary, UNFCCC (tbc)
+  - "Cristiana Pa\u015Fca Palmer, Executive Secretary, CBD (tbc)"
+  - "Peter Thomson, UN Special envoy for the oceans\_(tbc)"
+  - Achim Steiner, UNDP administrator (tbc)
+  - "Jennifer Morgan, Executive Director of Greenpeace\_International (tbc)"
+  - "Paul Polman,\_UN SDGs Advocate /Unilever CEO"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-12 15:00:00
+  title: "Accelerating 2030 Agenda implementation through international instruments\u2019\
+    \ alignment"
+- day: *id007
+  description: "This session will accomplish two key goals: 1) officially launch a\
+    \ 30x30 Challenge High-Level Champions\_Group and provide a vision for the community\
+    \ for the coming year, and 2) define a clear partnership\_with the Secretary General\u2019\
+    s team in planning for its land pillar. Key VIP Champions will be featured on\_\
+    the panel, and will look ahead to the UN Secretary General\u2019s Summit in September\
+    \ 2019 to define\_objectives and ambitions for the Forest, Food, and Land non-state\
+    \ actor community. This event will be co-hosted by the Land Pillar leads for the\
+    \ UN Secretary General\u2019s Summit."
+  end: 2018-12-12 17:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-12 16:30:00
+  title: "30x30 Forest, Food, and Land Challenge: Speeding forward to the UN Secretary\
+    \ General\u2019s climate summit"
+- day: *id007
+  description: "To finish the day, and to further build a united community across\
+    \ the forest, food, and land sector, we\_intend to co-host a networking happy\
+    \ hour with a range of other key groups (WBCSD, FOLU, N4C, etc).\_We will ask\
+    \ the 30x30 Champions to set the scene and offer initial remarks, and will invite\
+    \ any others to\_display their work. One key objective of the 30x30 challenge\
+    \ is to facilitate the creation of a unified\_community of non-state actors to\
+    \ deliver greater and greater ambition. This happy hour will help to\_achieve\
+    \ that objective."
+  end: 2018-12-12 19:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-12 18:15:00
+  title: 30x30 Forest, Food, and Land Community Happy Hour
+- day: &id008 2018-12-13
+  description: This panel discussion will focus on the initiation of The Arab Climate
+    Act (ACA), a platform catalysing the climate change actions among the Arab Countries
+    in an engaging multi-stakeholder approach contributing in a sustainable and profitable
+    manner to a strong and effective response to climate change.
+  end: 2018-12-13 11:15:00
+  location: WWF Pavilion
+  participants:
+  - "His Excellency Amedi Camara - Ministry of Environment\_and Sustainable Development\
+    \ of Islamic Republic of\_Mauritania"
+  - Mr.Vahakn Kabakian - Climate Change Advisor/Portfolio Manager - Ministry of Environment
+  - "Nada Zaarour - President,\_Green Mind NGO"
+  - "Mohamed Zmerli -\_Focal Point UNFCCC representative\_of local affairs and environment\
+    \ Ministry of Tunisia"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-13 10:00:00
+  title: The Arab Climate Act
+- day: *id008
+  description: "Paris Watch: A Hong Kong Report Card has developed a methodology to\
+    \ measure climate mitigation & adaptation action at city level against the goals\
+    \ of the Paris Climate Agreement. Most importantly, the programme aims to employ\
+    \ accessible and popular communications methods to assist the non-specialist in\
+    \ understanding what the Paris Agreement means and whether or not a city is playing\
+    \ a responsible part in achieving the Paris goals. This includes using rankings\
+    \ against other cities and preparing a Report Card in the style of a school report\
+    \ to rate performance.\_ Regional carbon emission cap and low carbon city development\
+    \ in Mainland will also be referenced."
+  end: 2018-12-13 12:45:00
+  location: WWF Pavilion
+  participants:
+  - "Dr. Mar\xEDa Francesch-Huidobro -\_Expert Advisor,\_Carbon Care Asia Limited"
+  - "Dr. Li Junfeng -\_First Director and Chairman of Academic Committee, National\
+    \ Center for Climate Change Strategy and International Cooperation"
+  - "John Sayer -\_Director,\_Carbon Care Asia Limited"
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-13 11:30:00
+  title: 'Accelerating climate action in large cities: Ideas from Asia'
+- day: *id008
+  description: This event, on the day following the closing plenary of the Talanoa
+    Dialogue, will provide an opportunity for observers and negotiators to take stock
+    of the Talanoa process, and exchange views on potential COP outcomes from Talanoa
+    and other matters related to increasing ambition of NDCs by 2020, including the
+    IPCC SR1.5 report, the UNSG Climate Summit planned for 2019, and relevant provisions
+    of the Paris Agreement and related COP decisions. Such outcomes can include COP
+    decision text, as well as Presidency reports, declarations, etc.
+  end: 2018-12-13 14:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-13 13:00:00
+  title: 'COP outcomes on Talanoa and Ambition: The final countdown'
+- day: *id008
+  description: "This event will discuss opportunities for growth and a just transition\
+    \ in\_Upper Silesia."
+  end: 2018-12-13 16:15:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-13 15:00:00
+  title: How to ensure a Just Transition for Upper Silesia?
+- day: *id008
+  description: "An approach on how businesses can collaborate and use climate action\
+    \ as a business opportunity was developed and applied over the last year. This\
+    \ side event showcases its results:\_8 concrete emission-reducing project ideas\
+    \ as well as a study on the feasibility for transition pathways for German industry\
+    \ (see \u201CTowards to a <2\xB0-economy\u201D).\_The side event will use these\
+    \ results and bring in perspectives from politics and economics on\_how businesses\
+    \ can fulfill their role in climate protection,\_and what policy framework they\
+    \ need to do this. This side event is of special interest to companies, NGOs and\
+    \ state officials to learn about the approach, methods applied, results, restrictions\
+    \ and to discuss future possibilities for further stakeholders."
+  end: 2018-12-13 17:45:00
+  location: WWF Pavilion
+  participants:
+  - Dr. Karsten Sach, Director-General for European and International Policy, Climate
+    Policy, German Ministry for the Environment (tbc)
+  - Katarzyna Dulko-Gaszyna, Sustainability Manager, IKEA Poland
+  - "Dr. Hans-J\xF6rn Weddige, Group Coordinator Energy, Climate and Environment Policies,\
+    \ thyssenkrupp AG (tbc)"
+  - Bernhard Schwager, Head of Sustainability, Robert Bosch GmbH (tbc)
+  - "Martin Kaul, Head of Office and Advisor on Climate and Energy Policy, Foundation\
+    \ 2\xB0"
+  - Alexander Liedke, Senior Manager Sustainable Business & Markets, WWF Germany
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-13 16:30:00
+  title: "Pathway towards a <2\xB0-economy - innovative approach of business to identify\
+    \ cross-industry solutions"
+- day: *id008
+  description: Description coming soon.
+  end: 2018-12-13 19:45:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-13 18:00:00
+  title: 'Powering the BRI with renewables: 100% transition in Asia'
+- day: 2018-12-14
+  description: Description of event to come shortly.
+  end: 2018-12-14 11:15:00
+  location: WWF Pavilion
+  participants: []
+  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
+  start: 2018-12-14 10:00:00
+  title: Unraveling the mystery towards green and universal energy access for the
+    last mile area
