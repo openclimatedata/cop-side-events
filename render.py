@@ -35,7 +35,7 @@ template = env.from_string(
   <nav class="navbar is-fixed-top is-dark" role="navigation" aria-label="main navigation dropdown">
   <div class="navbar-brand">
     <a class="navbar-item" href="#">
-      (Unofficial) COP24 Side Event Aggregator
+      #COP24&nbsp;<span class="is-hidden-mobile"> (Unofficial) Side Event Aggregator</span>
     </a>
     <a class="navbar-item" id="next" href="#next">Next</a>
 
@@ -80,14 +80,14 @@ template = env.from_string(
     Last Update: {% now 'Europe/Berlin', '%a, %d %b %Y %H:%M' %}
     </section>
     {% for event in events %}
-      <section class="section is-size-5">
-      <p class="is-size-4">{{ event.day.strftime('%A, %d %B') }}<br>
+      <section class="section is-size-5 is-size-6-mobile">
+      <p class="is-size-4 is-size-5-mobile">{{ event.day.strftime('%A, %d %B') }}<br>
       <time datetime="{{ event.start.strftime("%Y-%m-%d %H:%M") }}">{{ event.start.strftime("%H:%M") }}</time> -
       {% if event.end %}
         {{ event.end.strftime("%H:%M") }}
       {% endif %}
       </p>
-      <h2 class="is-size-3"><a class="has-text-primary" href="{{ event.source }}">{{ event.location }}</a><br> {{ event.title }}</h2>
+      <h2 class="is-size-3 is-size-4-mobile"><a class="has-text-primary" href="{{ event.source }}">{{ event.location }}</a><br> {{ event.title }}</h2>
       {% if event.description %}
         <p>{{ event.description }}</p>
       {% endif %}
