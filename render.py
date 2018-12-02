@@ -96,14 +96,14 @@ template = env.from_string(
     </section>
     {% for event in events %}
       {% if event["first"] %}<a id="{{ event.day.strftime("%d") }}" class="anchor"></a>{% endif %}
-      <section class="section is-size-5 is-size-6-mobile">
-      <p class="is-size-4 is-size-5-mobile">{{ event.day.strftime('%A, %d %B') }}<br>
+      <section class="section is-size-6 is-size-7-touch">
+      <p class="is-size-5 is-size-6-touch">{{ event.day.strftime('%A, %d %B') }}<br>
       <time datetime="{{ event.start.strftime("%Y-%m-%d %H:%M") }}">{{ event.start.strftime("%H:%M") }}</time> -
       {% if event.end %}
         {{ event.end.strftime("%H:%M") }}
       {% endif %}
       </p>
-      <h2 class="is-size-3 is-size-4-mobile"><a class="has-text-primary" href="{{ event.source }}">{{ event.location }}</a><br> {{ event.title }}</h2>
+      <h2 class="is-size-4 is-size-5-touch"><a class="has-text-primary" href="{{ event.source }}">{{ event.location }}</a><br> {{ event.title }}</h2>
       {% if event.description %}
         <p>{{ event.description }}</p>
       {% endif %}
