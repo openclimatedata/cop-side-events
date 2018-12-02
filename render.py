@@ -48,6 +48,7 @@ template = env.from_string(
 
   <div class="navbar-menu" id="navbar-rest">
     <div class="navbar-start">
+      <span class="navbar-item is-hidden-mobile">December</span>
       <a class="navbar-item" id="dec02" href="#02">02</a>
       <a class="navbar-item" id="dec03" href="#03">03</a>
       <a class="navbar-item" id="dec04" href="#04">04</a>
