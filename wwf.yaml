@@ -112,7 +112,7 @@
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
-  start: 2018-12-03 13:00:00
+  start: 2018-12-03 13:15:00
   title: 'Towards a successful pre-2020 Stocktake: Addressing the action and support
     deficit'
 - day: *id002
@@ -187,7 +187,7 @@
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
-  start: 2018-12-04 13:00:00
+  start: 2018-12-04 13:15:00
   title: "Loss and Damage: Step up ambition on action towards today\u2019s reality!"
 - day: *id003
   description: "This event will bring together representatives from Latin American\
@@ -353,7 +353,7 @@
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
-  start: 2018-12-06 13:00:00
+  start: 2018-12-06 13:15:00
   title: Ambition, Talanoa and IPCC
 - day: *id005
   description: "Addressing climate risks in conservation is no longer an option for\
@@ -713,7 +713,7 @@
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
-  start: 2018-12-13 13:00:00
+  start: 2018-12-13 13:15:00
   title: 'COP outcomes on Talanoa and Ambition: The final countdown'
 - day: *id008
   description: "This event will discuss opportunities for growth and a just transition\
