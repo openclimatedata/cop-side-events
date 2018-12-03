@@ -1,5 +1,17 @@
-index.html: german.yaml unfccc.yaml wwf.yaml render.py venv
+index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml render.py venv
 	./venv/bin/python render.py
+
+database.js:
+	wget -N http://ec.europa.eu/clima/events/0124/js/database.js
+
+schedule-rooms.json: database.js
+	mv database.js local-database.js
+	sed -i 's/var opDayEvent/\/\/var opDayEvent/' local-database.js
+	cat output.js >> local-database.js
+	node local-database.js
+
+eu.yaml: eu.py schedule-rooms.json venv
+	./venv/bin/python $<
 
 german.yaml: german.py venv
 	./venv/bin/python $<

@@ -3,7 +3,7 @@ from jinja2 import Environment
 
 env = Environment(extensions=["jinja2_time.TimeExtension"])
 
-sources = ["german.yaml", "unfccc.yaml", "wwf.yaml"]
+sources = ["german.yaml", "unfccc.yaml", "wwf.yaml", "eu.yaml"]
 
 events = []
 
