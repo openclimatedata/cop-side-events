@@ -26,7 +26,7 @@ template = env.from_string(
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>COP24 Side Events</title>
+    <title>(Unoffical) #COP24 Side Events Tracker</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
     <style>
       .container {
@@ -46,7 +46,7 @@ template = env.from_string(
   <nav class="navbar is-fixed-top is-dark" role="navigation" aria-label="main navigation dropdown">
   <div class="navbar-brand">
     <a class="navbar-item" href="#">
-      #COP24&nbsp;<span class="is-hidden-mobile"> (Unofficial) Side Event Aggregator</span>
+      #COP24&nbsp;<span class="is-hidden-mobile"> (Unofficial) Side Event Tracker</span>
     </a>
 
     <a role="button" class="navbar-burger burger" aria-label="menu" aria-expanded="false" data-target="navbar-rest">

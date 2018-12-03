@@ -81,19 +81,6 @@
   title: 'Africa Day High - level side event at COP 24: Implementation of NDCs in
     support of Agenda 2063'
 - day: 2018-12-03
-  description: 'Policy and legal frameworks, NDCs review/updating and implementation,
-    Potential challenges and opportunities to climate change actions
-
-
-    Speakers: EAC Deputy Secretary General (Productive and Social Sectors), Director-NDC
-    Partnership, Partner States representatives'
-  end: 2018-12-03 20:00:00
-  links: []
-  location: Bieszczady
-  source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
-  start: 2018-12-03 18:30:00
-  title: Implementation of the Paris Agreement in East African Community region
-- day: 2018-12-03
   description: Developing country delegates will share their views on the issues at
     COP 24 and greater climate action is only possible with equity between developed
     and developing countries
@@ -321,7 +308,11 @@
     \ Committee on CC Adaptation of SL Ms.V Wijenayake - National Expert, VAM of TNC\
     \ of SL Ms.D Liyanage- Director, MMD&E"
   end: 2018-12-04 14:45:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=GQVYLK2SLJ9OEZU4BNJAORYKSP3T0IF4
+    text: "Flyer [2\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=AYDTUHQX4JHGNK8YDCGLHQCEMLYKBKGA
+    text: "Concept Note [301\_kb]"
   location: Pieniny
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-04 13:15:00
@@ -418,7 +409,9 @@
     \ IOM, UNU, RAED, Refugees International and the Hugo Observatory, Platform on\
     \ Disaster Displacement, and government representatives"
   end: 2018-12-04 16:30:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=JOTNGGZ9OXRZUHGLBFW3W1V7MTHHQGEE
+    text: "Flyer [998\_kb]"
   location: Pieniny
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-04 15:00:00
@@ -510,8 +503,8 @@
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-04 16:45:00
-  title: Enhancing ocean and climate observing in developing nations using low-cost
-    technologies and training
+  title: Enhancing ocean/ climate observing in developing nations with low-cost technology/
+    capacity building
 - day: 2018-12-04
   description: 'The disproportionate effects of climate change on vulnerable communities
     is causing severe human rights crises, and forcing many to leave their homes,
@@ -906,22 +899,19 @@
   title: Landscape Restoration for climate objectives, synergies and trade-offs across
     SDGs
 - day: 2018-12-05
-  description: 'IPCC SR15 brings the Paris goal to life. Debates on new science &
-    political credibility are relevant to & interlinked with multiple geographic,
-    technical & social challenges. Our Side Event presents a new understanding on
-    what Paris compatible climate action means for policy, business & people
-
-
-    Speakers: Dr Jacob Schewe, Potsdam Institute for Climate Impact Research Hanna
-    Fekete, NewClimate Institute Heidi Finskas, Vice President CR and CG at KLP Manish
-    Ram, Doctoral Researcher, Solar Economy Group, LUT Happy Khambule, Greenpeace
-    Climate Justice & Liability campaign'
+  description: "How do we bring the Paris 1.5\xB0C goal to life? Experts, practitioners\
+    \ and decision-makers will present and discuss Paris-compatible climate action\
+    \ happening today with examples from economic sectors, policies, businesses, law\
+    \ and people\n\nSpeakers: Dr Jacob Schewe, Potsdam Institute for Climate Impact\
+    \ Research Hanna Fekete, NewClimate Institute Heidi Finskas, Vice President CR\
+    \ and CG at KLP Manish Ram, Doctoral Researcher, Solar Economy Group, LUT Happy\
+    \ Khambule, Greenpeace Climate Justice & Liability campaign"
   end: 2018-12-05 16:30:00
   links:
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=I1ODAO75QECKYT6EES2EK0WPN5WOY8XZ
     text: "Side event concept and speakers, GPI-NCI [57\_kb]"
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=26XJ9HVNI4F2WFKDRFV7A5OG7ZARICCD
-    text: "Event Flyer [307\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=6HU5W4REEKLQ3ZQRP1ELYIJ2U453EB0J
+    text: "Event Flyer GPI-NCI [314\_kb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-05 15:00:00
@@ -1039,7 +1029,7 @@
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-05 16:45:00
-  title: Scaling up V20 ambition on insurance and renewables through NDC and NAP support
+  title: 'Finance to survive & thrive: The ambitious climate strategies of V20 economies'
 - day: 2018-12-05
   description: "Policy makers and scientists will reflect on existing impediments\
     \ to and best practices for science-policy dialogues with examples from NAP processes\
@@ -1089,13 +1079,16 @@
   start: 2018-12-05 18:30:00
   title: Climate Adaptation Technical Assistance Framework
 - day: 2018-12-05
-  description: "The new World Adaptation Science Programme focusses on making the\
-    \ adaptation research agenda more policy-relevant and providing sound science\
-    \ to inform sustainable adaptation to current and future climate change so as\
-    \ to bridge the gap between adaptation science and policy.\n\nSpeakers: \u2022\
-    Ms. Elena Manaenkova, WMO Deputy Secretary-General (tbc) \u2022Dr.Hoesung Lee,\
-    \ Chair of the IPCC (tbc) \u2022Mr. Javier Manzanares, GCF Deputy Executive Director\
-    \ (tbc) Facilitator: \u2022Dr. Jian Liu, UNEP Chief Scientist"
+  description: 'The new World Adaptation Science Programme focusses on making the
+    adaptation research agenda more policy-relevant and providing sound science to
+    inform sustainable adaptation to current and future climate change so as to bridge
+    the gap between adaptation science and policy.
+
+
+    Speakers: Speakers: Ms. Elena Manaenkova, WMO Secretary-General, Mr. Ovais Sarmad,
+    UNFCCC Deputy Executive Secretary, Mr. Hoesung Lee, Chair of the IPCC and Mr.
+    Javier Manzanares, GCF Deputy Executive Director (tbc) Facilitator: Mr. Jian Liu,
+    UNEP Chief Scientist'
   end: 2018-12-05 20:00:00
   links: []
   location: Pieniny
@@ -1103,7 +1096,10 @@
   start: 2018-12-05 18:30:00
   title: Launch of the new World Adaptation Science Programme
 - day: 2018-12-05
-  description: 'Technology Mechanism: 2018 activities and performance
+  description: 'The UNFCCC Technology Mechanism supports countries in developing and
+    transferring climate technologies. The event presents the achievements of its
+    two bodies in 2018: the TEC and the CTCN, updates on the ongoing collaboration
+    with the Financial Mechanism, and launches the latest TEC publications.
 
 
     Speakers: TEC Chair, CTCN Chair, CTCN Director, GCF secretariat, technology stakeholders
@@ -1870,9 +1866,10 @@
     to shift the status quo away from business-as-usual.
 
 
-    Speakers: Asian Institute of Technology, National Designated Authority (TBD),
-    Direct Access Entity (TBD), International Financial Institutions (TBD), Providers
-    of readiness support (TBD)'
+    Speakers: Saleemul Huq (ICCCAD), Anupa Lamichhane (GCF), Atiq Rahman (BCAS), Tlou
+    Ramaru (Environmental Affairs, South Africa), Mandy Barnett (SANBI), Wayne King
+    (Cook Islands), Stanley Wapot (MSG), Ainun Nishat (BRAC), Lyan Villacorta (AIT),
+    Golam Rabbani (BCAS), Elin Lorimer (Indigo Development and Change)'
   end: 2018-12-07 16:30:00
   links:
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=DDTJZZ290T4WHQNDF3PRILB1T97LKZDV
@@ -2020,7 +2017,7 @@
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-07 16:45:00
-  title: Indigenous and local communities leading the way for climate action
+  title: Indigenous Peoples and Local Communities Leading the Way for Climate Action
 - day: 2018-12-07
   description: 'ICAO & IMO have defined GHG targets and are defining steps to reduce
     emissions from international transport. The side event will present recent developments
@@ -2092,6 +2089,8 @@
   links:
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=FOPZ88GDGP55MI11M3ZKZS6E2IHA1L3W
     text: "Flyer [2\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=H4AF84TW0FLMPWWG39JE9J1QRUWTYMWX
+    text: "Agenda [287\_kb]"
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-07 18:30:00
@@ -2151,7 +2150,7 @@
     \ IPCC representative, Representative of UNFCCC Secretariat, TFB and TFI TSU members"
   end: 2018-12-07 20:00:00
   links:
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=KFU4X9AUBMB8X8CBGHXTHGAXF4VJDV64
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=GAJ4684AWNOEKVCNG6KRHD0ENME1JVZ7
     text: "Agenda [74\_kb]"
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
@@ -2350,7 +2349,7 @@
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-08 13:15:00
-  title: Human-rights based implementation of climate policies in urban areas
+  title: Human-rights based implementation of climate policies
 - day: 2018-12-08
   description: 'Focus on how demand-side management for sustainable and responsible
     consumption is critical to climate action aligned with the long-term goals of
@@ -2821,6 +2820,8 @@
     text: "Brazil_Mato Grosso JS profile [665\_kb]"
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=T63MR8ZTIPMTYFA8ON1HGQUCX5O6ZHPH
     text: "Brazil_Rondonia JS profile [599\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=ARUJM670O1IJ47M8IVZ48DZPGMZ3M853
+    text: "Link to the state of Jurisdictional Sustainability report [515\_kb]"
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-10 16:45:00
@@ -3148,7 +3149,9 @@
     \ levels in 2030, compared to levels consistent with a 2\xB0C / 1.5\xB0 target.\n\
     \nSpeakers: UNFCCC-UNEP joint event"
   end: 2018-12-11 14:45:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=2FA319PV7IGLWKA3TVUG5PVPRKRE5AMK
+    text: "Flyer [310\_kb]"
   location: Pieniny
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-11 13:15:00
@@ -3171,8 +3174,8 @@
 - day: 2018-12-11
   description: 'To aid implementation of national climate policies this event will
     feature new studies on the impact of climate laws in Mexico and the UK and share
-    the experiences of other countries in designing and implementing climate and energy
-    transition legislation.
+    the experiences from Latin America and other regions in designing and implementing
+    climate and energy transition legislation.
 
 
     Speakers: Dr. Alina Averchenkova will present new studies by the Grantham Research
@@ -3394,8 +3397,10 @@
     \ Minister Renewable Energy,India"
   end: 2018-12-11 18:15:00
   links:
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=67JBF5HRP32VWOLP3SDRC3M8G1IVSN4M
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=6LH7VAPYHXKB9L0SLSRJZ8JA2C8VEUKA
     text: "FINAL agenda side event [344\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=RD2EVRRP14TBYC9K966AA56OD8EMGGPI
+    text: "Agenda + emails [349\_kb]"
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-11 16:45:00
@@ -4235,7 +4240,7 @@
   location: Bieszczady
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-13 15:00:00
-  title: 'Water grabbing: climate change impacts and the human right to water'
+  title: Climate change impacts and the human right to water
 - day: 2018-12-13
   description: 'Public and private financial access to develop reliable, sustainable,
     resilient and quality infrastructures, including regional and cross-border infrastructures,
@@ -4500,12 +4505,14 @@
     Mooloo, Ag. Dir. of Environment/Mr. D. Deenoo, Deputy Perm. Secretary, Ministry
     of Social Security, National Solidarity; Rt Hon Patricia Scotland'
   end: 2018-12-13 20:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=SPV7H1XK510WBIGZW76RPCI9TXFVQPKS
+    text: "Side Event Flyer [368\_kb]"
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-13 18:30:00
-  title: Strengthening coherence between CC and DRR actions (Africa Programme of Action
-    for DRR 2015-2030)
+  title: Strengthening synergies between climate change and disaster risk reduction
+    actions
 - day: 2018-12-14
   description: 'Loss and damage from extreme climate events and slow onset events
     are already causing huge loss of lives and property. We will look at examples
@@ -4521,6 +4528,19 @@
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-14 11:30:00
   title: Financing Loss and Damage in LDCs
+- day: 2018-12-14
+  description: 'Policy and legal frameworks, NDCs review/updating and implementation,
+    Potential challenges and opportunities to climate change actions
+
+
+    Speakers: EAC Deputy Secretary General (Productive and Social Sectors), Director-NDC
+    Partnership, Partner States representatives'
+  end: 2018-12-14 13:00:00
+  links: []
+  location: Narew
+  source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
+  start: 2018-12-14 11:30:00
+  title: Implementation of the Paris Agreement in East African Community region
 - day: 2018-12-14
   description: 'How could climate action be supported through Serious Games? Our panel
     focuses on examples of climate action in the domains of energy and food policies
