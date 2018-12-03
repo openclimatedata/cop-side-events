@@ -88,7 +88,10 @@ template = env.from_string(
   <div class="container">
     <section class="section content">
     <p>
-    Last Update: {% now 'Europe/Berlin', '%a, %d %b %Y %H:%M' %}
+    Last Update: {% now 'Europe/Berlin', '%a, %d %b %Y %H:%M' %}<br>
+    Please always check with the linked original schedule for latest changes.<br>
+    Made by <a href="mailto:robert.gieseke@pik-potsdam.de">Robert Gieseke</a><br>
+    Follow me on Twitter: <a href="https://twitter.com/openclimatedata">@openclimatedata</a>
     </p>
     <p>
     Tracking Side Events from:
