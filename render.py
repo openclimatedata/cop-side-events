@@ -92,6 +92,7 @@ template = env.from_string(
     Last Update: {% now 'Europe/Berlin', '%a, %d %b %Y %H:%M' %}<br>
     Please always check with the linked original schedule for latest changes.<br>
     Made by <a href="mailto:robert.gieseke@pik-potsdam.de">Robert Gieseke</a><br>
+    Source code on <a href="https://github.com/openclimatedata/cop-side-events">GitHub</a><br>
     Follow me on Twitter: <a href="https://twitter.com/openclimatedata">@openclimatedata</a>
     </p>
     <p>
