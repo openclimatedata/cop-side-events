@@ -83,7 +83,6 @@ template = env.from_string(
           <a href="https://www.ccca.ac.at/en/dialog-fields/cop24/" class="navbar-item">Austrian Pavilion</a>
           <a href="https://www.greenclimate.fund/cop" class="navbar-item">Green Climate Fund Pavilion</a>
           <a href="http://indonesiaunfccc.com/" class="navbar-item">Indonesian Pavilion</a>
-          <a href="http://www.ndcpartnershipcop.org/events/week/2018-12-03/?tribe_event_display=week&tribe-bar-date=2018-12-03" class="navbar-item">NDC Partnership</a>
           <a href="http://copjapan.env.go.jp/cop/cop24/en/events/" class="navbar-item">Japanese Pavilion</a>
           <a href="https://ipcc.ch/apps/outreach/eventinfo.php?q=446" class="navbar-item">IPCC Events</a>
           <a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/" class="navbar-item">Polish Pavilion</a>
@@ -103,6 +102,7 @@ template = env.from_string(
           <a href="https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024" class="navbar-item">UNFCCC Side Events</a>
           <a  href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule" class="navbar-item">EU Pavilion</a>
           <a href="https://www.bmu.de/en/german-climate-pavilion/events/" class="navbar-item">German Pavilion</a>
+          <a href="http://www.ndcpartnershipcop.org/events/week/2018-12-03/" class="navbar-item">NDC Partnership</a>
           <a href="https://wwf.panda.org/our_work/climate_and_energy/cop24/" class="navbar-item">WWF Pavilion</a>
         </div>
       </div>
