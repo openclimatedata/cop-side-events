@@ -1,4 +1,4 @@
-index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml render.py venv
+index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml render.py venv
 	./venv/bin/python render.py
 
 database.js:
@@ -9,6 +9,16 @@ schedule-rooms.json: database.js
 	sed -i 's/var opDayEvent/\/\/var opDayEvent/' local-database.js
 	cat output.js >> local-database.js
 	node local-database.js
+
+ndc-calendar-w1.ics:
+	wget "http://www.ndcpartnershipcop.org/events/week/2018-12-03/?tribe_event_display=week&tribe-bar-date=2018-12-03&ical=1&tribe_display=week" -O ndc-calendar-w1.ics
+
+ndc-calendar-w2.ics:
+	wget "http://www.ndcpartnershipcop.org/events/week/2018-12-10/?tribe_event_display=week&tribe-bar-date=2018-12-10&ical=1&tribe_display=week" -O ndc-calendar-w2.ics
+
+
+ndc.yaml: ndc.py ndc-calendar-w1.ics ndc-calendar-w1.ics venv
+	./venv/bin/python $<
 
 eu.yaml: eu.py schedule-rooms.json venv
 	./venv/bin/python $<
@@ -29,6 +39,6 @@ venv: requirements.txt
 	touch venv
 
 clean:
-	rm -rf index.html *.yaml
+	rm -rf index.html *.yaml *.ics
 
 .PHONY: clean
