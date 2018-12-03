@@ -30,6 +30,14 @@
   links:
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=90EBTEVNJ3Z96O07PWAPC1DUI9P5VF7J
     text: "CDM EB side event at COP24 programme [362\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=B08V5FWLBYG7IOMXZLJZ8U0ER7KA282P
+    text: "Presentation by Alexis Leroy [558\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=S8QM3G2LX44FKJL0IQA9JRWLILCWJKCV
+    text: "Presentation by Daniel Rossetto [338\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=Y3UVLMAQ1IPIL57SW02W424GCOY64W5K
+    text: "Presentation by Ricardo J. Esparta [448\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=LRXCUFW6X92NCUOKVCR23NPM6HHBNHFM
+    text: "Presentation by Sandra Greiner [1\_Mb]"
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-03 15:00:00
@@ -200,7 +208,9 @@
     delegations; conduct research on the process or on specific climate actions; and
     carry the message of the Paris Agreement to their home communities.'
   end: 2018-12-04 13:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=SW9X0U4I9JKYMBK3F6CK1HFBXKC1K7Q5
+    text: "RINGOs flyer [52\_kb]"
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-04 11:30:00
@@ -233,7 +243,9 @@
     Dalton, IUCN; Jane Madgwick, Wetlands International; Pilar Bueno, UNFCCC Adaptation
     Committee; Victor Galaz, SRC; tbd, SEI'
   end: 2018-12-04 13:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=BE167J285W73UNUY5JVK2BLUHBZ72Y4Z
+    text: "White Paper_CCA and DRR [125\_kb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-04 11:30:00
@@ -530,9 +542,10 @@
     to reducing overall emissions and promoting sustainable development.
 
 
-    Speakers: Gilles Dufrasne -Carbon Market Watch, Erika Lennon -Center for international
-    Environmental law(tbc), Martin Cames -Oeko Institut (tbc), Silke Karcher -BMUB(tbc),
-    MJ Mace -article 6 negotiator for Saint-Lucia on behalf of AOSIS (tbc)'
+    Speakers: Panel: Sophie Closson (International carbon markets negotiator, Belgium)
+    Alberto Saldamando (Indigenous Environmental Network) Carsten Warnecke (NewClimate
+    Institute) Gilles Dufrasnen (Carbon Market Watch) Moderator: Erika Lennon (Center
+    for international environmental law)'
   end: 2018-12-04 18:15:00
   links: []
   location: Warmia
@@ -845,10 +858,12 @@
     commodity supply chains, including the groundbreaking Trase partnership.
 
 
-    Speakers: Arnaldo Carneiro - Global Canopy Nathalie Walker - NWF Niki Mardas -
-    Global Canopy tbc'
+    Speakers: Helen Bellfield, Global Canopy Ivan Dario Valencia, Colombia David Burns,
+    NWF Moderator: Nathalie Walker, NWF'
   end: 2018-12-05 16:30:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=GR1CMEXOA85QEC6ULY4D3KJ04U6VX17W
+    text: "Event invitation [1\_Mb]"
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-05 15:00:00
@@ -1165,8 +1180,7 @@
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-06 11:30:00
-  title: How do we get there? The role of agriculture, energy and systemic change
-    to meet the Paris Agreement
+  title: 'Missing Pathways to Paris: Land, Equity and Systemic Change'
 - day: 2018-12-06
   description: 'A negotiated solution to the conflict in Colombia has created diverse
     impacts on its environmental structure and has generated a reinterpretation of
@@ -1412,8 +1426,8 @@
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-06 15:00:00
-  title: Can Carbon Capture and Storage (CCS) help Poland and similar countries to
-    decarbonise industry?
+  title: Carbon Capture and Storage (CCS) for decarbonising industry in developed
+    and developing countries
 - day: 2018-12-06
   description: 'France has committed to reach carbon neutrality by 2050. EpE members
     carried out a study to propose a full picture of the economy and society compatible
@@ -1481,7 +1495,7 @@
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-06 16:45:00
-  title: 'Brazil & the Paris Agreement: A second drop off?'
+  title: 'Brazil & the Paris Agreement: a second drop off?'
 - day: 2018-12-06
   description: "The event will present research results on feasible trajectories and\
     \ policy guidance for coal transitions in 6 major coal-producing countries: India,\
@@ -1613,17 +1627,20 @@
   start: 2018-12-06 18:30:00
   title: Launching of UN Environment Adaptation GAP report
 - day: 2018-12-06
-  description: 'Empirical evidence on the performance of REDD+ and other forestry
-    interventions is critically needed. CIFOR, GCF-IEU and partners will present research
-    results from a global impact evaluation of subnational REDD+ initiatives, an evidence
-    gap map on forestry interventions, and REDD+ policy analysis.
+  description: 'Evidence on the performance of REDD+ & other forestry & land use initiatives
+    is critically needed. CIFOR, the GCF-IEU, and partners will present different
+    approaches for evaluating the impacts of these initiatives. Program implementers
+    will reflect on experiences with real-time impact assessment.
 
 
-    Speakers: Speakers: Dr. Amy Duchelle (CIFOR); Dr. Jyotsna Puri (GCF-IEU); Dr.
-    Martin Herold (Wageningen University); Juan Chang (GCF); UN-REDD [tbc]. Moderator:
-    Dr. Christopher Martius (CIFOR)'
+    Speakers: Christopher Martius (CIFOR), Karma Tshering (GCF Board Member), Jyotsna
+    Puri (GCF IEU), Amy Duchelle (CIFOR), Martin Herold (Wageningen University), Malgorzata
+    Buszko-Briggs (FAO/UN-REDD), and Arild Angelsen (Norwegian University of Life
+    Sciences).'
   end: 2018-12-06 20:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=OO8UYL9XMIHFQW8M6TEQYEPM8FC4BUOP
+    text: "Side Event Program [838\_kb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-06 18:30:00
@@ -2360,6 +2377,9 @@
       \ [24\_kb]"
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=4MQEV0SGO46HLV5JCXH7R00H9OUS7X78
     text: "Jah_PAIVRI_Katowice COP-precop booklet [264\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=8TRN6TS23AB477PQC0WREOR0PLWIC7FI
+    text: "Informal Settlements: Report by UN Special Rapporteur on Adequate Housing\
+      \ [553\_kb]"
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-08 13:15:00
@@ -3140,8 +3160,9 @@
   title: 'REDD+ and the Private Sector: Building a Catalytic REDD+ Fund, a REDD+ Registry
     and Exchange'
 - day: 2018-12-11
-  description: 'This session will highlight the actions being taken both individually
-    and collectively by Travel & Tourism companies to address climate change.
+  description: 'In collaboration with the World Travel and Tourism Council (WTTC),
+    this session will highlight the actions being taken both individually and collectively
+    by Travel & Tourism companies to address climate change.
 
 
     Speakers: See link for speakers and further information: https://unfccc.int/climate-action/global-climate-action-events'

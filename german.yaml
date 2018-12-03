@@ -1,89 +1,3 @@
-- day: 2018-12-02
-  end: 2018-12-02 10:00:00
-  links: null
-  location: German Pavilion
-  organiser: null
-  participants: null
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-02 09:00:00
-  title: Welcoming Session
-- day: 2018-12-03
-  end: 2018-12-03 13:30:00
-  links: null
-  location: German Pavilion
-  organiser: BDE Federation of the German Waste, Water and Raw Materials Management
-    Industry
-  participants:
-  - Rolf Kaufmann, Executive Vice President, EEW Energy from Waste GmbH
-  - "Michael Wiener, Chief Executive Officer, DSD \u2013 Duales System Holding GmbH\
-    \ & Co. KG"
-  - Herwart Wilms, Managing Director, REMONDIS Assets & Services GmbH & Co. KG
-  - 'Moderator: Peter Kurth, BDE-President'
-  - 'Keynote: Dr. Annette Ochs, Head of Biomass Department, BDE'
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-03 12:00:00
-  title: Climate Protection through Circular Economy
-- day: 2018-12-03
-  end: 2018-12-03 14:45:00
-  links: null
-  location: German Pavilion
-  organiser: "Heinrich B\xF6ll Foundation"
-  participants:
-  - Hannah McKinnon, Oil Change International
-  - N.N., Zero Waste Europe/GAIA Network (tbc)
-  - Christian Holz, Carleton University, Ottawa & Climate Equity Reference Project
-    (CERP) (tbc)
-  - Christoph Thies, Greenpeace Germany (tbc)
-  - Kate Dooley, Univ. Melbourne & Climate Land Ambition Rights Alliance (CLARA)
-  - "Moderator: Linda Schneider, Heinrich B\xF6ll Foundation"
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-03 14:00:00
-  title: "A Civil Society Response to the Challenge of Limiting Global Warming to\
-    \ 1.5\xB0C"
-- day: 2018-12-03
-  end: 2018-12-03 17:00:00
-  links: null
-  location: German Pavilion
-  organiser: "INFOE e. V. and Climate Alliance (Klima-B\xFCndnis e. V.)"
-  participants:
-  - Andreas Wolter, Mayor of the City of Cologne
-  - Robert Guimaraes, Representative of the City of Yarinacocha and president of the
-    indigenous organization FECONAU
-  - Katherine Ruiz, Indigenous Youth representative from Peru
-  - Leon Meyer zu Ermgassen, INFOE, Board of Directors Informationsstelle Peru, member
-    of the Cologne - Yarinacocha working group
-  - Aldo Armando Perez, Coordinator Climate Partnership Cologne-Yarinacocha
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-03 15:30:00
-  title: The Climate Partnership of the city of Cologne (DE) and Yarnicocha (PE)
-- day: 2018-12-03
-  end: 2018-12-03 19:00:00
-  links: null
-  location: German Pavilion
-  organiser: "World\_Resources\_Institute\_(WRI), Nature4Climate\_coalition,\_The\_\
-    \ Nature\_Conservancy\_(TNC)"
-  participants:
-  - 'Moderator: Katrin Heeren, Senior Counsel EU, Browning Environmental'
-  - Mary Mbenge, Makueni County, Kenya
-  - Lee White, Gabon National Parks Agency
-  - Herwig Ranner, AG Negotiator at UNFCC, DG AGRI, European Commission
-  - Christopher Stewart, Sustainability Director, OLAM - TBC
-  - James Lloyd, Nature4Climate Lead, TNC
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-03 17:30:00
-  title: "Forgotten Solution \u2013 Speed Networking"
-- day: 2018-12-03
-  end: 2018-12-03 19:30:00
-  links: null
-  location: German Pavilion
-  organiser: VENRO/Klima-Allianz Deutschland "Just Transition"
-  participants:
-  - FES
-  - Rosalux
-  - E3G
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-03 19:00:00
-  title: Progress of the day
 - day: 2018-12-04
   end: 2018-12-04 13:30:00
   links: null
@@ -105,12 +19,14 @@
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU) / UNEP DTU Partnership
   participants:
-  - John Christensen, Head, UNEP DTU Partnership
-  - BMU representative (e.g. Jochen Flasbarth, Karsten Sach, Nicole Wilkell) (TBC)
+  - Anne Olhoff, UNEP DTU Partnership (Moderation)
+  - Ilka Wanger, Federal Ministry for the Environment, Nature Conservation and Nuclear
+    Safety (BMU), Germany
+  - John M. Christensen, UNEP DTU Partnership
+  - Michel den Elzen, PBL Netherlands Environmental Assessment Agency
+  - Joeri Rogelj, Imperial College London
+  - "Niklas H\xF6hne, NewClimate Institute"
   - Angel Hsu, Yale University
-  - Gunnar Luderer, PIK Potsdam (TBC)
-  - Joeri Rogelj, Imperial College London (TBC)
-  - Brigitte Knopf, MCC Berlin. (TBC)
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-04 14:00:00
   title: "The Emissions Gap Report 2018 \u2013 the emissions gap and options for bridging\
@@ -250,8 +166,10 @@
   location: German Pavilion
   organiser: "GegenStr\xF6mung \u2013\_CounterCurrent / INFOE e. V."
   participants:
-  - Philipp Knill, Head of Division, Climate Policy, BMZ
   - Mayor Nasry Asfura, City of Tegucigalpa, Honduras & ICLEI Regional Vice President
+  - Frank Fass-Metz, Deputy Director General, Commissioner for Climate Policy and
+    Climate Financing, German Federal Ministry for Economic Cooperation and Development
+    (BMZ)
   - Debra Roberts, Co-Chair IPCC Working Group II on Adaptation
   - Tania Osejo Carrillo, Adaptation Specialist, World Food Programme
   - Anne Hammill, Director, NAP Global Network & IISD
@@ -304,14 +222,18 @@
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ)
   participants:
+  - Christoph Bals, Policy Director, Germanwatch
   - Leonardo Martinez-Diaz, Global Director, Finance Centre, WRI
   - Frank Fass-Metz, Deputy Director General, BMZ
-  - Fabiola Munoz, Minister of Environment, Peru (tbc)
-  - Bernice Van Bronkhorst, Director for Climate Change, World Bank
-  - NN, Development Banks
-  - Christoph Bals, Policy Director, Germanwatch
   - Hanna Fekete, Partner, NewClimate Institute
   - "Andrea Rodr\xEDguez, Climate Finance Expert Fundaci\xF3n Avina"
+  - Stephen A. Hammer, Advisor, Global Partnerships & Strategy, Climate Change, World
+    Bank Group, Washington
+  - Anthony Nyong, Director for Climate Change and Green Growth, African Development
+    Bank
+  - Monica Scatasta, Head of Environment, Climate and Social Policy, European Investment
+    Bank
+  - Lutz Weischer, Team Leader International Climate Policy, Germanwatch
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 17:30:00
   title: 'Aligning finance with the Paris Agreement: The role of multilateral development
@@ -369,9 +291,10 @@
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ)
   participants:
-  - Paul Mafabi, Ministry of Env. & Water, Uganda (by video)
-  - John Matthews, Alliance for Global Water Adaptation (AGWA) (tbc)
+  - John Matthews, Alliance for Global Water Adaptation (AGWA) (Moderation)
+  - Paul Mafabi, Ministry of Water and Environment, Uganda (by video)
   - Arthur Neher, Climate Smart Land Use, Wetlands International
+  - Alfred Okot Okidi, Permanent Secretary, Ministry of Water and Environment, Uganda
   - Francisco Rilla, Ramsar Convention Secretariat, Switzerland
   - Lisa Schindler Murray, Policy Advisor, The Nature Conservancy, US
   source: https://www.bmu.de/en/german-climate-pavilion/events/
@@ -488,8 +411,9 @@
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ) / Transformative
     Urban Mobility Initiative (TUMI) Partner organisations
   participants:
-  - Maria Flachsbarth, Parliamentary Secretary of State, German Federal Ministry for
-    Economic Cooperation and Development (BMZ)
+  - Monika Zimmermann, Senior Adviser, BMZ/GIZ (Moderation)
+  - Maria Flachsbarth, Parliamentary State Secretary to the Federal Minister for Economic
+    Cooperation and Development (BMZ)
   - Solly Msimanga, Executive Mayor, Tshwane Metropolitan Municipality, South Africa
     & Member of the Global Executive Committee of ICLEI
   - Andrea Fernandez, Director Governance, C40
@@ -498,7 +422,6 @@
   - Manuel Araujo, Mayor of Quelimane, Mozambique
   - Tsu-Jui Cheng, Global Coordinator EcoMobility, ICLEI
   - Ramon Cruz, Int. Policy Program Director, ITDP
-  - Monika Zimmermann, Senior Adviser, BMZ/GIZ
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 17:30:00
   title: "Mobility Transition in our Cities: Prioritizing People \u2013Decarbonizing\
@@ -538,9 +461,9 @@
     ICLEI - Local Governments for Sustainability
   participants:
   - Aniruddha Dasgupta, Global Director, World Resources Institute (WRI) Ross Center
-    for Sustainable Cities
-  - Maria Flachsbarth, Parliamentary Secretary of State, German Federal Ministry for
-    Economic Cooperation and Development (BMZ)
+    for Sustainable Cities (Moderation)
+  - Maria Flachsbarth, Parliamentary State Secretary to the Federal Minister for Economic
+    Cooperation and Development (BMZ)
   - Stephany Uy Tan, Mayor, City of Catbalogan, Philippines and ICLEI Vice President
   - Peter Hilliges, Head of Division Climate and Energy, KFW Development Bank, Frankfurt
   - James Alexander, Head of the C40 Cities Finance Facility
@@ -620,16 +543,18 @@
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ), Government
     of Argentinia
   participants:
+  - Emani Kumar, Director ICLEI South Asia & ICLEI Deputy Secretary General (Moderation)
   - Ingrid-Gabriela Hoven, Director-General, Global Issues, BMZ
   - Sergio Bergman, Minister of the Environment and Sustainable Development, Argentina
   - Michael Mullan, Team Leader Climate Change Adaptation, OECD
   - Stephen A. Hammer, Advisor, Climate Change Group, World Bank Group
   - Ottmar Edenhofer, Designated Director, Potsdam Institute for Climate Impact Research
-    (PIK) (tbc)
+    (PIK)
   - Ekhosuehi Iyahen, Secretary General, Insurance Development Forum (IDF)
   - Debra Roberts, Co-Chair IPCC Working Group II on Adaptation
-  - Emani Kumar, Director ICLEI South Asia & ICLEI Deputy Secretary General
   - Almuth Schauber, Urban Pro-Poor Programs, Misereor, Germany
+  - Kaoru Magosaki, Director, Climate Change Division of Ministry of Foreign Affairs
+    (MOFA), Japan, incoming G20 Presidency
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 10:00:00
   title: 'Climate resilient urban infrastructure: The G20 work on adaptation'
@@ -712,11 +637,12 @@
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ) / New
     Climate Economy NCE; German Development Institute (DIE)
   participants:
+  - "Maja G\xF6pel, Secretary General, German Advisory Council on Global Change (WBGU)\
+    \ (Moderation)"
   - "Gerd M\xFCller, German Federal Minister of Economic Cooperation and Development\
     \ (BMZ)"
   - Nicholas Stern, Co-Chair of the Global Commission on the Economy and Climate;
     London School of Economics
-  - "Maja G\xF6pel, Secretary General, German Advisory Council on Global Change (WBGU)"
   - Christiana Figueres , Former Executive Secretary UNFCCC; Vice-Chair of the Global
     Covenant of Mayors for Climate & Energy (tbc)
   - Irina Ghaplanyan, First Deputy Minister for Nature Protection, Armenia
