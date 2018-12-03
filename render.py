@@ -19,6 +19,9 @@ for day in range(2, 15):
             event["first"] = True
             break
 
+for idx, event in enumerate(events):
+    event["idx"] = idx
+
 template = env.from_string(
     """
 <!DOCTYPE html>
@@ -128,7 +131,7 @@ template = env.from_string(
     </section>
     {% for event in events %}
       {% if event["first"] %}<a id="{{ event.day.strftime("%d") }}" class="anchor"></a>{% endif %}
-      <section class="section is-size-6 is-size-7-touch">
+      <section class="section is-size-6 is-size-7-touch" id="event-{{ event["idx"] }}">
       <p class="is-size-5 is-size-6-touch">{{ event.day.strftime('%A, %d %B') }}<br>
       <time datetime="{{ event.start.strftime("%Y-%m-%d %H:%M") }}">{{ event.start.strftime("%H:%M") }}</time> -
       {% if event.end %}
@@ -158,11 +161,18 @@ template = env.from_string(
         {% endfor %}
         </p>
       {% endif %}
+      <a class="clipboard-action button is-primary is-small" data-clipboard-target="#event-{{ event["idx"] }}">Copy to Clipboard</a>
       <hr>
       </section>
     {% endfor %}
   </div>
+  <script src="clipboard.min.js"></script>
   <script>
+    var clipboard = new ClipboardJS('.clipboard-action')
+    clipboard.on('success', function(e) {
+        e.clearSelection();
+    })
+
     var now = new Date()
     var addZero = function(i) {
         if (i < 10) {
