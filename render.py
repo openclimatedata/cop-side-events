@@ -95,11 +95,11 @@ template = env.from_string(
     <ul>
     <li>UNFCCC Side Events
     <li>German Pavilion
+    <li><a href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule">EU Pavilion</a>
     <li>WWF Pavilion
     </ul>
     More Side Events schedules:
     <ul>
-    <li><a href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule">EU Pavilion</a>
     <li><a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/">Polish Pavilion</a>
     <li>...
     </ul>
