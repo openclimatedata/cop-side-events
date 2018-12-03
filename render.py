@@ -95,14 +95,15 @@ template = env.from_string(
     Follow me on Twitter: <a href="https://twitter.com/openclimatedata">@openclimatedata</a>
     </p>
     <p>
-    Tracking Side Events from:
+    Venue Map: <a href="https://unfccc.int/sites/default/files/resource/COP24%20-%20All%20Areas%20-%2016_FINAL.pdf">All - Areas - 16_FINAL.pdf</a><br>
+    <b>Tracking Side Events from:</b>
     <ul>
-    <li>UNFCCC Side Events
-    <li>German Pavilion
+    <li><a href="https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024">UNFCCC Side Events</a>
+    <li><a href="https://www.bmu.de/en/german-climate-pavilion/events/">German Pavilion</a>
     <li><a href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule">EU Pavilion</a>
-    <li>WWF Pavilion
+    <li><a href="https://wwf.panda.org/our_work/climate_and_energy/cop24/">WWF Pavilion</a>
     </ul>
-    More Side Events schedules:
+    <b>More Side Events schedules:</b>
     <ul>
     <li><a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/">Polish Pavilion</a>
     <li><a href="https://cop23.com.fj/cop24/cop24-pacific-koronivia-pavilion/">Pacific and Koronivia Pavilion</a>
