@@ -159,7 +159,7 @@ template = env.from_string(
         }
         return i
     }
-    var nowString = now.getFullYear() + "-" + addZero((now.getMonth()+1)) + '-' + addZero(now.getDate()) + ' ' + addZero(now.getHours()) + ":" + addZero(now.getMinutes())
+    var nowString = now.getFullYear() + "-" + addZero((now.getMonth()+1)) + '-' + addZero(now.getDate()) + ' ' + addZero(now.getHours() - 1) + ":" + addZero(now.getMinutes() - 30)
     var times = document.getElementsByTagName("time")
     var togglePastEvents = function() {
         for (var i = 0; i < times.length; i++) {

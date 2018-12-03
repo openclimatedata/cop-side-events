@@ -67,7 +67,7 @@
   <div class="container">
     <section class="section content">
     <p>
-    Last Update: Mon, 03 Dec 2018 11:27<br>
+    Last Update: Mon, 03 Dec 2018 11:34<br>
     Please always check with the linked original schedule for latest changes.<br>
     Made by <a href="mailto:robert.gieseke@pik-potsdam.de">Robert Gieseke</a><br>
     Source code on <a href="https://github.com/openclimatedata/cop-side-events">GitHub</a><br>
@@ -12894,7 +12894,7 @@ Speakers: ANTÓNIO ARMANDO - JEA GENERAL SECRETARY AND FOCAL POINT</p>
         }
         return i
     }
-    var nowString = now.getFullYear() + "-" + addZero((now.getMonth()+1)) + '-' + addZero(now.getDate()) + ' ' + addZero(now.getHours()) + ":" + addZero(now.getMinutes())
+    var nowString = now.getFullYear() + "-" + addZero((now.getMonth()+1)) + '-' + addZero(now.getDate()) + ' ' + addZero(now.getHours() - 1) + ":" + addZero(now.getMinutes() - 30)
     var times = document.getElementsByTagName("time")
     var togglePastEvents = function() {
         for (var i = 0; i < times.length; i++) {
