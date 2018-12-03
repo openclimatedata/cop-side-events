@@ -77,7 +77,10 @@
   links: null
   location: German Pavilion
   organiser: VENRO/Klima-Allianz Deutschland "Just Transition"
-  participants: null
+  participants:
+  - FES
+  - Rosalux
+  - E3G
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-03 19:00:00
   title: Progress of the day
@@ -133,7 +136,7 @@
   end: 2018-12-04 19:30:00
   links: null
   location: German Pavilion
-  organiser: VENRO/Klima-Allianz Deutschland
+  organiser: VENRO/Klima-Allianz Deutschland "Agriculture and climate change"
   participants: null
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-04 19:00:00
@@ -217,14 +220,15 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-05 17:30:00
   title: Civil society involvement in climate policy
-- day: 2018-12-04
-  end: 2018-12-04 19:30:00
+- day: 2018-12-05
+  end: 2018-12-05 19:30:00
   links: null
   location: German Pavilion
-  organiser: VENRO/Klima-Allianz Deutschland
-  participants: null
+  organiser: VENRO/Klima-Allianz Deutschland "IPCC Special Report 1.5 C"
+  participants:
+  - Germanwatch
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-04 19:00:00
+  start: 2018-12-05 19:00:00
   title: Progress of the day
 - day: &id001 2018-12-06
   end: 2018-12-06 11:30:00
@@ -316,8 +320,10 @@
   end: 2018-12-06 19:30:00
   links: null
   location: German Pavilion
-  organiser: VENRO/Klima-Allianz Deutschland
-  participants: null
+  organiser: VENRO/Klima-Allianz Deutschland "Reflection and Dialogue Space"
+  participants:
+  - IASS
+  - "Jugendb\xFCndnis"
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 19:00:00
   title: Progress of the day
@@ -327,10 +333,15 @@
   location: German Pavilion
   organiser: ICC Germany e. V.
   participants:
+  - "Key Note: Ingrid-Gabriela Hoven, Director-General, Global Issues\u2014Sector\
+    \ Policies and Programmes, Federal Ministry of Economic Cooperation and Development"
   - Katarin Wagner, HSBC Deutschland
   - Tara Nitz, German Chemical Industry Association (VCI)
-  - requested speakers from Federal German Ministry, Development Bank, Environmental
-    NGO
+  - Aki Kachi, Climate Policy Analyst, NewClimate Institute
+  - Kai Remco Fischer, Coordinator Climate Change, UNEP FI
+  - Chris Weber, Global Climate and Energy Lead, WWF (tbc.)
+  - 'Moderation: Julian Schorpp, Director European Energy and Climate Policy, Association
+    of German Chambers of Industry and Commerce'
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 10:00:00
   title: "Climate Finance \u2013 Next steps to foster climate action"
@@ -400,8 +411,10 @@
   end: 2018-12-07 19:30:00
   links: null
   location: German Pavilion
-  organiser: VENRO/Klima-Allianz Deutschland
-  participants: null
+  organiser: VENRO/Klima-Allianz Deutschland "Reflections on the rulebook from a human
+    rights perspective"
+  participants:
+  - Gender CC
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 19:00:00
   title: Progress of the day
@@ -496,10 +509,11 @@
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ) / Transformative
     Urban Mobility Initiative (TUMI) Partner organisations
-  participants: null
+  participants:
+  - Klima-Pilger
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 17:30:00
-  title: VENRO/Klima-Allianz Deutschland
+  title: VENRO/Klima-Allianz Deutschland "Climate - Pilgrimage Bonn - Katowice
 - day: 2018-12-10
   end: 2018-12-10 11:30:00
   links: null
@@ -597,7 +611,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 19:30:00
   title: Public meeting of European young people and members of the BMU and BMZ
-- day: 2018-12-11
+- day: &id003 2018-12-11
   end: 2018-12-11 11:30:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181211_Climate-resilient-urban-infrastructure_10_00.pdf
@@ -619,22 +633,19 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 10:00:00
   title: 'Climate resilient urban infrastructure: The G20 work on adaptation'
-- day: 2018-12-11
-  end: 2018-12-11 13:30:00
+- day: *id003
+  end: 2018-12-11 11:30:00
   links: null
   location: German Pavilion
-  organiser: ICC Germany / BDI / econsense
+  organiser: Federal Ministry for Economic Cooperation and Development (BMZ), Government
+    of Argentinia
   participants:
-  - "Rita Schwarzel\xFChr-Sutter, Parliamentary State Secretary at Ministry for Environment,\
-    \ Nature Conservation and Nuklear Safety"
-  - "Bj\xF6rn Hannappel, Deutsche Post DHL Group"
-  - "Jan Sch\xF6nig, Siemens AG"
-  - Bernhard Schwager, Robert Bosch GmbH
-  - "Dr. Hans-J\xF6rn Weddige, thyssenkrupp AG"
-  - Oliver Wieck, ICC Germany
-  - Speaker from a City, tbc.
+  - "Key Note: Rita Schwarzel\xFChr-Sutter, Parliamentary State Secretary at Ministry\
+    \ for Environment, Nature Conservation and Nuklear Safety"
+  - "Input on Smart Cities by Jan Sch\xF6nig, Director Urban Development & Smart Cities,\
+    \ Siemens AG"
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 12:00:00
+  start: 2018-12-11 10:00:00
   title: "Smart Cities \u2013 How Innovations Accelerate Action in Cities and Regions"
 - day: 2018-12-11
   end: 2018-12-11 14:45:00
@@ -767,7 +778,7 @@
   start: 2018-12-12 15:30:00
   title: 'Industry in Transition: Maintaining high quality jobs and achieving ambitious
     climate targets through an innovative industry'
-- day: &id003 2018-12-12
+- day: &id004 2018-12-12
   end: 2018-12-12 19:00:00
   links: null
   location: German Pavilion
@@ -782,7 +793,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-12 17:30:00
   title: Collaborative climate action
-- day: *id003
+- day: *id004
   end: 2018-12-12 19:00:00
   links: null
   location: German Pavilion
@@ -860,7 +871,7 @@
   start: 2018-12-13 15:30:00
   title: "Climate Change Policy \u201EEnergiewende\u201C and the German approach to\
     \ phase out coal"
-- day: &id004 2018-12-13
+- day: &id005 2018-12-13
   end: 2018-12-13 19:00:00
   links: null
   location: German Pavilion
@@ -875,7 +886,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 17:30:00
   title: Adaptation strategies for agriculture in Central Asia
-- day: *id004
+- day: *id005
   end: 2018-12-13 19:00:00
   links: null
   location: German Pavilion

@@ -16,8 +16,7 @@ ndc-calendar-w1.ics:
 ndc-calendar-w2.ics:
 	wget "http://www.ndcpartnershipcop.org/events/week/2018-12-10/?tribe_event_display=week&tribe-bar-date=2018-12-10&ical=1&tribe_display=week" -O ndc-calendar-w2.ics
 
-
-ndc.yaml: ndc.py ndc-calendar-w1.ics ndc-calendar-w1.ics venv
+ndc.yaml: ndc.py ndc-calendar-w1.ics ndc-calendar-w2.ics venv
 	./venv/bin/python $<
 
 eu.yaml: eu.py schedule-rooms.json venv
