@@ -27,6 +27,7 @@ template = env.from_string(
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>(Unoffical) #COP24 Side Events Tracker</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css">
     <style>
       .container {
@@ -76,9 +77,25 @@ template = env.from_string(
       <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link">More Side Events</a>
         <div class="navbar-dropdown">
+          <a href="https://unfccc.int/climate-action/events/global-climate-action-at-cop24/action-hub-events" class="navbar-item">Climate Action Hub</a>
+          <a href="https://unfccc.int/climate-action/events/global-climate-action-events-at-cop24-full-programme-including-action-hub" class="navbar-item">Global Climate Action Events</a>
+          <a href="https://unfccc.int/climate-action/marrakech-partnership/events/marrakech-partnership-at-cop24" class="navbar-item">Marrakech Partnership</a>
+          <hr class="navbar-divider">
+          <a href="https://www.ccca.ac.at/en/dialog-fields/cop24/" class="navbar-item">Austrian Pavilion</a>
+          <a href="https://www.greenclimate.fund/cop" class="navbar-item">Green Climate Fund Pavilion</a>
+          <a href="http://indonesiaunfccc.com/" class="navbar-item">Indonesian Pavilion</a>
+          <a href="http://www.ndcpartnershipcop.org/events/week/2018-12-03/?tribe_event_display=week&tribe-bar-date=2018-12-03" class="navbar-item">NDC Partnership</a>
+          <a href="http://copjapan.env.go.jp/cop/cop24/en/events/" class="navbar-item">Japanese Pavilion</a>
+          <a href="https://ipcc.ch/apps/outreach/eventinfo.php?q=446" class="navbar-item">IPCC Events</a>
           <a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/" class="navbar-item">Polish Pavilion</a>
           <a href="https://cop23.com.fj/cop24/cop24-pacific-koronivia-pavilion/" class="navbar-item">Pacific and Koronivia Pavilion</a>
-          <a class="navbar-item">...</a>
+          <a href="https://www.worldbank.org/en/events/2018/11/30/mdb-joint-pavilion-at-cop24" class="navbar-item">Multilateral Development Banks Pavilion</a>
+          <hr class="navbar-divider">
+          <a href="http://www.undp.org/content/undp/en/home/events/2018/climate-2020/cop24.html" class="navbar-item">UNDP Events</a>
+          <a href="http://www.oecd.org/environment/cc/cop24/" class="navbar-item">OECD Events</a>
+          <a href="https://www.wri.org/events/2018/12/wri-events-cop24" class="navbar-item">WRI Events</a>
+          <hr class="navbar-divider">
+          <a href="https://unfccc.int/process-and-meetings/conferences/katowice-climate-change-conference-december-2018/events-and-schedules/pavilions-at-cop-24" class="navbar-item">UNFCCC Information</a>
         </div>
       </div>
       <div class="navbar-item has-dropdown is-hoverable">
