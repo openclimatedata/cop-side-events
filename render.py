@@ -105,6 +105,7 @@ template = env.from_string(
     More Side Events schedules:
     <ul>
     <li><a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/">Polish Pavilion</a>
+    <li><a href="https://cop23.com.fj/cop24/cop24-pacific-koronivia-pavilion/">Pacific and Koronivia Pavilion</a>
     <li>...
     </ul>
     </p>
