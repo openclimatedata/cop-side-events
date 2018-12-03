@@ -77,6 +77,7 @@ template = env.from_string(
         <a class="navbar-link">Sources</a>
         <div class="navbar-dropdown">
           <a href="https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024" class="navbar-item">UNFCCC Side Events</a>
+          <a  href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule" class="navbar-item">EU Pavilion</a>
           <a href="https://www.bmu.de/en/german-climate-pavilion/events/" class="navbar-item">German Pavilion</a>
           <a href="https://wwf.panda.org/our_work/climate_and_energy/cop24/" class="navbar-item">WWF Pavilion</a>
         </div>
