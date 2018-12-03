@@ -86,9 +86,23 @@ template = env.from_string(
   </div>
   </nav>
   <div class="container">
-    <section class="section">
+    <section class="section content">
     <p>
     Last Update: {% now 'Europe/Berlin', '%a, %d %b %Y %H:%M' %}
+    </p>
+    <p>
+    Tracking Side Events from:
+    <ul>
+    <li>UNFCCC Side Events
+    <li>German Pavilion
+    <li>WWF Pavilion
+    </ul>
+    More Side Events schedules:
+    <ul>
+    <li><a href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule">EU Pavilion</a>
+    <li><a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/">Polish Pavilion</a>
+    <li>...
+    </ul>
     </p>
     <p>
     <a class="button is-primary" id="togglePastEvents"><span id="show" class="showOrHide is-hidden">Show</span><span id="hide" class="showOrHide">Hide</span>&nbsp;past events</a>
