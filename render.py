@@ -74,6 +74,14 @@ template = env.from_string(
     </div>
     <div class="navbar-end">
       <div class="navbar-item has-dropdown is-hoverable">
+        <a class="navbar-link">More Side Events</a>
+        <div class="navbar-dropdown">
+          <a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/" class="navbar-item">Polish Pavilion</a>
+          <a href="https://cop23.com.fj/cop24/cop24-pacific-koronivia-pavilion/" class="navbar-item">Pacific and Koronivia Pavilion</a>
+          <a class="navbar-item">...</a>
+        </div>
+      </div>
+      <div class="navbar-item has-dropdown is-hoverable">
         <a class="navbar-link">Sources</a>
         <div class="navbar-dropdown">
           <a href="https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024" class="navbar-item">UNFCCC Side Events</a>
@@ -97,19 +105,6 @@ template = env.from_string(
     </p>
     <p>
     Venue Map: <a href="https://unfccc.int/sites/default/files/resource/COP24%20-%20All%20Areas%20-%2016_FINAL.pdf">All - Areas - 16_FINAL.pdf</a><br>
-    <b>Tracking Side Events from:</b>
-    <ul>
-    <li><a href="https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024">UNFCCC Side Events</a>
-    <li><a href="https://www.bmu.de/en/german-climate-pavilion/events/">German Pavilion</a>
-    <li><a href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule">EU Pavilion</a>
-    <li><a href="https://wwf.panda.org/our_work/climate_and_energy/cop24/">WWF Pavilion</a>
-    </ul>
-    <b>More Side Events schedules:</b>
-    <ul>
-    <li><a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/">Polish Pavilion</a>
-    <li><a href="https://cop23.com.fj/cop24/cop24-pacific-koronivia-pavilion/">Pacific and Koronivia Pavilion</a>
-    <li>...
-    </ul>
     </p>
     <p>
     <a class="button is-primary" id="togglePastEvents"><span id="show" class="showOrHide is-hidden">Show</span><span id="hide" class="showOrHide">Hide</span>&nbsp;past events</a>
