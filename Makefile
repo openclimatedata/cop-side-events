@@ -1,14 +1,14 @@
 index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml uk.yaml render.py template.html venv
 	./venv/bin/python render.py
 
-database.js:
-	wget -N http://ec.europa.eu/clima/events/0124/js/database.js
+cache/eu-database.js:
+	wget -N http://ec.europa.eu/clima/events/0124/js/database.js -O cache/eu-database.js
 
-cache/eu-schedule-rooms.json: database.js
-	mv database.js local-database.js
-	sed -i 's/var opDayEvent/\/\/var opDayEvent/' local-database.js
-	cat output.js >> local-database.js
-	node local-database.js
+cache/eu-schedule-rooms.json: cache/eu-database.js
+	mv cache/eu-database.js cache/eu-local-database.js
+	sed -i 's/var opDayEvent/\/\/var opDayEvent/' cache/eu-local-database.js
+	cat eu-write-output.js >> cache/eu-local-database.js
+	node cache/eu-local-database.js
 
 eu.yaml: eu.py cache/eu-schedule-rooms.json venv
 	./venv/bin/python $<
@@ -62,6 +62,6 @@ venv: requirements.txt
 	touch venv
 
 clean:
-	rm -rf index.html *.yaml *.ics cache/*.html cache/*.yaml cache/*.ics
+	rm -rf index.html *.yaml cache/*.*html cache/*.json cache/*.ics cache/*.js
 
 .PHONY: clean
