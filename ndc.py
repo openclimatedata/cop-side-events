@@ -4,7 +4,7 @@ from ics import Calendar
 output = []
 for filename in ["ndc-calendar-w1.ics", "ndc-calendar-w2.ics"]:
 
-    calendar = Calendar(open(filename, "r"))
+    calendar = Calendar(open(f"cache/{filename}", "r"))
 
     events = calendar.events
 
