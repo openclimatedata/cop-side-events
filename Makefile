@@ -1,4 +1,4 @@
-index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml render.py venv
+index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml uk.yaml render.py venv
 	./venv/bin/python render.py
 
 database.js:
@@ -21,6 +21,12 @@ cache/brasil-week-1.html:
 
 cache/brasil-week-2.html:
 	wget http://espacobrasil.gov.br/en/week-2/ -O cache/brasil-week-2.html
+
+cache/uk.html:
+	wget https://www.events.great.gov.uk/ehome/index.php?eventid=200184147 -O cache/uk.html
+
+uk.yaml: uk.py
+	./venv/bin/python $<
 
 brasil.yaml: brasil.py cache/brasil-week-1.html cache/brasil-week-2.html venv
 	./venv/bin/python $<

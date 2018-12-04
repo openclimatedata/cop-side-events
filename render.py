@@ -3,7 +3,7 @@ from jinja2 import Environment
 
 env = Environment(extensions=["jinja2_time.TimeExtension"])
 
-sources = ["german.yaml", "unfccc.yaml", "wwf.yaml", "eu.yaml", "ndc.yaml", "brasil.yaml"]
+sources = ["german.yaml", "unfccc.yaml", "wwf.yaml", "eu.yaml", "ndc.yaml", "brasil.yaml", "uk.yaml"]
 
 events = []
 
@@ -91,7 +91,6 @@ template = env.from_string(
           <a href="http://cop24koreapavilion.com/cop24koreapavilion/COP24_Korea_Pavillion_SideEvent.pdf" class="navbar-item">Korean Pavilion</a>
           <a href="http://cop24.gov.pl/conference/agenda/polish-pavilion/" class="navbar-item">Polish Pavilion</a>
           <a href="https://cop23.com.fj/cop24/cop24-pacific-koronivia-pavilion/" class="navbar-item">Pacific and Koronivia Pavilion</a>
-          <a href="https://www.events.great.gov.uk/ehome/index.php?eventid=200184147" class="navbar-item">UK Pavilion</a>
           <a href="https://www.worldbank.org/en/events/2018/11/30/mdb-joint-pavilion-at-cop24" class="navbar-item">Multilateral Development Banks Pavilion</a>
           <hr class="navbar-divider">
           <a href="http://www.undp.org/content/undp/en/home/events/2018/climate-2020/cop24.html" class="navbar-item">UNDP Events</a>
@@ -110,6 +109,7 @@ template = env.from_string(
           <a  href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule" class="navbar-item">EU Pavilion</a>
           <a href="https://www.bmu.de/en/german-climate-pavilion/events/" class="navbar-item">German Pavilion</a>
           <a href="http://www.ndcpartnershipcop.org/events/week/2018-12-03/" class="navbar-item">NDC Partnership</a>
+          <a href="https://www.events.great.gov.uk/ehome/index.php?eventid=200184147" class="navbar-item">UK Pavilion</a>
           <a href="https://wwf.panda.org/our_work/climate_and_energy/cop24/" class="navbar-item">WWF Pavilion</a>
         </div>
       </div>
