@@ -37,7 +37,10 @@ ndc.yaml: ndc.py ndc-calendar-w1.ics ndc-calendar-w2.ics venv
 eu.yaml: eu.py schedule-rooms.json venv
 	./venv/bin/python $<
 
-german.yaml: german.py venv
+cache/german.html:
+	wget "https://www.bmu.de/en/german-climate-pavilion/events/" -O cache/german.html
+
+german.yaml: german.py cache/german.html venv
 	./venv/bin/python $<
 
 unfccc.yaml: unfccc.py venv

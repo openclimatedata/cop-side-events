@@ -1,18 +1,16 @@
 import pandas as pd
 import yaml
-from requests_html import HTMLSession
+from requests_html import HTML
 
 agenda = []
 
-session = HTMLSession()
-
-url = "https://www.bmu.de/en/german-climate-pavilion/events/"
-r = session.get(url)
+with open("cache/german.html", "r") as f:
+    r = HTML(html=f.read())
 
 dateparse = lambda x: pd.datetime.strptime(x, "%Y %B %d").date()
 timeparse = lambda x: pd.datetime.strptime(x, "%Y-%m-%d %H:%M")
 
-events = r.html.find(".o-body__item.o-body__item--highlight")
+events = r.find(".o-body__item.o-body__item--highlight")
 for event in events:
     print(40 * "=")
     title = event.find("h2", first=True).text
@@ -66,7 +64,7 @@ for event in events:
         "participants": participants,
         "links": links,
         "location": "German Pavilion",
-        "source": url,
+        "source": "https://www.bmu.de/en/german-climate-pavilion/events/",
     }
     agenda.append(info)
 yaml.dump(agenda, open("german.yaml", "w"), default_flow_style=False)
