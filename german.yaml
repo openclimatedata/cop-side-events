@@ -19,7 +19,7 @@
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU) / UNEP DTU Partnership
   participants:
-  - Anne Olhoff, UNEP DTU Partnership (Moderation)
+  - 'Moderator: Anne Olhoff, UNEP DTU Partnership'
   - Ilka Wanger, Federal Ministry for the Environment, Nature Conservation and Nuclear
     Safety (BMU), Germany
   - John M. Christensen, UNEP DTU Partnership
@@ -245,7 +245,7 @@
   organiser: VENRO/Klima-Allianz Deutschland "Reflection and Dialogue Space"
   participants:
   - IASS
-  - "Jugendb\xFCndnis"
+  - "Jugendb\xFCndniss"
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 19:00:00
   title: Progress of the day
@@ -307,13 +307,15 @@
   location: German Pavilion
   organiser: German Trade Union Confederation (DGB)
   participants:
-  - "Stefan K\xF6rzell, Member of the Executive Board of the German Trade Union Confederation\
-    \ (DGB)"
-  - Jochen Flasbarth, State Secretary at the Federal Ministry for the Environment,
-    Nature Conservation and Nuclear Safety
-  - Samantha Smith, Director of the Centre
-  - Montserrat Mir, Confederal Secretary of the European Trade Union Confederation
-    (ETUC)
+  - "Stefan K\xF6rzell, German Trade Union Confederation (DGB)"
+  - Karsten Sach, Federal Ministry for the Environment, Nature Conservation and Nuclear
+    Safety (BMU), Germany
+  - Samantha Smith, Director of the Just Transition Centre
+  - Montserrat Mir, European Trade Union Confederation (ETUC)
+  - Angelika Thomas, IG Metall
+  - Grzegorz Trefon, KADRA
+  - Simona Fabiani, CGIL
+  - Frederik Moch, German Trade Union Confederation (DGB)
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 15:30:00
   title: Innovation through Co-Determination
@@ -526,13 +528,22 @@
   start: 2018-12-10 17:30:00
   title: 'A matter of urgency: How to get transportation on a fast track to decarbonization?'
 - day: 2018-12-10
+  end: 2018-12-10 19:30:00
+  links: null
+  location: German Pavilion
+  organiser: VENRO/Klima-Allianz Deutschland
+  participants: null
+  source: https://www.bmu.de/en/german-climate-pavilion/events/
+  start: 2018-12-10 19:00:00
+  title: Progress of the day
+- day: 2018-12-10
   end: null
   links: null
   location: German Pavilion
-  organiser: European youth for climate action
+  organiser: European Youth for climate action
   participants: null
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-10 19:30:00
+  start: 2018-12-10 19:45:00
   title: Public meeting of European young people and members of the BMU and BMZ
 - day: &id003 2018-12-11
   end: 2018-12-11 11:30:00
