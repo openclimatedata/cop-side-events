@@ -84,6 +84,7 @@ template = env.from_string(
           <a href="https://unfccc.int/climate-action/marrakech-partnership/events/marrakech-partnership-at-cop24" class="navbar-item">Marrakech Partnership</a>
           <hr class="navbar-divider">
           <a href="https://www.ccca.ac.at/en/dialog-fields/cop24/" class="navbar-item">Austrian Pavilion</a>
+          <a href="http://espacobrasil.gov.br/en/brasil-pavilion/" class="navbar-item">Brasilian Pavilion</a>
           <a href="https://www.greenclimate.fund/cop" class="navbar-item">Green Climate Fund Pavilion</a>
           <a href="http://indonesiaunfccc.com/" class="navbar-item">Indonesian Pavilion</a>
           <a href="http://copjapan.env.go.jp/cop/cop24/en/events/" class="navbar-item">Japanese Pavilion</a>
