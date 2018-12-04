@@ -1,4 +1,4 @@
-index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml render.py venv
+index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml render.py venv
 	./venv/bin/python render.py
 
 database.js:
@@ -15,6 +15,15 @@ ndc-calendar-w1.ics:
 
 ndc-calendar-w2.ics:
 	wget "http://www.ndcpartnershipcop.org/events/week/2018-12-10/?tribe_event_display=week&tribe-bar-date=2018-12-10&ical=1&tribe_display=week" -O ndc-calendar-w2.ics
+
+cache/brasil-week-1.html:
+	wget http://espacobrasil.gov.br/en/week-1/ -O cache/brasil-week-1.html
+
+cache/brasil-week-2.html:
+	wget http://espacobrasil.gov.br/en/week-2/ -O cache/brasil-week-2.html
+
+brasil.yaml: brasil.py cache/brasil-week-1.html cache/brasil-week-2.html venv
+	./venv/bin/python $<
 
 ndc.yaml: ndc.py ndc-calendar-w1.ics ndc-calendar-w2.ics venv
 	./venv/bin/python $<
@@ -38,6 +47,6 @@ venv: requirements.txt
 	touch venv
 
 clean:
-	rm -rf index.html *.yaml *.ics
+	rm -rf index.html *.yaml *.ics cache/*.html cache/*.yaml cache/*.ics
 
 .PHONY: clean

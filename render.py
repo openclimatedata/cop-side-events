@@ -3,7 +3,7 @@ from jinja2 import Environment
 
 env = Environment(extensions=["jinja2_time.TimeExtension"])
 
-sources = ["german.yaml", "unfccc.yaml", "wwf.yaml", "eu.yaml", "ndc.yaml"]
+sources = ["german.yaml", "unfccc.yaml", "wwf.yaml", "eu.yaml", "ndc.yaml", "brasil.yaml"]
 
 events = []
 
@@ -84,7 +84,6 @@ template = env.from_string(
           <a href="https://unfccc.int/climate-action/marrakech-partnership/events/marrakech-partnership-at-cop24" class="navbar-item">Marrakech Partnership</a>
           <hr class="navbar-divider">
           <a href="https://www.ccca.ac.at/en/dialog-fields/cop24/" class="navbar-item">Austrian Pavilion</a>
-          <a href="http://espacobrasil.gov.br/en/brasil-pavilion/" class="navbar-item">Brasilian Pavilion</a>
           <a href="https://www.greenclimate.fund/cop" class="navbar-item">Green Climate Fund Pavilion</a>
           <a href="http://indonesiaunfccc.com/" class="navbar-item">Indonesian Pavilion</a>
           <a href="https://ipcc.ch/apps/outreach/eventinfo.php?q=446" class="navbar-item">IPCC Events</a>
@@ -106,6 +105,8 @@ template = env.from_string(
         <a class="navbar-link">Sources</a>
         <div class="navbar-dropdown">
           <a href="https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024" class="navbar-item">UNFCCC Side Events</a>
+          <a href="http://espacobrasil.gov.br/en/brasil-pavilion/" class="navbar-item">Brasilian Pavilion</a>
+
           <a  href="http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule" class="navbar-item">EU Pavilion</a>
           <a href="https://www.bmu.de/en/german-climate-pavilion/events/" class="navbar-item">German Pavilion</a>
           <a href="http://www.ndcpartnershipcop.org/events/week/2018-12-03/" class="navbar-item">NDC Partnership</a>

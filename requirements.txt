@@ -3,3 +3,4 @@ pandas
 jinja2-time
 pyyaml
 ics
+html5lib

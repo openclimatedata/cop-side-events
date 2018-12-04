@@ -1,0 +1,303 @@
+- day: &id001 2018-12-04
+  end: 2018-12-04 12:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-04 11:30:00
+  title: Federal environmental control in the fight against deforestation in the Amazon  IBAMA
+- day: *id001
+  end: 2018-12-04 15:30:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-04 14:00:00
+  title: Brazil-Germany technical cooperation in the protection of tropical forests
+    SFB + GIZ
+- day: *id001
+  end: 2018-12-04 17:20:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-04 15:50:00
+  title: "Monitoring vegetation cover \u2013 international technical cooperation and\
+    \ technology transfer  SFB + GIZ + KFW + BIRD"
+- day: *id001
+  end: 2018-12-04 19:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-04 17:40:00
+  title: "Launch of the Global Network \u201CSustainable water and energy solutions\u201D\
+    \ ITAIPU + UNDESA"
+- day: &id002 2018-12-05
+  end: 2018-12-05 11:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-05 10:00:00
+  title: GHG Protocol as a tool to manage GHG emissions from agriculture and forestry
+    sectors in Brazil WRI
+- day: *id002
+  end: 2018-12-05 15:30:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-05 14:00:00
+  title: 'Investing in nature: guaranteed return FGB + OC + IPAM'
+- day: *id002
+  end: 2018-12-05 17:20:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-05 15:50:00
+  title: Adaptation to climate change in the Brazilian semi-arid region  MMA + WRI
+- day: *id002
+  end: 2018-12-05 19:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-05 17:40:00
+  title: 'Under pressure: adapting to climate change in ocean and coastal zones under
+    1.5oC of global warming FOA + MPGCA-UNFCCC + EIB + IPCC + MMA + MIRNA + MAA +
+    GOV-MV'
+- day: &id003 2018-12-06
+  end: 2018-12-06 11:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-06 10:00:00
+  title: "Tomorrow has come \u2013 the drama of Brazilians impacted by climate change\
+    \ GREENPEACE + ENGAJAMUNDO + APIB + ALANA + CONECTAS + ARTICLE 19 + ISA"
+- day: *id003
+  end: 2018-12-06 12:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-06 11:30:00
+  title: Knowledge, perceptions and collaborations of indigenous women in the Amazon
+    in relation to the environment and climate change RCA + ISA + RFN
+- day: *id003
+  end: 2018-12-06 15:30:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-06 14:00:00
+  title: 'From global to national: the Brazilian experience for the Platform of Local
+    Communities and Indigenous Peoples CTMC-CG-PNGATI + FUNAI + APIB + IPAM + RCA'
+- day: *id003
+  end: 2018-12-06 17:20:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-06 15:50:00
+  title: Integrated Fire Management in traditional communities PREVFOGO\IBAMA
+- day: *id003
+  end: 2018-12-06 19:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-06 17:40:00
+  title: 'Rural Environmental Registry in territories of traditional peoples and communities:
+    contribution to the climate balance  SFB + GIZ + BIRD + CNPCT'
+- day: &id004 2018-12-07
+  end: 2018-12-07 11:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-07 10:00:00
+  title: "\u201CCerrado\u201D \u2013 the next climate solutions comes from Brazilian\
+    \ Savannah IPAM + IMAFLORA + MMA + ISPN"
+- day: *id004
+  end: 2018-12-07 12:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-07 11:30:00
+  title: 'Experiences with national and subnational climate laws: enhancing ambition
+    PUC-RJ + IASS + USP + GRI-LSE + EI + CL + GOV-THURINGIA'
+- day: *id004
+  end: 2018-12-07 15:30:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-07 14:00:00
+  title: 'Biodiversity Environmental Power: an innovative path for Brazil PBMC-COPPE-UFRJ
+    + BPBES + FGB +FBDS'
+- day: *id004
+  end: 2018-12-07 17:20:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-07 15:50:00
+  title: "Promoting science-based\_climate policy UFMG + IPCC + NICFI (tbc) + CIT"
+- day: *id004
+  end: 2018-12-07 19:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-07 17:40:00
+  title: "Partnerships for \u2013 SDG 17: Brazilian experiences for mitigation of\
+    \ the effects of climate change  SGA-USP + CPGC-BR/LATIN AM."
+- day: &id005 2018-12-10
+  end: 2018-12-10 11:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-10 10:00:00
+  title: Climate change in Brazil and in the world and toxic waste reduction policy
+    CMMC + CMADS + FPAmb
+- day: *id005
+  end: 2018-12-10 12:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-10 11:30:00
+  title: Financing initiatives for large-scale forest restoration in Brazil MMA +
+    IBAMA + PETROBRAS + BNDES + CEF
+- day: *id005
+  end: 2018-12-10 13:50:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-10 13:00:00
+  title: "Implementing Brazil\u2019s NDC and SDG #13 in the industry MDIC + CNI +\
+    \ ABIQUIM + FPQ"
+- day: *id005
+  end: 2018-12-10 15:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-10 14:00:00
+  title: Valuation and exchange of environmental assets UNICA + MRE + CBI + CARB +
+    UBRABIO
+- day: *id005
+  end: 2018-12-10 16:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-10 15:30:00
+  title: Innovative tools to decarbonize transportation  SFB + KFW + GIZ + BIRD +
+    SEMA-AP + SEAMA-ES
+- day: *id005
+  end: 2018-12-10 18:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-10 17:00:00
+  title: The Sustainable Development Goals (SDG) in the Brazilian business agenda
+    APEX + UNOSSC + UNGC + MRE GCN-ID/KE/BR + VOTORANTIM
+- day: *id005
+  end: 2018-12-10 19:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-10 18:30:00
+  title: "Brazil\u2019s Long-Term Strategy (LTS) for 2050 FBMC + WRI + CEBDS +\_Escolhas"
+- day: &id006 2018-12-11
+  end: 2018-12-11 11:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-11 10:00:00
+  title: 'Brazil-Peru: experiences exchange in management of protected areas and climate
+    financing FAS + SEMA-AM + MINAM + ANECAP'
+- day: *id006
+  end: 2018-12-11 12:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-11 11:30:00
+  title: 'Results based payments for REDD+: challenges and opportunities for Brazil
+    MMA + BNDES + GOV-NO/DE + GOV-AC/MT'
+- day: *id006
+  end: 2018-12-11 13:50:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-11 13:00:00
+  title: The Consolidation of Sustainable Agriculture in Brazil MAPA + EMBRAPA + CNA
+    + REDE ILPF
+- day: *id006
+  end: 2018-12-11 15:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-11 14:00:00
+  title: 'Political instruments to boost forest restoration: the cases of Brazil,
+    China and India MMA + MEE + MoEF'
+- day: *id006
+  end: 2018-12-11 16:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-11 15:30:00
+  title: 'Institutional Governance and NDC: National Register of Public Forests, Forest
+    Inventory and forest concessions SFB + BIRD + BID + GIZ + KFW + BNDES + FAO'
+- day: *id006
+  end: 2018-12-11 18:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-11 17:00:00
+  title: "Forest governance: management of legal and illegal deforestation and implications\
+    \ for Brazilian agriculture SRB + COALIZ\xC3O + CAN + FGVces"
+- day: *id006
+  end: 2018-12-11 19:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-11 18:30:00
+  title: Transparency and data use for sustainable rural commodities OCF + ICV + IPAM
+    + BVRio + IBAMA + LAGESA-UFMG
+- day: &id007 2018-12-12
+  end: 2018-12-12 11:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-12 10:00:00
+  title: "The importance and role of the land use agenda for the Brazilian development\
+    \ COALIZ\xC3O + SRB + IPAM + WRI + CEBDS + IDS + WWF + SOLIDARIDAD"
+- day: *id007
+  end: 2018-12-12 12:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-12 11:30:00
+  title: 'Connecting markets and territories: the role of the value chain and jurisdictional
+    initiatives to promote sustainable business PCI + TFA + GTPS + RTRS + EDF + IPAM
+    + ICV + IDH'
+- day: *id007
+  end: 2018-12-12 13:50:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-12 13:00:00
+  title: 'Adaptation to Climate Change: collective action to increase resilience in
+    Brazil MDIC + IEC + CEBDS + FGVces + ETHOS + UNGC + GCN-BR + CDP'
+- day: *id007
+  end: 2018-12-12 15:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-12 14:00:00
+  title: 'Delivering on NDCs from Paris on: contributions from farmers to the climate
+    agenda SENAR-CNA + GPS + WFO + NACSAA + FFNZ'
+- day: *id007
+  end: 2018-12-12 16:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-12 15:30:00
+  title: Financial disclosures related to climate change taskforce CEBDS + BLOOMBERG
+    + BIRD + FGVces
+- day: *id007
+  end: 2018-12-12 18:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-12 17:00:00
+  title: "A Perspective of the Brazilian Agribusiness Sector on the New Brazilian\
+    \ Government and its Sustainability Agenda SRB + SLC AGR\xCDCOLA + AMAGGI"
+- day: *id007
+  end: 2018-12-12 19:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-12 18:30:00
+  title: 'Launch of the FIP-Landscape Project: integrated landscape management in
+    the rural environment SFB + BIRD + MAPA + GIZ + SENAR + EMBRAPA + INPE'
+- day: &id008 2018-12-13
+  end: 2018-12-13 11:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-13 10:00:00
+  title: 'Proposal for carbon pricing in Brazil: challenges and opportunities CEBDS
+    + UNGC + CDP + FGVces + ICS + WMB'
+- day: *id008
+  end: 2018-12-13 12:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-13 11:30:00
+  title: The private sector in the leadership of voluntary movements to reduce climate
+    risks in Brazil MDIC + IEC + BRASKEN + ITAIPU + MMA
+- day: *id008
+  end: 2018-12-13 15:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-13 14:00:00
+  title: 'Talanoa Dialogue: the Brazilian experience CEBDS + MMA + MRE + OC + MVOTMA'
+- day: *id008
+  end: 2018-12-13 18:10:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-13 17:00:00
+  title: "Business strategies and business solutions in the climate agenda: how to\
+    \ attract investments CEBDS + WBCSD + ABEE\xF3lica + ABSOLAR"
+- day: *id008
+  end: 2018-12-13 19:40:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-13 18:30:00
+  title: Contributions and initiatives of the Brazilian private sector under the climate
+    change agenda CEBDS + WBCSD + VOTORANTIM
