@@ -44,7 +44,6 @@ for key in schedule.keys():
         ]
         print(orgs)
         events.append({
-            "day": dateparse(f"2018-{date}"),
             "start": timeparse(f"2018-{date} {event['hourStart']}"),
             "end": timeparse(f"2018-{date} {event['hourEnd']}"),
             "title": event["title"],

@@ -17,7 +17,7 @@ events = sorted(events, key=lambda k: (k["start"], k["location"]))
 
 for day in range(2, 15):
     for event in events:
-        if event["day"].day == day:
+        if event["start"].day == day:
             event["first"] = True
             break
 

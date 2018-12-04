@@ -45,7 +45,6 @@ for item in table.iterrows():
         else:
             organiser = item[1].Organisation.replace("####", '<br>')
         events.append({
-            "day": start.date(),
             "start": start,
             "end": end,
             "title": title,

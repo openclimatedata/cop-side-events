@@ -38,7 +38,6 @@ for col in columns:
         print(40 * "=")
 
         item = {
-            "day": day,
             "start": start,
             "end": end,
             "title": title,

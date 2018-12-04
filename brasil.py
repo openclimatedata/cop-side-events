@@ -29,7 +29,6 @@ for day in week1.columns:
         title = week1.loc[time, day]
         if not pd.isnull(title):
             events.append({
-                "day": date,
                 "start": start,
                 "end": end,
                 "title": title,

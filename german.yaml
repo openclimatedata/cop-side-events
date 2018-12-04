@@ -1,68 +1,4 @@
-- day: 2018-12-04
-  end: 2018-12-04 13:30:00
-  links: null
-  location: German Pavilion
-  organiser: "Federal Ministry for the Environment, Nature Conversation and Nuclear\
-    \ Safety (BMU) / 2\xB0 Investing Initiative"
-  participants:
-  - "Moderator: Norbert Gori\xDFen, Federal Ministry for the Environment, Nature Conservation\
-    \ and Nuclear Safety (BMU), Germany"
-  - "Klaus Hagedorn, Project Manager & Analyst, 2\xB0 Investing Initiative"
-  - Simon Connell, Head Sustainability Strategy, Standard Chartered
-  - Leon Wijnands, Global Head of Sustainability, ING
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-04 12:00:00
-  title: "Shifting financial flows \u2013 How to align bank portfolios with the Paris\
-    \ goals"
-- day: 2018-12-04
-  end: 2018-12-04 14:45:00
-  links: null
-  location: German Pavilion
-  organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
-    Safety (BMU) / UNEP DTU Partnership
-  participants:
-  - 'Moderator: Anne Olhoff, UNEP DTU Partnership'
-  - Ilka Wanger, Federal Ministry for the Environment, Nature Conservation and Nuclear
-    Safety (BMU), Germany
-  - John M. Christensen, UNEP DTU Partnership
-  - Michel den Elzen, PBL Netherlands Environmental Assessment Agency
-  - Joeri Rogelj, Imperial College London
-  - "Niklas H\xF6hne, NewClimate Institute"
-  - Angel Hsu, Yale University
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-04 14:00:00
-  title: "The Emissions Gap Report 2018 \u2013 the emissions gap and options for bridging\
-    \ it"
-- day: 2018-12-04
-  end: 2018-12-04 17:00:00
-  links: null
-  location: German Pavilion
-  organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
-    Safety (BMU)
-  participants:
-  - 'Moderator: Karsten Sach, Federal Ministry for the Environment, Nature Conservation
-    and Nuclear Safety (BMU), Germany'
-  - Simon Buckle, OECD
-  - N.N., International Institute for Sustainable Development (IISD)
-  - Hiroshi Ono, DG Ministry of Environment JPN
-  - Patricia Fuller, Climate Change Ambassador CAN
-  - Ousmane Fall Sarr, Coordinator of the West African Alliance on Carbon Markets,
-    Climate Finance
-  - Juan Carlos Arredondo, DG Ministry of Environment MEX
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-04 15:30:00
-  title: 'Reaping the Benefits of Coordination: Regional Approaches to Carbon Pricing'
-- day: 2018-12-04
-  end: 2018-12-04 19:30:00
-  links: null
-  location: German Pavilion
-  organiser: VENRO/Klima-Allianz Deutschland "Agriculture and climate change"
-  participants: null
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-04 19:00:00
-  title: Progress of the day
-- day: 2018-12-05
-  end: 2018-12-05 13:30:00
+- end: 2018-12-05 13:30:00
   links: null
   location: German Pavilion
   organiser: Germanwatch
@@ -77,8 +13,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-05 12:00:00
   title: Exploring the role of the AF based on ongoing discussions on the Fund's
-- day: 2018-12-05
-  end: 2018-12-05 14:45:00
+- end: 2018-12-05 14:45:00
   links: null
   location: German Pavilion
   organiser: "Climate Transparency \u2013 HUMBOLDT-VIADRINA Governance Platform gGmbH/Germanwatch\
@@ -99,8 +34,7 @@
   start: 2018-12-05 14:00:00
   title: "Who are the G20 climate leaders and laggards? \u2013 Raising ambition through\
     \ country comparisons"
-- day: 2018-12-05
-  end: 2018-12-05 17:00:00
+- end: 2018-12-05 17:00:00
   links: null
   location: German Pavilion
   organiser: Youth Alliance for Future Energies
@@ -112,8 +46,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-05 15:30:00
   title: Beyond economic growth
-- day: 2018-12-05
-  end: 2018-12-05 19:00:00
+- end: 2018-12-05 19:00:00
   links: null
   location: German Pavilion
   organiser: BUND/ Friends of the Earth Germany
@@ -130,8 +63,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-05 17:30:00
   title: Civil society involvement in climate policy
-- day: 2018-12-05
-  end: 2018-12-05 19:30:00
+- end: 2018-12-05 19:30:00
   links: null
   location: German Pavilion
   organiser: VENRO/Klima-Allianz Deutschland "IPCC Special Report 1.5 C"
@@ -140,8 +72,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-05 19:00:00
   title: Progress of the day
-- day: &id001 2018-12-06
-  end: 2018-12-06 11:30:00
+- end: 2018-12-06 11:30:00
   links: null
   location: German Pavilion
   organiser: "GegenStr\xF6mung \u2013\_CounterCurrent / INFOE e. V."
@@ -153,8 +84,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 10:00:00
   title: "Hydropower \u2013 A Debate on its Sustainability and Climate-Friendliness"
-- day: *id001
-  end: 2018-12-06 11:30:00
+- end: 2018-12-06 11:30:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181206_Climate-resilient-development_12_00.pdf
     text: Event information
@@ -176,8 +106,7 @@
   start: 2018-12-06 10:00:00
   title: 'Climate resilient development: Comprehensive climate risk management strategies
     to secure livelihoods for all'
-- day: 2018-12-06
-  end: 2018-12-06 14:45:00
+- end: 2018-12-06 14:45:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry of Education and Research (BMBF) / German Aerospace
@@ -194,8 +123,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 14:00:00
   title: Towards new greenhouse gas monitoring systems
-- day: 2018-12-06
-  end: 2018-12-06 17:00:00
+- end: 2018-12-06 17:00:00
   links: null
   location: German Pavilion
   organiser: UN Environment, Global Peatlands Initiative / Greifswald Mire Centre
@@ -212,8 +140,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 15:30:00
   title: 'The trace of haze: Peat fires as local and global challenges'
-- day: 2018-12-06
-  end: 2018-12-06 19:00:00
+- end: 2018-12-06 19:00:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181206_Aligning-finance-with-the-Paris-Agreement_17_30.pdf
     text: Event information
@@ -236,8 +163,7 @@
   start: 2018-12-06 17:30:00
   title: 'Aligning finance with the Paris Agreement: The role of multilateral development
     banks'
-- day: 2018-12-06
-  end: 2018-12-06 19:30:00
+- end: 2018-12-06 19:30:00
   links: null
   location: German Pavilion
   organiser: VENRO/Klima-Allianz Deutschland "Reflection and Dialogue Space"
@@ -247,8 +173,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 19:00:00
   title: Progress of the day
-- day: 2018-12-07
-  end: 2018-12-07 11:30:00
+- end: 2018-12-07 11:30:00
   links: null
   location: German Pavilion
   organiser: ICC Germany e. V.
@@ -265,8 +190,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 10:00:00
   title: "Climate Finance \u2013 Next steps to foster climate action"
-- day: 2018-12-07
-  end: 2018-12-07 13:30:00
+- end: 2018-12-07 13:30:00
   links: null
   location: German Pavilion
   organiser: Secretariat of NDC Support Cluster, GIZ (Support Program for the Implementation
@@ -282,8 +206,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 12:00:00
   title: "Driving NDC Implementation \u2013 the Role of Global Initiatives and Networks"
-- day: 2018-12-07
-  end: 2018-12-07 14:45:00
+- end: 2018-12-07 14:45:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181207_Getting-to-the-Point_14_00.pdf
     text: Event information
@@ -300,8 +223,7 @@
   start: 2018-12-07 14:00:00
   title: 'Getting to the Point: The relevance of wetland ecosystems for increasing
     NDC ambition'
-- day: 2018-12-07
-  end: 2018-12-07 17:00:00
+- end: 2018-12-07 17:00:00
   links: null
   location: German Pavilion
   organiser: German Trade Union Confederation (DGB)
@@ -318,8 +240,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 15:30:00
   title: Innovation through Co-Determination
-- day: 2018-12-07
-  end: 2018-12-07 19:00:00
+- end: 2018-12-07 19:00:00
   links: null
   location: German Pavilion
   organiser: MISEREOR
@@ -331,8 +252,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 17:30:00
   title: Human-rights Based Implementation of Climate Policies in Urban Areas
-- day: 2018-12-07
-  end: 2018-12-07 19:30:00
+- end: 2018-12-07 19:30:00
   links: null
   location: German Pavilion
   organiser: VENRO/Klima-Allianz Deutschland "Reflections on the rulebook from a human
@@ -342,8 +262,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 19:00:00
   title: Progress of the day
-- day: 2018-12-08
-  end: 2018-12-08 11:30:00
+- end: 2018-12-08 11:30:00
   links: null
   location: German Pavilion
   organiser: Friedrich-Ebert-Stiftung / Bread for the World
@@ -359,8 +278,7 @@
   start: 2018-12-08 10:00:00
   title: Ensuring a Just Transition Worldwide - Requirements for a Just Transition
     to a 1.5 World
-- day: 2018-12-08
-  end: 2018-12-08 13:30:00
+- end: 2018-12-08 13:30:00
   links: null
   location: German Pavilion
   organiser: CARE / Germanwatch / PACJA
@@ -375,8 +293,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 12:00:00
   title: 'Green Climate Fund at a crossroads: myths and realities'
-- day: 2018-12-08
-  end: 2018-12-08 14:45:00
+- end: 2018-12-08 14:45:00
   links: null
   location: German Pavilion
   organiser: New Climate Institute
@@ -389,8 +306,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 14:00:00
   title: Long term scenarios for the energy sector in Argentina and South Africa
-- day: 2018-12-08
-  end: 2018-12-08 17:00:00
+- end: 2018-12-08 17:00:00
   links: null
   location: German Pavilion
   organiser: "ICLEI - Local Governments for Sustainability / Deutscher St\xE4dtetag"
@@ -406,8 +322,7 @@
   start: 2018-12-08 15:30:00
   title: 'How can we achieve a just transition? Away from coal: Future-proofing the
     energy shift in cities and regions'
-- day: &id002 2018-12-08
-  end: 2018-12-08 19:00:00
+- end: 2018-12-08 19:00:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181208_Mobility-transition-in-our-cities_17_30.pdf
     text: Event information
@@ -430,8 +345,7 @@
   start: 2018-12-08 17:30:00
   title: "Mobility Transition in our Cities: Prioritizing People \u2013Decarbonizing\
     \ Transport"
-- day: *id002
-  end: 2018-12-08 19:00:00
+- end: 2018-12-08 19:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ) / Transformative
@@ -441,8 +355,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 17:30:00
   title: VENRO/Klima-Allianz Deutschland "Climate - Pilgrimage Bonn - Katowice
-- day: 2018-12-10
-  end: 2018-12-10 11:30:00
+- end: 2018-12-10 11:30:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for Economic Affairs and Energy (BMWi)
@@ -455,8 +368,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 10:00:00
   title: Enabling International Best Practice Exchange in the Energy Sector
-- day: 2018-12-10
-  end: 2018-12-10 13:30:00
+- end: 2018-12-10 13:30:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181210_Local-Climate-Finance_12_00.pdf
     text: Event information
@@ -478,8 +390,7 @@
   start: 2018-12-10 12:00:00
   title: "Local Climate Finance: More, easier and faster\u2013 how climate finance\
     \ reaches the sub-national level"
-- day: 2018-12-10
-  end: 2018-12-10 14:45:00
+- end: 2018-12-10 14:45:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry of Education and Research (BMBF) / DLR Project Management
@@ -494,8 +405,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 14:00:00
   title: "Emerging Science on 1.5\xB0C: Mitigation Pathways to Paris"
-- day: 2018-12-10
-  end: 2018-12-10 17:00:00
+- end: 2018-12-10 17:00:00
   links: null
   location: German Pavilion
   organiser: German Association of Cities / ICLEI - Local Governments for Sustainability
@@ -513,8 +423,7 @@
   start: 2018-12-10 15:30:00
   title: 'SDG indicators for cities: an inspiration to raise ambitions of locally
     determined contributions'
-- day: 2018-12-10
-  end: 2018-12-10 19:00:00
+- end: 2018-12-10 19:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
@@ -531,8 +440,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 17:30:00
   title: 'A matter of urgency: How to get transportation on a fast track to decarbonization?'
-- day: 2018-12-10
-  end: 2018-12-10 19:30:00
+- end: 2018-12-10 19:30:00
   links: null
   location: German Pavilion
   organiser: VENRO/Klima-Allianz Deutschland
@@ -540,8 +448,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 19:00:00
   title: Progress of the day
-- day: 2018-12-10
-  end: null
+- end: null
   links: null
   location: German Pavilion
   organiser: European Youth for climate action
@@ -549,8 +456,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 19:45:00
   title: Public meeting of European young people and members of the BMU and BMZ
-- day: &id003 2018-12-11
-  end: 2018-12-11 11:30:00
+- end: 2018-12-11 11:30:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181211_Climate-resilient-urban-infrastructure_10_00.pdf
     text: Event information
@@ -573,8 +479,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 10:00:00
   title: 'Climate resilient urban infrastructure: The G20 work on adaptation'
-- day: *id003
-  end: 2018-12-11 11:30:00
+- end: 2018-12-11 11:30:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ), Government
@@ -587,8 +492,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 10:00:00
   title: "Smart Cities \u2013 How Innovations Accelerate Action in Cities and Regions"
-- day: 2018-12-11
-  end: 2018-12-11 14:45:00
+- end: 2018-12-11 14:45:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181211_Green-peoples-energy-for-Africa_14_00.pdf
     text: Event information
@@ -605,8 +509,7 @@
   start: 2018-12-11 14:00:00
   title: "Green People\u2019s Energy for Africa: Empowering people to generate their\
     \ own renewable energies"
-- day: 2018-12-11
-  end: 2018-12-11 17:00:00
+- end: 2018-12-11 17:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for Economic Affairs and Energy (BMWi) and IEA (International
@@ -617,8 +520,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 15:30:00
   title: Energy Transition as a Sectoral Contribution to climate action
-- day: 2018-12-11
-  end: 2018-12-11 19:00:00
+- end: 2018-12-11 19:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
@@ -634,8 +536,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 17:30:00
   title: Pick up pace with innovation for more ambitious NDCs
-- day: &id004 2018-12-11
-  end: 2018-12-11 19:30:00
+- end: 2018-12-11 19:30:00
   links: null
   location: German Pavilion
   organiser: VENRO/ World Vision
@@ -645,8 +546,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 19:00:00
   title: Rapid, Low Cost, Scalable reforestation to combat climate change
-- day: *id004
-  end: 2018-12-11 19:30:00
+- end: 2018-12-11 19:30:00
   links: null
   location: German Pavilion
   organiser: VENRO/ World Vision
@@ -654,8 +554,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 19:00:00
   title: Evening reception with NGOs and German Federal Government
-- day: 2018-12-12
-  end: 2018-12-12 11:30:00
+- end: 2018-12-12 11:30:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181212_Pursuing-1-5-degrees_10_00.pdf
     text: Event information
@@ -680,8 +579,7 @@
   start: 2018-12-12 10:00:00
   title: 'Pursuing 1.5 degrees: Opening up new opportunities for economy & development,
     implementing the SDGs'
-- day: 2018-12-12
-  end: 2018-12-12 13:30:00
+- end: 2018-12-12 13:30:00
   links: null
   location: German Pavilion
   organiser: 'Cities Matter: Capacity building for transformative climate action in
@@ -695,8 +593,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-12 12:00:00
   title: C40 Climate Leadership Group
-- day: 2018-12-12
-  end: 2018-12-12 14:45:00
+- end: 2018-12-12 14:45:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry of Education and Research (BMBF) / DLR Project Management
@@ -713,8 +610,7 @@
   start: 2018-12-12 14:00:00
   title: "Emerging Science on 1.5\xB0C: The Impacts between 1.5\xB0C and 2\xB0C and\
     \ the risk of tipping points"
-- day: 2018-12-12
-  end: 2018-12-12 17:00:00
+- end: 2018-12-12 17:00:00
   links: null
   location: German Pavilion
   organiser: German Chemical Industry Association (VCI)
@@ -730,8 +626,7 @@
   start: 2018-12-12 15:30:00
   title: 'Industry in Transition: Maintaining high quality jobs and achieving ambitious
     climate targets through an innovative industry'
-- day: &id005 2018-12-12
-  end: 2018-12-12 19:00:00
+- end: 2018-12-12 19:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
@@ -746,8 +641,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-12 17:30:00
   title: Collaborative climate action
-- day: *id005
-  end: 2018-12-12 19:00:00
+- end: 2018-12-12 19:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
@@ -756,8 +650,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-12 17:30:00
   title: BDI/ICC
-- day: 2018-12-13
-  end: 2018-12-13 11:15:00
+- end: 2018-12-13 11:15:00
   links: null
   location: German Pavilion
   organiser: "Brot f\xFCr die Welt/ Bread for the World / Rosa-Luxemburg-Stiftung\
@@ -771,8 +664,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 10:00:00
   title: Do we need a Loss and Damage Fund?
-- day: 2018-12-13
-  end: 2018-12-13 12:45:00
+- end: 2018-12-13 12:45:00
   links: null
   location: German Pavilion
   organiser: ICCA - International Council of Chemical Associations / ISC3 - International
@@ -790,8 +682,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 11:30:00
   title: Finding the right chemistry for ghg-neutrality
-- day: 2018-12-13
-  end: 2018-12-13 13:45:00
+- end: 2018-12-13 13:45:00
   links: null
   location: German Pavilion
   organiser: Climate Alliance Germany
@@ -802,8 +693,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 13:00:00
   title: "Coal phase out in Germany \u2013 Outcomes of the German commission on Coal"
-- day: 2018-12-13
-  end: 2018-12-13 14:45:00
+- end: 2018-12-13 14:45:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
@@ -820,8 +710,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 14:00:00
   title: Natural Resources, Climate and Biodiversity
-- day: 2018-12-13
-  end: 2018-12-13 17:00:00
+- end: 2018-12-13 17:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
@@ -831,8 +720,7 @@
   start: 2018-12-13 15:30:00
   title: "Climate Change Policy \u201EEnergiewende\u201C and the German approach to\
     \ phase out coal"
-- day: &id006 2018-12-13
-  end: 2018-12-13 19:00:00
+- end: 2018-12-13 19:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry of Education and Research (BMBF) / Institute for Biodiversity
@@ -847,8 +735,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 17:30:00
   title: Adaptation strategies for agriculture in Central Asia
-- day: *id006
-  end: 2018-12-13 19:00:00
+- end: 2018-12-13 19:00:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry of Education and Research (BMBF) / Institute for Biodiversity
@@ -857,8 +744,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 17:30:00
   title: Klima-Allianz Deutschland/CARE "gender-aspects"
-- day: 2018-12-14
-  end: 2018-12-14 11:30:00
+- end: 2018-12-14 11:30:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
@@ -870,8 +756,7 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-14 10:00:00
   title: Decarbonizing the economy through digital innovation
-- day: 2018-12-14
-  end: 2018-12-14 13:30:00
+- end: 2018-12-14 13:30:00
   links: null
   location: German Pavilion
   organiser: Federal Forgein Office

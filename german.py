@@ -61,7 +61,6 @@ for event in events:
     info = {
         "title": title,
         "organiser": organiser,
-        "day": day,
         "start": start,
         "end": end,
         "participants": participants,

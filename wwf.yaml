@@ -1,5 +1,4 @@
-- day: &id001 2018-12-02
-  description: "As a kick-off to thee COP24 #PandaHub, this event will build momentum\
+- description: "As a kick-off to thee COP24 #PandaHub, this event will build momentum\
     \ for national governments to\_commit to increasing the ambition of their climate\
     \ commitments. Following opening speeches from key high-level officials on the\
     \ need to ramp up climate action and on expectations for the COP, the event will\
@@ -16,8 +15,7 @@
   start: 2018-12-02 12:30:00
   title: "OPENING EVENT: Delivering now for a 1.5\xB0C future: Ramping up climate\
     \ ambition at the national level"
-- day: *id001
-  description: "Corporate climate action and sustainability strategies are on the\
+- description: "Corporate climate action and sustainability strategies are on the\
     \ rise. Companies are evolving from simplistic approaches to more complex data-\
     \ and science-driven strategies, placing greater emphasis on supply chains. This\
     \ side event will highlight how blockchain, and Digital Ledger Technology (DLT)\
@@ -36,8 +34,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-02 15:00:00
   title: Blockchain for corporate supply chains
-- day: *id001
-  description: "Tipping Point\_demonstrates\_the array of\_complex connections which\
+- description: "Tipping Point\_demonstrates\_the array of\_complex connections which\
     \ make the alignment of\_climate policy in Poland with\_EU targets\_a challenge.\_\
     The economic, social and political background of Polish energy dependence on coal\
     \ is\_clearly explained. The movie also presents the opportunities provided by\
@@ -50,16 +47,14 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-02 16:30:00
   title: 'Movie screening: The Tipping Point'
-- day: *id001
-  description: '** This event is by invitation only **'
+- description: '** This event is by invitation only **'
   end: 2018-12-02 21:30:00
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-02 18:30:00
   title: Media training night school
-- day: &id002 2018-12-03
-  description: "This event will explore a lesser known proposal made by AOSIS and\
+- description: "This event will explore a lesser known proposal made by AOSIS and\
     \ supported by AILAC, to automatically cancel a portion of emissions units generated\
     \ under Article\_6.2 and 6.4 mechanism. If calibrated correctly, this could simultaneously\
     \ to help ensure that Article 6.2 and 6.4 are delivering additional mitigation\
@@ -79,8 +74,7 @@
   title: 'Article 6 market tools for going beyond offsetting: A dialogue on how to
     ensure overall mitigation of global emissions (OMGE) is reflected in Article 6.2
     and 6.4 of the Paris rulebook'
-- day: *id002
-  description: "Indigenous Peoples\u2019 governance has a clear connection to climate\
+- description: "Indigenous Peoples\u2019 governance has a clear connection to climate\
     \ change. Tenured Indigenous lands tend to have lower deforestation rates, and\
     \ Indigenous and communally held lands hold about a quarter of aboveground global\
     \ carbon stores. This event will feature a presentation, short video, and discussion\
@@ -97,8 +91,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-03 11:30:00
   title: 'Indigenous Governance: an undervalued climate ally'
-- day: *id002
-  description: The event will provide an overview of the set of issues to be addressed
+- description: The event will provide an overview of the set of issues to be addressed
     in the Pre-2020 Stocktake process at COP24 and subsequent COPs, and discuss potential
     outcomes. Initial presentations should provide an overview of the current situation,
     including mitigation targets, ambition and performance, Action Agenda, Technical
@@ -115,8 +108,7 @@
   start: 2018-12-03 13:15:00
   title: 'Towards a successful pre-2020 Stocktake: Addressing the action and support
     deficit'
-- day: *id002
-  description: "The Solar Impulse Foundation has set itself the challenge of identifying\
+- description: "The Solar Impulse Foundation has set itself the challenge of identifying\
     \ 1000\_solutions that are profitable and can protect the environment."
   end: 2018-12-03 16:15:00
   location: WWF Pavilion
@@ -132,8 +124,7 @@
   start: 2018-12-03 15:00:00
   title: How can multilateral institutions support innovators to ramp-up the implementation
     of clean and efficient solutions?
-- day: *id002
-  description: "This event will showcase best practices in reducing emissions from\
+- description: "This event will showcase best practices in reducing emissions from\
     \ what is often the largest\_source of a company\u2019s carbon footprint: the\
     \ value chain. Content presented will help remove\_barriers to addressing value\
     \ chain emissions and case studies will demonstrate what is\_possible -- to help\
@@ -149,16 +140,14 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-03 16:30:00
   title: 'Value Change: Climate-positive action in corporate value chains'
-- day: *id002
-  description: '** This event is by invitation only **'
+- description: '** This event is by invitation only **'
   end: 2018-12-03 21:30:00
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-03 18:30:00
   title: Media training night school (closed event)
-- day: &id003 2018-12-04
-  description: "Oceans are undergoing rapid change due to increasing CO 2 emissions,\
+- description: "Oceans are undergoing rapid change due to increasing CO 2 emissions,\
     \ with ocean\_warming, acidification, deoxygenation and sea-level rise identified\
     \ as serious risks to\_marine ecosystems and subsequent impact on society. Experts\
     \ will focus on how\_the ocean is mitigating climate change on land but at a cost,\
@@ -178,8 +167,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-04 10:00:00
   title: 'Oceans & climate: The evidence unwrapped'
-- day: *id003
-  description: "The side event will shed\_light on on-the-ground stories of\_loss\
+- description: "The side event will shed\_light on on-the-ground stories of\_loss\
     \ and damage caused by climate change and highlight progress on the issue so far.\
     \ It will\_explore what is needed\_to advance the issue of Loss and Damage in\
     \ order\_to\_meet the objective of the Paris\_Agreement."
@@ -189,8 +177,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-04 13:15:00
   title: "Loss and Damage: Step up ambition on action towards today\u2019s reality!"
-- day: *id003
-  description: "This event will bring together representatives from Latin American\
+- description: "This event will bring together representatives from Latin American\
     \ Countries\_to highlight the actions they are taking to achieve nationally-determined\
     \ contributions, and eventually increase\_ambition to meet the 1.5\xB0 goal."
   end: 2018-12-04 16:15:00
@@ -199,8 +186,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-04 15:00:00
   title: "Latin American cities aiming for 1.5\xB0C"
-- day: *id003
-  description: "This event, organised by REN 21,\_will look at the leading role cities\
+- description: "This event, organised by REN 21,\_will look at the leading role cities\
     \ and non-state actors can play in advancing renewable\_energy policy and the\
     \ 1.5\xB0C objective. Local governments have legislative and purchasing power\
     \ that\_they can use to implement\_change in their own operations, in the wider\
@@ -220,16 +206,14 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-04 16:30:00
   title: "Renewable energy for cities: achieving the 1.5\xB0C goal"
-- day: *id003
-  description: '** This event is by invitation only **'
+- description: '** This event is by invitation only **'
   end: 2018-12-04 21:30:00
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-04 18:30:00
   title: Media training night school (closed event)
-- day: &id004 2018-12-05
-  description: "Considerable progress has been made to measure Land Use, Land Use\
+- description: "Considerable progress has been made to measure Land Use, Land Use\
     \ Change and\_Forestry (LULUCF) targets, meriting increased ambition for these\
     \ natural climate\_solutions in countries\u2019 NDCs. This event will highlight\
     \ how NDCs can be enhanced\_with more ambitious LULUCF targets, from the biophysical\
@@ -245,8 +229,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-05 10:00:00
   title: 'Land use: The untapped opportunity in nationally-determined contributions'
-- day: *id004
-  description: "The recently published IPCC report \u201CGlobal Warming of 1.5\xB0\
+- description: "The recently published IPCC report \u201CGlobal Warming of 1.5\xB0\
     C\u201D is a reminder of the\_climate crisis that we are currently facing. It\
     \ also provides hope and inspiration by\_outlining the climate impacts that we\
     \ can avoid if we limit warming to 1.5 degrees\_instead of 2 degrees. Harnessing\
@@ -264,8 +247,7 @@
   start: 2018-12-05 11:30:00
   title: 'How do we get there: The need for a coordinated global mangrove conservation
     agenda'
-- day: *id004
-  description: "This event will bring together indigenous people organizations of\
+- description: "This event will bring together indigenous people organizations of\
     \ COICA (AIDESEP and OPIAC), government representatives and finance institutions\
     \ around the critical role of indigenous peoples in enhancing the implementation\
     \ of \_NDCs and other integrated international goals, as well as the challenges\
@@ -282,8 +264,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-05 13:00:00
   title: Amazon Indigenous peoples walk the talk into the Talanoa Dialogue
-- day: *id004
-  description: "This event will demonstrate that it is possible to put resilience\
+- description: "This event will demonstrate that it is possible to put resilience\
     \ and adaptation into\_practice in the face of a changing climate through evidence-based\
     \ information sharing as\_well as identifying and acting on common interests among\
     \ a very broad range of partners\_and stakeholders (governments, community leaders,\
@@ -297,8 +278,7 @@
   start: 2018-12-05 15:00:00
   title: 'Building ecological and community climate resilience: a working example
     from Atlantic Canada'
-- day: *id004
-  description: "The side event will shed\_light on WWF's vision for key criteria concerning\_\
+- description: "The side event will shed\_light on WWF's vision for key criteria concerning\_\
     National Adaptation Plans (NAPs). It will provide an opportunity for\_different\
     \ countries to react to these as well as to present progress made in developing\
     \ and implementing their NAP."
@@ -309,8 +289,7 @@
   start: 2018-12-05 16:30:00
   title: 'National Adaptation Plans: Approaches on building social-ecological resilience
     to climate change impacts'
-- day: &id005 2018-12-06
-  description: "This high-level event will explore the advantages and risks of better\_\
+- description: "This high-level event will explore the advantages and risks of better\_\
     integrating the implementation of the three Rio Conventions and how the\_optimal\
     \ balance and alignment can be achieved. It will also discuss how a Global Deal\
     \ for Nature and People in 2020 can make addressing climate change and\_nature\
@@ -326,8 +305,7 @@
   start: 2018-12-06 10:00:00
   title: 'Three conventions, one planet: The case for a new Global Deal for Nature
     and People'
-- day: *id005
-  description: "This event will bring together various business leadership initiatives\
+- description: "This event will bring together various business leadership initiatives\
     \ that can help underpin a\_global deal for nature and people. The event will\
     \ explore options to connect business efforts to\_combat climate change and nature\
     \ degradation, and begin to set out what business needs\_from governments in 2020\
@@ -347,16 +325,14 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-06 11:30:00
   title: 'Business for nature and climate: The case for an integrated approach'
-- day: *id005
-  description: Description coming soon.
+- description: Description coming soon.
   end: 2018-12-06 14:45:00
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-06 13:15:00
   title: Ambition, Talanoa and IPCC
-- day: *id005
-  description: "Addressing climate risks in conservation is no longer an option for\
+- description: "Addressing climate risks in conservation is no longer an option for\
     \ Africa; it is time now to act!\_The event will highlight the WWF Africa Adaptation\
     \ Initiative and its\_strategy. It will be\_followed by showcasing practical adaptation\
     \ work from the ground, emphasizing the natural\_solutions for climate change,\
@@ -368,8 +344,7 @@
   start: 2018-12-06 15:00:00
   title: Climate-smart conservation - providing adaptation solutions for nature and
     people in Africa
-- day: *id005
-  description: '600 Million people in Africa have no access to electricity:'
+- description: '600 Million people in Africa have no access to electricity:'
   end: 2018-12-06 17:45:00
   location: WWF Pavilion
   participants:
@@ -393,8 +368,7 @@
   start: 2018-12-06 16:30:00
   title: How to accelerate universal access to sustainable energy in Africa, for the
     benefit of climate, nature and people?
-- day: *id005
-  description: "The event will explore how government planners and funders of large\
+- description: "The event will explore how government planners and funders of large\
     \ scale\_infrastructure\u2014roads, ports, dams, bridges, etc\u2014must account\
     \ for the impacts of climate\_change in these long term investments, while still\
     \ meeting social and environmental\_safeguards requirements. The relatively new\
@@ -413,8 +387,7 @@
   start: 2018-12-06 18:00:00
   title: 'Creating space for biodiversity, ecosystem services, and infrastructure
     in a rapidly warming world: Supporting NDC implementation'
-- day: &id006 2018-12-11
-  description: Current Paris Agreement country pledges will not be enough to limit
+- description: Current Paris Agreement country pledges will not be enough to limit
     global warming and avoid dangerous climate change levels. Yet, climate action
     in cities can bring new levels of ambition, steering rapid and transformational
     changes.
@@ -432,8 +405,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-11 08:00:00
   title: "One Planet City Challenge - A Global Agenda for 1.5\xB0C in Cities"
-- day: *id006
-  description: "The event will\_showcase\_the\_catalytic role\_that domestic alliances\
+- description: "The event will\_showcase\_the\_catalytic role\_that domestic alliances\
     \ of\_companies, local and subnational governments, academia and civil society\
     \ are beginning to play in accelerating climate action and\_championing\_opportunities\
     \ for\_higher ambition\_that\_directly\_address domestic\_development\_needs."
@@ -444,8 +416,7 @@
   start: 2018-12-11 09:30:00
   title: 'Alliances for Climate Action: How a growing movement of domestic multi-stakeholder
     alliances can champion climate action and ambition around the world'
-- day: *id006
-  description: "The event will showcase the work on Just Transition being done by\
+- description: "The event will showcase the work on Just Transition being done by\
     \ unions and the\_Just Transition Centre and partners, sharing examples of good\
     \ practice and lessons\_learned, with the aim of motivating for more unions to\
     \ be engaged in the planning\_processes for the transition to a low carbon society."
@@ -455,8 +426,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-11 13:00:00
   title: Just transition and the labour movement
-- day: *id006
-  description: "Many investors are stepping up to the climate challenge \u2013 what\
+- description: "Many investors are stepping up to the climate challenge \u2013 what\
     \ are their ambitions, how are they currently positioned and what tools can be\
     \ used? Presentation of new WWF assessment, followed by a panel:"
   end: 2018-12-11 15:55:00
@@ -478,8 +448,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-11 15:00:00
   title: "Investors aligment with the Paris Agreement - on track for <2\xB0C?"
-- day: *id006
-  description: Following announcements at the One Planet Summit, the Multilateral
+- description: Following announcements at the One Planet Summit, the Multilateral
     Development Banks have embarked on a process to define how they will align their
     investments to be consistent with achieving the goals of the Paris Agreement.
     An interim plan was issued on the sidelines of the Global Climate Action Summit,
@@ -498,8 +467,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-11 16:10:00
   title: Mainstreaming Paris alignment in multilateral development banks
-- day: *id006
-  description: 'Regulatory and supervisory initiatives to support the alignment of
+- description: 'Regulatory and supervisory initiatives to support the alignment of
     financial flows with a well-below 2oC pathway:'
   end: 2018-12-11 18:15:00
   location: WWF Pavilion
@@ -527,8 +495,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-11 17:20:00
   title: Financial regulation as a lever for driving the shift of financial flows
-- day: *id006
-  description: "In 2008, the UK passed the Climate Change Act.\_ It put a long-term\
+- description: "In 2008, the UK passed the Climate Change Act.\_ It put a long-term\
     \ climate goal into law, established the mechanisms for getting to that goal,\
     \ and set up an independent body to map out the route and hold government to account.\
     \ Ten years on, New Zealand is about to introduce the Zero Carbon Bill. What were\
@@ -548,8 +515,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-11 18:30:00
   title: 'Putting climate action beyond politics: UK and New Zealand climate laws'
-- day: &id007 2018-12-12
-  description: "To achieve 1.5\xB0C we need a rapid transition to an energy system\
+- description: "To achieve 1.5\xB0C we need a rapid transition to an energy system\
     \ based on 100% Renewables, if we are to avoid the worst impacts of climate change.\
     \ The event shows what such a shift could look like on a global scale and how\
     \ to successfully develop 100%RE roadmaps through continuous cross-sector, multi-stakeholder\
@@ -565,8 +531,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-12 09:45:00
   title: 'Building successful 100%RE roadmaps: Leaders in Post-Paris times'
-- day: *id007
-  description: The world's expansive grasslands and savannahs are vital havens for
+- description: The world's expansive grasslands and savannahs are vital havens for
     biodiversity and food production, yet often overlooked in climate discussions.
     These ecosystems provide immense opportunities to sequester carbon with tangible
     co-benefits to nature and food security. This session will shine a spotlight on
@@ -583,8 +548,7 @@
   start: 2018-12-12 11:15:00
   title: '30x30 Forest, Food, and Land Challenge On the Ground: Highlighting the importance
     of grasslands & savannahs for climate & biodiversity'
-- day: *id007
-  description: "This event will spotlight tangible examples of the 30x30 Challenge\_\
+- description: "This event will spotlight tangible examples of the 30x30 Challenge\_\
     in action. The session will do so through a focus on the Cerrado \u2013 the world\u2019\
     s most\_biodiverse savanna. The session will address progress there in each of\
     \ the three\ncomponents of the 30x30 Challenge: healthy and responsible food systems;\_\
@@ -597,8 +561,7 @@
   start: 2018-12-12 12:00:00
   title: '30x30 Forest, Food and Land Challenge on the ground: Spotlight on the Cerrado
     Brazil'
-- day: *id007
-  description: "The event will present the latest information about projections for\
+- description: "The event will present the latest information about projections for\
     \ the GCF pipeline, and the scale of resources required from the GCF to finance\
     \ it, relevance to efforts to\_scale up action and commitments in both pre and\
     \ post 2020 periods, and some of the policy\_issues surrounding the replenishment\
@@ -612,8 +575,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-12 13:15:00
   title: 'GCF replenishment: What can we expect?'
-- day: *id007
-  description: "This event will convene a dialogue between representatives from UN\
+- description: "This event will convene a dialogue between representatives from UN\
     \ Conventions on climate\_change /\_biodiversity /\_oceans and non-state actor\_\
     coalitions\_to explore opportunities\_for a systemic approach to a common objective:\_\
     the achievement of the 2030 Agenda.\_By aligning targets, identifying trade-offs\
@@ -633,8 +595,7 @@
   start: 2018-12-12 15:00:00
   title: "Accelerating 2030 Agenda implementation through international instruments\u2019\
     \ alignment"
-- day: *id007
-  description: "This session will accomplish two key goals: 1) officially launch a\
+- description: "This session will accomplish two key goals: 1) officially launch a\
     \ 30x30 Challenge High-Level Champions\_Group and provide a vision for the community\
     \ for the coming year, and 2) define a clear partnership\_with the Secretary General\u2019\
     s team in planning for its land pillar. Key VIP Champions will be featured on\_\
@@ -649,8 +610,7 @@
   start: 2018-12-12 16:30:00
   title: "30x30 Forest, Food, and Land Challenge: Speeding forward to the UN Secretary\
     \ General\u2019s climate summit"
-- day: *id007
-  description: "To finish the day, and to further build a united community across\
+- description: "To finish the day, and to further build a united community across\
     \ the forest, food, and land sector, we\_intend to co-host a networking happy\
     \ hour with a range of other key groups (WBCSD, FOLU, N4C, etc).\_We will ask\
     \ the 30x30 Champions to set the scene and offer initial remarks, and will invite\
@@ -664,8 +624,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-12 18:15:00
   title: 30x30 Forest, Food, and Land Community Happy Hour
-- day: &id008 2018-12-13
-  description: This panel discussion will focus on the initiation of The Arab Climate
+- description: This panel discussion will focus on the initiation of The Arab Climate
     Act (ACA), a platform catalysing the climate change actions among the Arab Countries
     in an engaging multi-stakeholder approach contributing in a sustainable and profitable
     manner to a strong and effective response to climate change.
@@ -681,8 +640,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-13 10:00:00
   title: The Arab Climate Act
-- day: *id008
-  description: "Paris Watch: A Hong Kong Report Card has developed a methodology to\
+- description: "Paris Watch: A Hong Kong Report Card has developed a methodology to\
     \ measure climate mitigation & adaptation action at city level against the goals\
     \ of the Paris Climate Agreement. Most importantly, the programme aims to employ\
     \ accessible and popular communications methods to assist the non-specialist in\
@@ -701,8 +659,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-13 11:30:00
   title: 'Accelerating climate action in large cities: Ideas from Asia'
-- day: *id008
-  description: This event, on the day following the closing plenary of the Talanoa
+- description: This event, on the day following the closing plenary of the Talanoa
     Dialogue, will provide an opportunity for observers and negotiators to take stock
     of the Talanoa process, and exchange views on potential COP outcomes from Talanoa
     and other matters related to increasing ambition of NDCs by 2020, including the
@@ -715,8 +672,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-13 13:15:00
   title: 'COP outcomes on Talanoa and Ambition: The final countdown'
-- day: *id008
-  description: "This event will discuss opportunities for growth and a just transition\
+- description: "This event will discuss opportunities for growth and a just transition\
     \ in\_Upper Silesia."
   end: 2018-12-13 16:15:00
   location: WWF Pavilion
@@ -724,8 +680,7 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-13 15:00:00
   title: How to ensure a Just Transition for Upper Silesia?
-- day: *id008
-  description: "An approach on how businesses can collaborate and use climate action\
+- description: "An approach on how businesses can collaborate and use climate action\
     \ as a business opportunity was developed and applied over the last year. This\
     \ side event showcases its results:\_8 concrete emission-reducing project ideas\
     \ as well as a study on the feasibility for transition pathways for German industry\
@@ -751,16 +706,14 @@
   start: 2018-12-13 16:30:00
   title: "Pathway towards a <2\xB0-economy - innovative approach of business to identify\
     \ cross-industry solutions"
-- day: *id008
-  description: Description coming soon.
+- description: Description coming soon.
   end: 2018-12-13 19:45:00
   location: WWF Pavilion
   participants: []
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-13 18:00:00
   title: 'Powering the BRI with renewables: 100% transition in Asia'
-- day: 2018-12-14
-  description: Description of event to come shortly.
+- description: Description of event to come shortly.
   end: 2018-12-14 11:15:00
   location: WWF Pavilion
   participants: []

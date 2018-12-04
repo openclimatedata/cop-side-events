@@ -39,7 +39,6 @@ for item in items:
         print(description)
         print(links)
         event = {
-            "day": day,
             "start": timeparse(f"{day} {start}"),
             "end": timeparse(f"{day} {end}"),
             "title": title,
