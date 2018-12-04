@@ -43,7 +43,10 @@ cache/german.html:
 german.yaml: german.py cache/german.html venv
 	./venv/bin/python $<
 
-unfccc.yaml: unfccc.py venv
+cache/unfccc.html:
+	wget "https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024" -O cache/unfccc.html
+
+unfccc.yaml: unfccc.py cache/unfccc.html venv
 	./venv/bin/python $<
 
 cache/wwf.html:

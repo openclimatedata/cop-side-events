@@ -1,18 +1,17 @@
 import pandas as pd
 import yaml
-from requests_html import HTMLSession
+from requests_html import HTML
 
 agenda = []
 
-session = HTMLSession()
 
-url = "https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024"
-r = session.get(url)
+with open("cache/unfccc.html", "r") as f:
+    r = HTML(html=f.read())
 
 dateparse = lambda x: pd.datetime.strptime(x, "%d %b %Y").date()
 timeparse = lambda x: pd.datetime.strptime(x, "%Y-%m-%d %H:%M")
 
-table = r.html.find("table", containing="Monday", first=True)
+table = r.find("table", containing="Monday", first=True)
 
 items = table.find("tr")
 
@@ -45,7 +44,7 @@ for item in items:
             "location": location,
             "description": description,
             "links": links,
-            "source": url,
+            "source": "https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024",
         }
         events.append(event)
         print(40 * "=")
