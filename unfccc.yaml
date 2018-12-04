@@ -313,7 +313,9 @@
     \ Elizabeth Press (IRENA) \u2022 Daniel Ramos (WTO) \u2022 Peter Govindaswamy\
     \ (Singapore) \u2022 Wolfgang Heidung (KAPSARC)"
   end: 2018-12-04 14:45:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=R096TZUJ717GLU4H6OY7UFGS50DTSB2A
+    text: "Presentation 2 [2\_Mb]"
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-04 13:15:00
@@ -1517,8 +1519,8 @@
 
 
     Speakers: Ane Alencar (Dir of Science, IPAM) Carlos Rittl (Executive-secretary,
-    Climate Observatory) Marta Gunfaus (Snr researcher on climate and energy, IDDRI)
-    Thelma Krug (Vice-president, IPCC) Thiago Mendes (National Climate Change Secretary,
+    Climate Observatory) Marta Gunfaus (Snr researcher, IDDRI) Thelma Krug (Vice-chair,
+    IPCC; snr researcher, INPE) Thiago Mendes (National Climate Change Secretary,
     Ministry of Environment of Brazil, Michel Temer Admin)'
   end: 2018-12-06 18:15:00
   links: []
@@ -1646,12 +1648,16 @@
   title: Technology needs assessments and action plans for implementing the Paris
     Agreement
 - day: 2018-12-06
-  description: 'Adaptation
+  description: 'Presentation of the key findings from the Adaptation Gap Report 2018
+    and a discussion around progress towards the global goal on adaptation and the
+    adaptation gap in health.
 
 
     Speakers: PROVIA, country representatives'
   end: 2018-12-06 20:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=7LQXSTQKU23F907585UQU1E3JFRZ8MLI
+    text: "Adaptation Gap Report 2018 flyer [520\_kb]"
   location: Pieniny
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-06 18:30:00
@@ -2770,7 +2776,9 @@
     \ from the World Bank Group; One speaker from a developing country with a carbon\
     \ pricing scheme"
   end: 2018-12-10 16:30:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=9ZXRZ6QZ3MNIWDQREEKGHOQPO6EGFSB2
+    text: "How to effectively communicate carbon pricing-Program [117\_kb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-10 15:00:00

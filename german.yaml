@@ -220,7 +220,7 @@
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ)
   participants:
-  - Christoph Bals, Policy Director, Germanwatch
+  - 'Moderation: Christoph Bals, Policy Director, Germanwatch'
   - Leonardo Martinez-Diaz, Global Director, Finance Centre, WRI
   - Frank Fass-Metz, Deputy Director General, BMZ
   - Hanna Fekete, Partner, NewClimate Institute
@@ -253,6 +253,8 @@
   location: German Pavilion
   organiser: ICC Germany e. V.
   participants:
+  - 'Moderator: Jacqueline Albers, Association of German Chambers of Industry and
+    Commerce'
   - "Key Note: Ingrid-Gabriela Hoven, Director-General, Global Issues\u2014Sector\
     \ Policies and Programmes, Federal Ministry of Economic Cooperation and Development"
   - Katarin Wagner, HSBC Deutschland
@@ -260,8 +262,6 @@
   - Aki Kachi, Climate Policy Analyst, NewClimate Institute
   - Kai Remco Fischer, Coordinator Climate Change, UNEP FI
   - Chris Weber, Global Climate and Energy Lead, WWF (tbc.)
-  - 'Moderation: Julian Schorpp, Director European Energy and Climate Policy, Association
-    of German Chambers of Industry and Commerce'
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 10:00:00
   title: "Climate Finance \u2013 Next steps to foster climate action"
@@ -272,10 +272,11 @@
   organiser: Secretariat of NDC Support Cluster, GIZ (Support Program for the Implementation
     of the Paris Agreement)
   participants:
+  - 'Moderator: Jennifer Morgan, Greenpeace International - tbc'
   - "Frauke R\xF6ser, Project co-director, NewClimate Institute (tbc)"
   - Pablo Viera, Global Director, NDC Partnership (tbc)
-  - "Norbert Gori\xDFen, Deputy Director General, IK I, BMU (tbc) Anne Hammill, (IISE/NAP\
-    \ Global Network)"
+  - "Norbert Gori\xDFen, Deputy Director General, IK I, BMU (tbc)"
+  - Anne Hammill, (IISE/NAP Global Network)
   - Ron Benioff, Executive Director, LEDS-GP, NDC Cluster
   - Dale Rigobert, (Minsitry of Environment, St. Lucia)
   source: https://www.bmu.de/en/german-climate-pavilion/events/
@@ -289,7 +290,7 @@
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ)
   participants:
-  - John Matthews, Alliance for Global Water Adaptation (AGWA) (Moderation)
+  - 'Moderation: John Matthews, Alliance for Global Water Adaptation (AGWA)'
   - Paul Mafabi, Ministry of Water and Environment, Uganda (by video)
   - Arthur Neher, Climate Smart Land Use, Wetlands International
   - Alfred Okot Okidi, Permanent Secretary, Ministry of Water and Environment, Uganda
@@ -347,6 +348,7 @@
   location: German Pavilion
   organiser: Friedrich-Ebert-Stiftung / Bread for the World
   participants:
+  - 'Moderator: Manuela Matthess, Friedrich-Ebert-Stiftung'
   - Rhoda Boateng, Policy Advisor, International Trade Union Confederation Africa
     (tbc)
   - Jennifer Tollmann, Researcher, E3G (tbc)
@@ -363,6 +365,7 @@
   location: German Pavilion
   organiser: CARE / Germanwatch / PACJA
   participants:
+  - 'Moderator: Sven Harmeling, CARE'
   - Jean-Paul Affana, Germanwatch
   - Tosi Mpanu Mpanu, Democratic Republic of Congo, GCF Board member
   - Lidy Nacpil, Asian Peoples Movement on Debt and Development (APMDD) (tbc)
@@ -378,6 +381,7 @@
   location: German Pavilion
   organiser: New Climate Institute
   participants:
+  - "Moderator: Niklas H\xF6hne, NewClimate Institute"
   - "Frauke R\xF6ser, Partner, NewClimate Institute"
   - "Mariela Beljansky, Eco Energ\xEDa, Argentina"
   - "Niklas H\xF6hne, NewClimate Institute"
@@ -391,7 +395,7 @@
   location: German Pavilion
   organiser: "ICLEI - Local Governments for Sustainability / Deutscher St\xE4dtetag"
   participants:
-  - Roman Mendle, ICLEI
+  - 'Moderator: Roman Mendle, ICLEI'
   - William Peduto, Mayor, City of Pittsburgh, USA (tbc)
   - Thoma Kufen, Mayor, City of Essen, Germany (tbc)
   - Mariusz Skiba, Vice Mayor, City of Katowice, Poland (tbc)
@@ -481,7 +485,7 @@
   organiser: Federal Ministry of Education and Research (BMBF) / DLR Project Management
     Agency
   participants:
-  - Friedemann Call, DLR Project Management Agency
+  - 'Moderator: Friedemann Call, DLR Project Management Agency'
   - Elmar Kriegler, Deputy Chair Research Domain Sustainable Solutions, Potsdam Institute
     for Climate Impact Research
   - Brigitte Knopf, Secretary General, Mercator Research Institute on Climate Change
@@ -497,13 +501,14 @@
   organiser: German Association of Cities / ICLEI - Local Governments for Sustainability
     / Bertelsmann Stiftung / European Committee of the Regions (CoR)
   participants:
+  - 'Moderator: Sabine Drees, German Association of Cities'
   - Ashok Sridharan, Lord Mayor, City of Bonn, Germany
   - Marc Wolinda, Project Manager, Bertelsmann Stiftung
   - Andrew Cooper, Member, European Committee of the Regions & Councillor, Kirklees
     Council, UK
   - "Agnes Sch\xF6nfelder, Director of the Climate Change Strategy Department City\
     \ of Mannheim, Germany"
-  - TBC; Female Researcher/local expert from the global south
+  - N.N.; Female Researcher/local expert from the global south
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 15:30:00
   title: 'SDG indicators for cities: an inspiration to raise ambitions of locally
@@ -515,10 +520,11 @@
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU) / Agora Verkehrswende
   participants:
-  - Christian Hochfeld, Executive Director, Agora Verkehrswende
+  - 'Moderator: Christian Hochfeld, Executive Director, Agora Verkehrswende'
   - Jochen Flasbarth, State Secretary, Federal Ministry for the Environment (BMU),
     Germany (tbc)
   - Michal Kurtyka, Vice Minister, Ministry of Environment, Poland (tbc)
+  - Christian Hochfeld, Agora Verkehrswende
   - N.N., International Zero-Emission Vehicle Alliance (IZEVA) Representative
   - Thomas Becker, Vice President Governmental and External Affairs, BMW Group
   - N.N., C40 Representative
@@ -589,6 +595,7 @@
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ)
   participants:
+  - 'Moderator: Dorothea Otremba, GIZ'
   - "B\xE4rbel H\xF6hn, BMZ Special Representative for Energy in Africa and former\
     \ State Minister of Environment and Agriculture of North Rhine-Westphalia, MdB\
     \ a.d. D\xFCsseldorf, Germany"
@@ -617,10 +624,11 @@
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU) / IK I I 4 / K III 6 I 4 together with GIZ
   participants:
+  - 'Moderator: Rob Bradley, NDC Partnership'
   - Rabia Ferroukhi, IRENA
   - Paolo Frankl, IEA
-  - Government of Canada, tbd
-  - Government of Chile, tbd
+  - N.N., Government of Canada, tbd
+  - N.N., Government of Chile, tbd
   - "Mario Ragwitz, Fraunhofer \u2013 ISI"
   - Hugo Lucas, Institute for the Diversification and Saving of Energy (IDAE)
   source: https://www.bmu.de/en/german-climate-pavilion/events/
@@ -694,7 +702,7 @@
   organiser: Federal Ministry of Education and Research (BMBF) / DLR Project Management
     Agency
   participants:
-  - Christiane Textor, DLR Project Management Agency
+  - 'Moderator: Christiane Textor, DLR Project Management Agency'
   - Vera Stercken, German Federal Ministry of Education and Research (BMBF)
   - "Hans-Otto P\xF6rtner, IPCC Working Group II Co-Chair, Alfred Wegener Institute\
     \ (AWI)"
@@ -729,6 +737,7 @@
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU)
   participants:
+  - 'Moderator: Oliver Lah, Wuppertal Institute'
   - "Rita Schwarzel\xFChr-Sutter, Parliamentary State Secretary, BMU"
   - Vera Rodenhoff, Head of Division BMU
   - Anja Siegesmund, Minister for the Environment, Thuringia, Germany
@@ -753,7 +762,12 @@
   location: German Pavilion
   organiser: "Brot f\xFCr die Welt/ Bread for the World / Rosa-Luxemburg-Stiftung\
     \ / Rosa-Luxemburg-Foundation"
-  participants: null
+  participants:
+  - 'Moderator: Nadja Charaby, Rosa Luxemburg Foundation'
+  - "Lorenz G\xF6sta Beutin, German Parliament"
+  - Tetet Lauron, Rosa Luxemburg Foundation
+  - Md Shamsuddoha, Center for Participatory Research and Development
+  - Sabine Minninger, Bread for the World
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 10:00:00
   title: Do we need a Loss and Damage Fund?
@@ -764,6 +778,7 @@
   organiser: ICCA - International Council of Chemical Associations / ISC3 - International
     Sustainable Chemistry Collaborative Centre
   participants:
+  - 'Moderator: Sanni Kunnas, German Chemical Industry Association'
   - Marco Mensink, Secretary General, International Council of Chemical Associations
   - Marina Mattar, Director Institutional Relations and Sustainability, Brazilian
     Chemical Industry Association (ABIQUIM), ICCA Energy & Climate Leadership Group
@@ -781,9 +796,9 @@
   location: German Pavilion
   organiser: Climate Alliance Germany
   participants:
+  - 'Moderator: Dr. Christiane Averbeck'
   - Prof. Dr. Schellnhuber, Direktor Emeritus Potsdam Institute for Climate Impact
     Research
-  - Dr. Christiane Averbeck Executive Director at Climate Alliance Germany
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 13:00:00
   title: "Coal phase out in Germany \u2013 Outcomes of the German commission on Coal"
@@ -794,6 +809,7 @@
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU) / UN Environment International Resource Panel (IRP)
   participants:
+  - 'Moderator: Mauro Petriccione, DG Climate, European Commission (EC)'
   - Jochen Flasbarth, State Secretary, Federal Ministry for the Environment, Nature
     Conservation and Nuclear Safety
   - Janez Potocnik, Co-Chair, UN Environment International Resource Panel (IRP)
@@ -822,8 +838,9 @@
   organiser: Federal Ministry of Education and Research (BMBF) / Institute for Biodiversity
     Network e.V. (ibn)
   participants:
-  - Axel Paulsch, Institute for Biodiversity Network (ibn)
+  - 'Moderator: Axel Paulsch, Institute for Biodiversity Network (ibn)'
   - Vera Stercken, German Federal Ministry for Education and Research (BMBF)
+  - Lena Kuhn, Leibniz Institute of Agricultural Development
   - "Dr. Laura Moritz,\_Research Associate, Leibniz Institute of Agricultural Development"
   - Georg Guggenberger, Head of Institute of Soil Science, University of Hannover
   - Regina Karakina, NDE Germany Implementing Office
@@ -859,7 +876,7 @@
   location: German Pavilion
   organiser: Federal Forgein Office
   participants:
-  - Camilla Born, Senior Policy Advisor at E3G, tbc.
+  - 'Moderator: Camilla Born, Senior Policy Advisor at E3G, tbc.'
   - Michaela Spaeth, Director for Energy and Climate Policy at the Federal Foreign
     Office
   - Marlene Moses, Permanent Representative of the Republic of Nauro to the United
