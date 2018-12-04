@@ -21,7 +21,6 @@ for filename in ["ndc-calendar-w1.ics", "ndc-calendar-w2.ics"]:
         output.append({
             "title": event.name,
             "description": event.description.strip(),
-            "day": event.begin.datetime.date(),
             "start": event.begin.datetime,
             "end": event.end.datetime,
             "source": "http://www.ndcpartnershipcop.org/events/",
