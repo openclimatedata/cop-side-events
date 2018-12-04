@@ -1,19 +1,18 @@
 import pandas as pd
 import yaml
-from requests_html import HTMLSession
+from requests_html import HTML
 
 agenda = []
 
-session = HTMLSession()
-
-r = session.get("https://wwfcep.org/cop/")
+with open("cache/wwf.html", "r") as f:
+    r = HTML(html=f.read())
 
 dateparse = lambda x: pd.datetime.strptime(x, "%d %b %Y").date()
 timeparse = lambda x: pd.datetime.strptime(x, "%Y-%m-%d %H:%M")
 
 agenda = []
 
-columns = r.html.find(".col")
+columns = r.find(".col")
 
 for col in columns:
     day = col.find("h2", first=True).text.split(" ", maxsplit=1)[1]

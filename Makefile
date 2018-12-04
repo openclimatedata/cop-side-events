@@ -46,7 +46,10 @@ german.yaml: german.py cache/german.html venv
 unfccc.yaml: unfccc.py venv
 	./venv/bin/python $<
 
-wwf.yaml: wwf.py venv
+cache/wwf.html:
+	wget https://wwfcep.org/cop/ -O cache/wwf.html
+
+wwf.yaml: wwf.py cache/wwf.html venv
 	./venv/bin/python $<
 
 venv: requirements.txt
