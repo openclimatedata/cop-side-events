@@ -4,15 +4,14 @@ index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml uk.yam
 database.js:
 	wget -N http://ec.europa.eu/clima/events/0124/js/database.js
 
-eu-schedule-rooms.json: database.js
+cache/eu-schedule-rooms.json: database.js
 	mv database.js local-database.js
 	sed -i 's/var opDayEvent/\/\/var opDayEvent/' local-database.js
 	cat output.js >> local-database.js
 	node local-database.js
 
-eu.yaml: eu.py eu-schedule-rooms.json venv
+eu.yaml: eu.py cache/eu-schedule-rooms.json venv
 	./venv/bin/python $<
-
 
 ndc-calendar-w1.ics:
 	wget "http://www.ndcpartnershipcop.org/events/week/2018-12-03/?tribe_event_display=week&tribe-bar-date=2018-12-03&ical=1&tribe_display=week" -O ndc-calendar-w1.ics

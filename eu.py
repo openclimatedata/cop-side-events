@@ -6,13 +6,13 @@ import json
 dateparse = lambda x: pd.datetime.strptime(x, "%Y-%m-%d").date()
 timeparse = lambda x: pd.datetime.strptime(x, "%Y-%m-%d %H:%M")
 
-with open("eu-schedule-rooms.json", "r") as f:
+with open("cache/eu-schedule-rooms.json", "r") as f:
     schedule = json.load(f)
 
-with open("eu-speakers.json", "r") as f:
+with open("cache/eu-speakers.json", "r") as f:
     speakers = json.load(f)
 
-with open("eu-organisers.json", "r") as f:
+with open("cache/eu-organisers.json", "r") as f:
     organisers = json.load(f)
 
 
