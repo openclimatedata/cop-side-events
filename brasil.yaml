@@ -56,7 +56,7 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-06 11:30:00
   title: Knowledge, perceptions and collaborations of indigenous women in the Amazon
-    in relation to the environment and climate change RCA + ISA + RFN
+    in relation to the environment and climate change RCA + COIAB + RFN
 - end: 2018-12-06 15:30:00
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
@@ -205,8 +205,9 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-12 10:00:00
-  title: "The importance and role of the land use agenda for the Brazilian development\
-    \ COALIZ\xC3O + SRB + IPAM + WRI + CEBDS + IDS + WWF + SOLIDARIDAD"
+  title: "What is the future of forests and agriculture in Brazil? COALIZ\xC3O + UNICA\
+    \ +IMAZON + IPAM + CEBDS COALIZ\xC3O + SRB + IPAM + WRI + CEBDS + IDS + WWF +\
+    \ SOLIDARIDAD"
 - day: *id003
   end: 2018-12-12 12:40:00
   location: Brazilian Pavilion
@@ -221,7 +222,7 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-12 13:00:00
   title: 'Adaptation to Climate Change: collective action to increase resilience in
-    Brazil MDIC + IEC + CEBDS + FGVces + ETHOS + UNGC + GCN-BR + CDP'
+    Brazil MDIC + IEC + BRASKEM + ITAIPU + MMA'
 - day: *id003
   end: 2018-12-12 15:10:00
   location: Brazilian Pavilion
