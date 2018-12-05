@@ -206,8 +206,8 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-12 10:00:00
   title: "What is the future of forests and agriculture in Brazil? COALIZ\xC3O + UNICA\
-    \ +IMAZON + IPAM + CEBDS COALIZ\xC3O + SRB + IPAM + WRI + CEBDS + IDS + WWF +\
-    \ SOLIDARIDAD"
+    \ +IMAZON + IPAM + CEBDS COALIZ\xC3O + SRB + IPAM + WRI + IDS + WWF + SOLIDARIDAD\
+    \ + CEBDS"
 - day: *id003
   end: 2018-12-12 12:40:00
   location: Brazilian Pavilion
@@ -235,8 +235,8 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-12 15:30:00
-  title: Financial disclosures related to climate change taskforce CEBDS + BLOOMBERG
-    + BIRD + FGVces
+  title: Financial disclosures related to climate change taskforce CEBDS + Bloomberg
+    + KPMG+ FGVces
 - day: *id003
   end: 2018-12-12 18:10:00
   location: Brazilian Pavilion
@@ -257,7 +257,7 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-13 10:00:00
   title: 'Proposal for carbon pricing in Brazil: challenges and opportunities CEBDS
-    + UNGC + CDP + FGVces + ICS + WMB'
+    + UNGC + CDP + FGVces + ICS + BRASKEM'
 - day: *id004
   end: 2018-12-13 12:40:00
   location: Brazilian Pavilion
@@ -277,11 +277,11 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-13 17:00:00
   title: "Business strategies and business solutions in the climate agenda: how to\
-    \ attract investments CEBDS + WBCSD + ABEE\xF3lica + ABSOLAR"
+    \ attract investments CEBDS + ABEE\xF3lica + ABSOLAR"
 - day: *id004
   end: 2018-12-13 19:40:00
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-13 18:30:00
   title: Contributions and initiatives of the Brazilian private sector under the climate
-    change agenda CEBDS + WBCSD + VOTORANTIM
+    change agenda CEBDS + VOTORANTIM CIMENTOS + BRASKEM + BAYER + VOTORANTIM
