@@ -217,12 +217,12 @@
   organiser: CARE / Germanwatch / PACJA
   participants:
   - 'Moderator: Sven Harmeling, CARE'
-  - Jean-Paul Affana, Germanwatch
-  - Tosi Mpanu Mpanu, Democratic Republic of Congo, GCF Board member
-  - Lidy Nacpil, Asian Peoples Movement on Debt and Development (APMDD) (tbc)
-  - Julius Mbatia, PACJA
-  - Satu Santala,, Finland, GCF Board member
-  - Frank Fass-Metz, BMZ Germany, GCF Board member
+  - Mithika Mwenda, Pan-African Climate Justice Alliance (PACJA)
+  - Frank Fass-Metz, Government of Germany, GCF Board member Germany
+  - Lidy Nacpil, Asian Peoples Movement on Debt and Development, CSO Active Observer
+    to the GCF
+  - Jean Paul Affana, Germanwatch
+  - Karma Tshering, Government of Bhutan, GCF Board member (tbc)
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 12:00:00
   title: 'Green Climate Fund at a crossroads: myths and realities'
@@ -231,30 +231,32 @@
   location: German Pavilion
   organiser: New Climate Institute
   participants:
-  - "Moderator: Niklas H\xF6hne, NewClimate Institute"
-  - "Frauke R\xF6ser, Partner, NewClimate Institute"
-  - "Mariela Beljansky, Eco Energ\xEDa, Argentina"
+  - 'Moderator: Frauke Roeser, NewClimate Institute'
   - "Niklas H\xF6hne, NewClimate Institute"
-  - TBC, South Africa
+  - Mariela Beljansky, Plataforma Escenarios Argentina
+  - Andrew Marquard, ERC South Africa
+  - Marta Torres Gunfaus, IDDRI
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 14:00:00
-  title: Long term scenarios for the energy sector in Argentina and South Africa
+  title: 'Raising ambition: Long term scenarios for the energy sector in Argentina
+    and South Africa'
 - end: 2018-12-08 17:00:00
   links: null
   location: German Pavilion
   organiser: "ICLEI - Local Governments for Sustainability / Deutscher St\xE4dtetag"
   participants:
-  - 'Moderator: Roman Mendle, ICLEI'
-  - William Peduto, Mayor, City of Pittsburgh, USA (tbc)
-  - Thoma Kufen, Mayor, City of Essen, Germany (tbc)
-  - Mariusz Skiba, Vice Mayor, City of Katowice, Poland (tbc)
-  - NN, E3G (tbc)
-  - NN, Powering Past Coal Alliance (tbc)
-  - NN, OECD (tbc)
+  - 'Moderation: Roman Mendle, ICLEI World Secretariat'
+  - Sabine Drees, German Association of Cities
+  - Daniel Wolny, City of Katowice, Poland
+  - Sebastian Schlecht, City of Essen, Germany
+  - "Ang Ye, dena \u2013 German Energy Agency"
+  - Takeshi Shimotsuma, City of Kyoto, Japan
+  - Ronan Dantec, Senator of Loire-Altantique in France, President of Climate Chance
+    Association
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 15:30:00
-  title: 'How can we achieve a just transition? Away from coal: Future-proofing the
-    energy shift in cities and regions'
+  title: 'Just Transition Away from Coal: Future-Proofing the Energy Shift in Cities
+    and Regions'
 - end: 2018-12-08 19:00:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181208_Mobility-transition-in-our-cities_17_30.pdf
@@ -293,14 +295,18 @@
   location: German Pavilion
   organiser: Federal Ministry for Economic Affairs and Energy (BMWi)
   participants:
-  - Thorsten Herdan, Director General Energy Policy, BMWi
-  - Minister/State Secretary from Partner Country 1
-  - Minister/State Secretary from Partner Country 2
-  - N.N
-  - N.N
+  - 'Moderator: Thorsten Herdan, Federal Ministry for Economic Affairs and Energy
+    (BMWi), Germany'
+  - Fatma Zohra Zerouati, Minister for Environment and Renewable Energy, Algeria -
+    tbc
+  - Fatima Al Foora Al Shamsi, Ministry of Energy and Industry, UAE
+  - Imed Fadhel, Ministry of Environment, Tunisia
+  - Shri Anand Kumar, Ministry of New and Renewable Energy, India
+  - Representative Turkey - tbc
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 10:00:00
-  title: Enabling International Best Practice Exchange in the Energy Sector
+  title: 'International cooperation through Bilateral Energy Partnerships: Enabling
+    best practice exchange in the energy sector'
 - end: 2018-12-10 13:30:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181210_Local-Climate-Finance_12_00.pdf
@@ -362,14 +368,13 @@
   organiser: "Federal Ministry for the Environment, Nature Conversation and Nuclear\
     \ Safety (BMU),\_ Agora Verkehrswende"
   participants:
-  - 'Moderator: Christian Hochfeld, Executive Director, Agora Verkehrswende'
-  - Jochen Flasbarth, State Secretary, Federal Ministry for the Environment (BMU),
-    Germany (tbc)
-  - Michal Kurtyka, Vice Minister, Ministry of Environment, Poland (tbc)
-  - Christian Hochfeld, Agora Verkehrswende
-  - N.N., International Zero-Emission Vehicle Alliance (IZEVA) Representative
-  - Thomas Becker, Vice President Governmental and External Affairs, BMW Group
-  - N.N., C40 Representative
+  - 'Moderator: Christian Hochfeld, Agora Verkehrswende'
+  - George Heyman, Ministry of Environment and Climate Change Strategy, British Columbia
+  - Andreas Klugscheid, BMW Group
+  - N.N. City of Warsaw
+  - Michal Kurtyka, Vice Minister, Ministry of Environment, Poland
+  - Jochen Flasbarth, Federal Ministry for the Environment, Nature Conservation and
+    Nuclear Safety (BMU), Germany
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 17:30:00
   title: 'A matter of urgency: How to get transportation on a fast track to decarbonization?'
@@ -412,18 +417,23 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 10:00:00
   title: 'Climate resilient urban infrastructure: The G20 work on adaptation'
-- end: 2018-12-11 11:30:00
+- end: 2018-12-11 13:30:00
   links: null
   location: German Pavilion
-  organiser: Federal Ministry for Economic Cooperation and Development (BMZ), Government
-    of Argentinia
+  organiser: ICC Germany / BDI / econsense
   participants:
   - "Key Note: Rita Schwarzel\xFChr-Sutter, Parliamentary State Secretary at Ministry\
-    \ for Environment, Nature Conservation and Nuklear Safety"
-  - "Input on Smart Cities by Jan Sch\xF6nig, Director Urban Development & Smart Cities,\
-    \ Siemens AG"
+    \ for Environment, Nature Conservation and Nuclear Safety (BMU), Germany"
+  - 'Moderation: Carsten Rolle, BDI'
+  - "Jan Sch\xF6nig, Siemens AG"
+  - Stephan Krinke, Volkswagen AG
+  - Bernhard Schwager, Robert Bosch GmbH
+  - "Hans-J\xF6rn Weddige, thyssenkrupp AG"
+  - Wolfgang Teubner, ICLEI representative
+  - Stephan Krinke, Volkswagen AG
+  - Oliver Wieck, ICC Germany
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 10:00:00
+  start: 2018-12-11 12:00:00
   title: "Smart Cities \u2013 How Innovations Accelerate Action in Cities and Regions"
 - end: 2018-12-11 14:45:00
   links:
@@ -686,9 +696,12 @@
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU) / Z III 4
   participants:
-  - Dirk Messner (UNU-EHS; WBGU)
-  - 'BMU: BM''n / Sts F / PSts''n'
-  - BDI (tba)
+  - "Moderation: Oliver Wieck, Generalsekret\xE4r ICC Germany e. V."
+  - Svenja Schulze, Federal Minister for the Environment, Nature Conservation and
+    Nuclear Safety (BMU), Germany
+  - Dirk Messner, United Nations University; German Advisory Council on Global Change
+  - "Hans-J\xF6rn Weddige, Group Coordinator Energy, Climate and Environment Policies\
+    \ thyssenkrupp AG"
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-14 10:00:00
   title: Decarbonizing the economy through digital innovation

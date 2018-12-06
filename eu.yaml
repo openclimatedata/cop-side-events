@@ -983,7 +983,7 @@
     4. Island of Aeroe and the Balearic Islands
   source: http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule
   start: 2018-12-06 16:30:00
-  title: Making islands drivers of the clean energy transition
+  title: CANCELLED -Making islands drivers of the clean energy transition
 - description: <p></p>
   end: 2018-12-06 13:30:00
   location: EU Pavilion Meet-the-Expert
@@ -1002,6 +1002,15 @@
   source: http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule
   start: 2018-12-06 14:00:00
   title: FEEDBACK GLOBAL
+- description: <p></p>
+  end: 2018-12-06 18:30:00
+  location: EU Pavilion Meet-the-Expert
+  organiser: CO2GeoNet
+  participants:
+  - ''
+  source: http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule
+  start: 2018-12-06 16:30:00
+  title: British Geological Survey
 - description: "<p><p>Mountain regions worldwide are strongly affected by climate\
     \ change. Temperature rise tends to be larger than in flatlands; the wide spread\
     \ melting of glaciers is a particularly visible impact of global warming in the\
@@ -1263,6 +1272,15 @@
   source: http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule
   start: 2018-12-07 11:30:00
   title: GCCA+
+- description: <p></p>
+  end: 2018-12-07 16:00:00
+  location: EU Pavilion Meet-the-Expert
+  organiser: Eleonore Vanderlande
+  participants:
+  - ''
+  source: http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule
+  start: 2018-12-07 14:00:00
+  title: Solar impulse
 - description: <p></p>
   end: 2018-12-07 18:30:00
   location: EU Pavilion Meet-the-Expert
@@ -1830,21 +1848,32 @@
 - description: <p></p>
   end: 2018-12-10 11:30:00
   location: EU Pavilion Meet-the-Expert
-  organiser: ''
+  organiser: European Centre for Medium-Range Weather Forecasts (ECMWF)
   participants:
-  - ''
+  - Christiana Photiadou, Scientific Project Manager, Swedish Meteorological and Hydrological
+    Institute (SMHI) ; Alberto Troccoli, Founder & Managing Director, World Energy
+    & Meteorology Council (WEMC)
   source: http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule
   start: 2018-12-10 10:30:00
-  title: Copernicus
-- description: <p></p>
+  title: Copernicus Climate Change Service (C3S) implemented by the European Centre
+    for Medium-Range Weather Forecasts (ECMWF)
+- description: "<p><p><span style=\"text-align: justify;\">The title of European Green\
+    \ Capital is awarded\_every year to a European city for its commitment\_to environmental,\
+    \ social and economic\_sustainability. The first city was awarded the\_title in\
+    \ 2010.</span><br/></p><p style=\"text-align: justify;\"><span>Now in its 11th\
+    \ year, the European Commission will\_</span><span>launch the competition to identify\
+    \ the winner of\_</span><span>the European Green Capital 2021 title. The winner\_\
+    </span><span>of this title will also receive a financial incentive\_</span><span>of\
+    \ \u20AC350,000 to kick-start their environmental\_</span><span>programme for\
+    \ the year!</span></p><p></p></p>"
   end: 2018-12-10 13:30:00
   location: EU Pavilion Meet-the-Expert
-  organiser: ''
+  organiser: Environment Directorate-General - European Commission
   participants:
-  - ''
+  - Robert McMahon
   source: http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule
   start: 2018-12-10 11:30:00
-  title: DG ENV
+  title: Will your city be the next winner of the European Green Capital Award?
 - description: <p></p>
   end: 2018-12-10 16:00:00
   location: EU Pavilion Meet-the-Expert
@@ -2194,7 +2223,9 @@
   location: EU Pavilion Room Vienna
   organiser: 1. Pierre Dechamps; 2. European Commission (Research and Innovation)
   participants:
-  - 1. DDG Patrick Child; 2. Prof. John Schellnhuber; 3. Advisor Beata Jaczewska
+  - 1. DDG Patrick Child; 2. Prof. John Schellnhuber; 3. Advisor Beata Jaczewska;
+    4. Martin Porter, Executive Chair Brussels, Cambridge Institute for Sustainability
+    Leadership.
   source: http://ec.europa.eu/clima/events/0124/calendar_en.htm#schedule
   start: 2018-12-12 14:30:00
   title: '<a href="https://twitter.com/hashtag/EU2050">#EU2050</a>: High-Level Panel
