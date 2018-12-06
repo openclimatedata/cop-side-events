@@ -15,7 +15,14 @@ for event in events:
     print(40 * "=")
     title = event.find("h2", first=True).text
     info = event.find("p")
-    if len(info) == 2:
+    info = [x for x in info if len(x.text) > 0]
+    if len(info) == 3:
+        description = info[0].text
+        organiser = info[1].text
+        date = info[2].text
+        day = dateparse("2018 " + date.split("|")[0].strip())
+        time = date.split("|")[1].strip()
+    elif len(info) == 2:
         organiser = info[0].text
         date = info[1].text
         day = dateparse("2018 " + date.split("|")[0].strip())
@@ -25,6 +32,10 @@ for event in events:
         date = "2018 December 2"
         day = dateparse("2018 December 2")
         time = info[0].text.strip()
+    elif len(info) == 1:
+        date = info[0].text
+        day = dateparse("2018 " + date.split("|")[0].strip())
+        time = date.split("|")[1].strip()
     if " - " in time:
         (start, end) = time.split(" - ")
         start = start.split(" ")[0].strip().replace(".", ":")
