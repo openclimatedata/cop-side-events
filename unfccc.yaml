@@ -1865,6 +1865,12 @@
     text: "Promotional flyer [504\_kb]"
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=NR38JDZ3JWMCXZ85J2AHTJG0I3JH3ICV
     text: "Programme [201\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=XCXT3VHFX31L79UM4H65T47B4XTV5K60
+    text: "1-Supporting CSO Capacity [1\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=TCDY66P1GD68G1WS9G09GVG8YDICAY7S
+    text: "2-Climate Finance Capacity Building [442\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=R630JSA9Y9BAUXAQ4P9OAQ6TMNMF7YXP
+    text: "3-CF Transparency Mechanism [2\_Mb]"
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-07 15:00:00
@@ -2094,7 +2100,9 @@
     Development, ADB Country reps: PRC, India, Indonesia, Fiji, Bhutan (to be invited)
     Institutions: World Bank, NDC Partnership, Insuresilience partnership (to be invited)'
   end: 2018-12-07 20:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=S0O5KCBC1XMAEUOAIJ4RT8246ETPCPCQ
+    text: "ADB side-event flyer [2\_Mb]"
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-07 18:30:00
@@ -2781,11 +2789,17 @@
     text: "Brazil_Rondonia JS profile [599\_kb]"
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=ARUJM670O1IJ47M8IVZ48DZPGMZ3M853
     text: "Link to the state of Jurisdictional Sustainability report [515\_kb]"
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=BHRRABX7J27FGKJ3YUE4UMQZLB25WI34
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=M3K5KXIPO6NJF759H8A2LS62CQSLZ64Q
     text: "The Twenty-Year-Old Partnership Between Indigenous Peoples and the Government\
       \ of Acre, Brazil Authors Maria DiGiano, Elsa Mendoza, Maria Luiza Ochoa, Juan\
       \ Ardila, Francisca Oliveira de Lima, Daniel Nepstad Abstract In this report,\
       \ we share lessons for re [3\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=U6VFPNR4FEFEATM03KHN2GLB4USG95SH
+    text: "LA ALIANZA DE DOS DE\u0301CADAS ENTRE LOS PUEBLOS INDI\u0301GENAS Y EL\
+      \ GOBIERNO DE ACRE, BRASIL [3\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=QRGNMWGM6ZTYPZ00ZNWNGW3QYOCKMAOK
+    text: "A PARCERIA DE VINTE ANOS ENTRE POVOS INDI\u0301GENAS E O GOVERNO DO ACRE,\
+      \ BRASIL [3\_Mb]"
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-10 16:45:00
