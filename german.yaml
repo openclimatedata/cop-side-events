@@ -1,86 +1,16 @@
-- end: 2018-12-05 13:30:00
-  links: null
-  location: German Pavilion
-  organiser: Germanwatch
-  participants:
-  - 'Moderator: Julia Grimm / Lutz Weischer, Germanwatch'
-  - "Norbert Gori\xDFen, Federal Ministry for the Environment, Nature Conservation\
-    \ and Nuclear Safety (BMU), Germany"
-  - Marcia Levaggi, Ministry of Foreign Affairs, Argentina
-  - Carsten Warnecke, New Climate Institute
-  - Fazal Issa, ForumCC Tanzania, AF NGO Network
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-05 12:00:00
-  title: Exploring the role of the AF based on ongoing discussions on the Fund's
-- end: 2018-12-05 14:45:00
-  links: null
-  location: German Pavilion
-  organiser: "Climate Transparency \u2013 HUMBOLDT-VIADRINA Governance Platform gGmbH/Germanwatch\
-    \ e. V."
-  participants:
-  - 'Moderation: Yixiu Wu, China Team Leader, Strategic Communication, European Climate
-    Foundation / GSCC'
-  - Wahyu Marjaka, Director of Sectoral and Regional Resource Mobilisation, Ministry
-    of Environment and Forestry, Indonesia (tbc)
-  - "Norbert Gori\xDFen, Deputy Director General, Federal Ministry for the Environment,\
-    \ Nature Conservation and Nuclear Safety, Germany"
-  - Jesse Burton, Researcher, Energy Research Centre, South Africa
-  - Carlos Rittl, Executive Secretary, Climate Observatory, Brazil
-  - Hannah Schindler, Project Manager Climate Transparency, HUMBOLDT-VIADRINA Governance
-    Platform
-  - "Jan Burck, Senior Advisor \u2013 Low-Carbon Strategies & Energy, Germanwatch"
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-05 14:00:00
-  title: "Who are the G20 climate leaders and laggards? \u2013 Raising ambition through\
-    \ country comparisons"
-- end: 2018-12-05 17:00:00
-  links: null
-  location: German Pavilion
-  organiser: Youth Alliance for Future Energies
-  participants:
-  - "Alix Ruhlmann (Environnement Jeunesse/D\xE9croissance conviviale Montr\xE9al)"
-  - "Linda Schneider (Heinrich-B\xF6ll-Stiftung)"
-  - Meera Ceder (Ecolise)
-  - Melissa Moreano (Critical Geographers Collective)
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-05 15:30:00
-  title: Beyond economic growth
-- end: 2018-12-05 19:00:00
-  links: null
-  location: German Pavilion
-  organiser: BUND/ Friends of the Earth Germany
-  participants:
-  - 'Moderator: Christian Mihatsch'
-  - Malte Hentschke, Climate Alliance Germany
-  - Anna Ackermann, Centre for Environmental Initiatives "EcoAction"
-  - Diego Cardona, Censat Agua Viva
-  - Davit Sidamonidze, Greens Movement Georgia
-  - Ilka Wagner, Federal Ministry for the Environment, Nature Conservation and Nuclear
-    Safety (BMU), Germany
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-05 17:30:00
-  title: Civil society involvement in climate policy
-- end: 2018-12-05 19:30:00
-  links: null
-  location: German Pavilion
-  organiser: VENRO/Klima-Allianz Deutschland "IPCC Special Report 1.5 C"
-  participants:
-  - Germanwatch
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-05 19:00:00
-  title: Progress of the day
 - end: 2018-12-06 11:30:00
   links: null
   location: German Pavilion
   organiser: "GegenStr\xF6mung \u2013\_CounterCurrent / INFOE e. V."
   participants:
-  - 'Moderator: Thomas Fatheuer'
-  - "N.N. (COICA \u2013 tbc)"
-  - "N.N. (International Hydropower Association \u2013 tbc)"
-  - "Thilo Papacek (GegenStr\xF6mung \u2013 CounterCurrent)"
+  - 'Moderator: Heike Drillisch'
+  - "Robert Guimar\xE3es, COICA/AIDESEP"
+  - "Sena Alouka, Jeunes Volontaires pour l\u2019Environnement (JVE) International"
+  - "Thilo Papacek, GegenStroemung \u2013 CounterCurrents"
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 10:00:00
-  title: "Hydropower \u2013 A Debate on its Sustainability and Climate-Friendliness"
+  title: "Hydropower and Water Ways \u2013 A Neglected Threat to Climate Relevant\
+    \ Eco-Systems"
 - end: 2018-12-06 11:30:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181206_Climate-resilient-development_12_00.pdf
@@ -91,23 +21,24 @@
   - 'Moderator: Pablo Suarez, Red Cross Red Crescent Climate Centre , The Hague, Netherlands'
   - Frank Fass-Metz, German Federal Ministry for Economic Cooperation and Development
     (BMZ), Germany
-  - Nasry Asfura, Mayor City of Tegucigalpa, Regional Committee for Mexico, Central
-    America and the Caribbean of ICLEI
   - Debra Roberts, IPCC Working Group II on adaptation, Urban Planner, Durban, South
     Africa
+  - Nasry Asfura, Mayor City of Tegucigalpa, Regional Committee for Mexico, Central
+    America and the Caribbean of ICLEI
   - Tania Osejo Carrillo, World Food Programme (WFP), Rome
   - Anne Hammill, International Institute for Sustainable Development (IISD) and NAP
     Global Network, Winnipeg
   - Michael Mullan, OECD
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 10:00:00
-  title: 'Climate resilient development: Comprehensive climate risk management strategies
+  title: 'Climate Resilient Africa: Comprehensive climate risk management strategies
     to secure livelihoods for all'
 - end: 2018-12-06 14:45:00
   links: null
   location: German Pavilion
-  organiser: Federal Ministry of Education and Research (BMBF) / German Aerospace
-    Center (DLR)
+  organiser: Federal Ministry of Education and Research (BMBF), Germany / German Aerospace
+    Center (DLR), AGH University of Science and Technology, Cracow / Japan Aerospace
+    Exploration Agency (JAXA)
   participants:
   - 'Moderators: Andreas Fix, DLR and Heinrich Bovensmann, University of Bremen Andreas
     Fix, German Aerospace Center (DLR)'
@@ -123,17 +54,18 @@
 - end: 2018-12-06 17:00:00
   links: null
   location: German Pavilion
-  organiser: UN Environment, Global Peatlands Initiative / Greifswald Mire Centre
+  organiser: Federal Ministry for the Environment, Nature Conservation and Nuclear
+    Safety (BMU), UN Environment, Global Peatlands Initiative / Greifswald Mire Centre
     and Wetlands International
   participants:
   - 'Moderator: Dianna Kopansky, UN Environment'
-  - Hans Joosten, Greifswald Mire Centre
-  - Tatiana Minayeva, Wetlands International
-  - Andrey Sirin, PeatRus, Russian Academy of Sciences (tbc)
-  - Merritt Turetsky, University of Guelph, Canada (tbc)
-  - Nazir Foead, Peatland Restoration Agency, Indonesia
-  - Eric Munzhedzi, South African National Biodiversity Institute (tbc)
-  - Franziska Tanneberger, Greifswald Mire Centre
+  - Hans Joosten, Greifswald Mire Centre, Germany
+  - Andrey Sirin, Institute of Forest Science Russian Academy of Sciences, Russian
+    Federation
+  - Wiktor Kotowski, Warsaw University, Poland
+  - Ruandha Agung Sugardiman, Director General of Climate Change Control, Indonesia
+    (tbc)
+  - Mark Reed, Newcastle University, UK
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 15:30:00
   title: 'The trace of haze: Peat fires as local and global challenges'
@@ -147,15 +79,14 @@
   - 'Moderation: Christoph Bals, Policy Director, Germanwatch'
   - Leonardo Martinez-Diaz, Global Director, Finance Centre, WRI
   - Frank Fass-Metz, Deputy Director General, BMZ
-  - Hanna Fekete, Partner, NewClimate Institute
-  - "Andrea Rodr\xEDguez, Climate Finance Expert Fundaci\xF3n Avina"
-  - Stephen A. Hammer, Advisor, Global Partnerships & Strategy, Climate Change, World
-    Bank Group, Washington
+  - Hanna Fekete, Partner, New Climate Institute
+  - "Andrea Rodr\xEDguez, Fundaci\xF3n Avina"
+  - Lutz Weischer, Germanwatch
+  - Stephen A. Hammer, World Bank Group, Washington
   - Anthony Nyong, Director for Climate Change and Green Growth, African Development
     Bank
   - Monica Scatasta, Head of Environment, Climate and Social Policy, European Investment
     Bank
-  - Lutz Weischer, Team Leader International Climate Policy, Germanwatch
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 17:30:00
   title: 'Aligning finance with the Paris Agreement: The role of multilateral development
@@ -166,7 +97,7 @@
   organiser: VENRO/Klima-Allianz Deutschland "Reflection and Dialogue Space"
   participants:
   - IASS
-  - "Jugendb\xFCndniss"
+  - "Jugendb\xFCndnis"
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-06 19:00:00
   title: Progress of the day
@@ -175,15 +106,15 @@
   location: German Pavilion
   organiser: ICC Germany e. V.
   participants:
-  - 'Moderator: Jacqueline Albers, Association of German Chambers of Industry and
-    Commerce'
+  - 'Moderator: Julian Schorpp, DIHK'
   - "Key Note: Ingrid-Gabriela Hoven, Director-General, Global Issues\u2014Sector\
     \ Policies and Programmes, Federal Ministry of Economic Cooperation and Development"
+  - Jacqueline Albers, Association of German Chambers of Industry and Commerce
   - Katarin Wagner, HSBC Deutschland
   - Tara Nitz, German Chemical Industry Association (VCI)
   - Aki Kachi, Climate Policy Analyst, NewClimate Institute
   - Kai Remco Fischer, Coordinator Climate Change, UNEP FI
-  - Chris Weber, Global Climate and Energy Lead, WWF (tbc.)
+  - Chris Weber, WWF
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 10:00:00
   title: "Climate Finance \u2013 Next steps to foster climate action"
@@ -193,13 +124,16 @@
   organiser: Secretariat of NDC Support Cluster, GIZ (Support Program for the Implementation
     of the Paris Agreement)
   participants:
-  - 'Moderator: Jennifer Morgan, Greenpeace International - tbc'
-  - "Frauke R\xF6ser, Project co-director, NewClimate Institute (tbc)"
-  - Pablo Viera, Global Director, NDC Partnership (tbc)
-  - "Norbert Gori\xDFen, Deputy Director General, IK I, BMU (tbc)"
-  - Anne Hammill, (IISE/NAP Global Network)
-  - Ron Benioff, Executive Director, LEDS-GP, NDC Cluster
-  - Dale Rigobert, (Minsitry of Environment, St. Lucia)
+  - 'Moderation: John Christensen, UNEP DTU Partnership'
+  - Gale Rigobert, Minister for Education, Innovation, Gender and Sustainable Development,
+    Saint Lucia (tbc)
+  - "Norbert Gori\xDFen, German Federal Ministry for the Environment, Nature Conservation\
+    \ and Nuclear Safety (BMU), Germany"
+  - Anne Hammill, Resilience Program, International Institute for Sustainable Development
+    (IISD) / NAP Global Network
+  - Ron Benioff, LEDS-GP
+  - Pablo Vieira, NDC Partnership
+  - "Niklas Ho\u0308hne, NewClimate Institute"
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 12:00:00
   title: "Driving NDC Implementation \u2013 the Role of Global Initiatives and Networks"
@@ -212,6 +146,8 @@
   participants:
   - 'Moderation: John Matthews, Alliance for Global Water Adaptation (AGWA)'
   - Paul Mafabi, Ministry of Water and Environment, Uganda (by video)
+  - Frank Fass-Metz, Federal Ministry for Economic Cooperation and Development (BMZ),
+    Germany
   - Arthur Neher, Climate Smart Land Use, Wetlands International
   - Alfred Okot Okidi, Permanent Secretary, Ministry of Water and Environment, Uganda
   - Francisco Rilla, Ramsar Convention Secretariat, Switzerland
@@ -242,10 +178,11 @@
   location: German Pavilion
   organiser: MISEREOR
   participants:
-  - Julietta Perucca, Office of the UN Special Rapporteur for Adequate Housing, OHCHR
-  - Sarah Colenbrander, Head of Global Programmes, Coalition for Urban Transitions
-  - N.N. Misereor Partner
-  - N.N. UCLG (United Cities and Local Governments)
+  - 'Moderation: Clara-Luisa Weichelt, MISEREOR'
+  - Julieta Perucca, Office of the UN Special Rapporteur for Adequate Housing (OHCHR)
+  - Sarah Colenbrander, Coalition for Urban Transitions
+  - Almuth Schauber, MISEREOR
+  - Sara Phung, German Institute for Human Rights
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-07 17:30:00
   title: Human-rights Based Implementation of Climate Policies in Urban Areas
@@ -265,16 +202,15 @@
   organiser: Friedrich-Ebert-Stiftung / Bread for the World
   participants:
   - 'Moderator: Manuela Matthess, Friedrich-Ebert-Stiftung'
-  - Rhoda Boateng, Policy Advisor, International Trade Union Confederation Africa
-    (tbc)
-  - Jennifer Tollmann, Researcher, E3G (tbc)
-  - Nguy Thi Khanh, Director, Green ID Vietnam (tbc)
-  - Ingrid-Gabriela Hoven, Head of Department, Min. of Econ. Cooperation and Development
-    (tbc)
+  - Philipp Knill, Federal Ministry for Economic Cooperation and Development (BMZ),
+    Germany
+  - Jennifer Tollmann, E3G
+  - Nnimmo Bassey, Health of Mother Earth Foundation, Nigeria
+  - "Joachim F\xFCnfgelt, Bread for the World"
+  - Raju Prandhit Chedri, Prakriti Ressource Centre, Nepal (tbc)
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-08 10:00:00
-  title: Ensuring a Just Transition Worldwide - Requirements for a Just Transition
-    to a 1.5 World
+  title: Ensuring a Just Transition Worldwide
 - end: 2018-12-08 13:30:00
   links: null
   location: German Pavilion
@@ -342,7 +278,7 @@
   start: 2018-12-08 17:30:00
   title: "Mobility Transition in our Cities: Prioritizing People \u2013Decarbonizing\
     \ Transport"
-- end: 2018-12-08 19:00:00
+- end: 2018-12-08 19:30:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ) / Transformative
@@ -350,7 +286,7 @@
   participants:
   - Klima-Pilger
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-08 17:30:00
+  start: 2018-12-08 19:00:00
   title: VENRO/Klima-Allianz Deutschland "Climate - Pilgrimage Bonn - Katowice
 - end: 2018-12-10 11:30:00
   links: null
@@ -423,8 +359,8 @@
 - end: 2018-12-10 19:00:00
   links: null
   location: German Pavilion
-  organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
-    Safety (BMU) / Agora Verkehrswende
+  organiser: "Federal Ministry for the Environment, Nature Conversation and Nuclear\
+    \ Safety (BMU),\_ Agora Verkehrswende"
   participants:
   - 'Moderator: Christian Hochfeld, Executive Director, Agora Verkehrswende'
   - Jochen Flasbarth, State Secretary, Federal Ministry for the Environment (BMU),
@@ -448,7 +384,7 @@
 - end: null
   links: null
   location: German Pavilion
-  organiser: European Youth for climate action
+  organiser: European Youth for Climate Action
   participants: null
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-10 19:45:00
@@ -543,13 +479,13 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-11 19:00:00
   title: Rapid, Low Cost, Scalable reforestation to combat climate change
-- end: 2018-12-11 19:30:00
+- end: null
   links: null
   location: German Pavilion
   organiser: VENRO/ World Vision
   participants: null
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 19:00:00
+  start: 2018-12-11 19:30:00
   title: Evening reception with NGOs and German Federal Government
 - end: 2018-12-12 11:30:00
   links:
@@ -638,14 +574,14 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-12 17:30:00
   title: Collaborative climate action
-- end: 2018-12-12 19:00:00
+- end: 2018-12-12 19:30:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU)
   participants: null
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-12 17:30:00
+  start: 2018-12-12 19:00:00
   title: BDI/ICC
 - end: 2018-12-13 11:15:00
   links: null
@@ -712,9 +648,12 @@
   location: German Pavilion
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU)
-  participants: null
+  participants:
+  - 'Moderation: Jennifer Morgen, Greenpeace'
+  - Svenja Schulze, Federal Minister for the Environment, Nature Conservation and
+    Nuclear Safety (BMU), Germany
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-13 15:30:00
+  start: 2018-12-13 16:00:00
   title: "Climate Change Policy \u201EEnergiewende\u201C and the German approach to\
     \ phase out coal"
 - end: 2018-12-13 19:00:00
@@ -732,14 +671,14 @@
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 17:30:00
   title: Adaptation strategies for agriculture in Central Asia
-- end: 2018-12-13 19:00:00
+- end: 2018-12-13 19:30:00
   links: null
   location: German Pavilion
   organiser: Federal Ministry of Education and Research (BMBF) / Institute for Biodiversity
     Network e.V. (ibn)
   participants: null
   source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-13 17:30:00
+  start: 2018-12-13 19:00:00
   title: Klima-Allianz Deutschland/CARE "gender-aspects"
 - end: 2018-12-14 11:30:00
   links: null
