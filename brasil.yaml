@@ -21,12 +21,6 @@
   start: 2018-12-04 17:40:00
   title: "Launch of the Global Network \u201CSustainable water and energy solutions\u201D\
     \ ITAIPU + UNDESA"
-- end: 2018-12-05 11:10:00
-  location: Brazilian Pavilion
-  source: http://espacobrasil.gov.br/en/brasil-pavilion/
-  start: 2018-12-05 10:00:00
-  title: GHG Protocol as a tool to manage GHG emissions from agriculture and forestry
-    sectors in Brazil WRI
 - end: 2018-12-05 15:30:00
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
@@ -86,6 +80,12 @@
   start: 2018-12-07 11:30:00
   title: 'Experiences with national and subnational climate laws: enhancing ambition
     PUC-RJ + IASS + USP + GRI-LSE + EI + CL + GOV-THURINGIA'
+- end: 2018-12-07 14:00:00
+  location: Brazilian Pavilion
+  source: http://espacobrasil.gov.br/en/brasil-pavilion/
+  start: 2018-12-07 13:00:00
+  title: GHG Protocol as a tool to manage GHG emissions from agriculture and forestry
+    sectors in Brazil  WRI
 - end: 2018-12-07 15:30:00
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
@@ -129,28 +129,28 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 14:00:00
-  title: Valuation and exchange of environmental assets UNICA + MRE + CBI + CARB +
-    UBRABIO
+  title: Valuation and exchange of environmental assets SFB + KFW +GIZ + BIRD + SEMA-AP
+    + SEAMA-ES
 - day: *id001
   end: 2018-12-10 16:40:00
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 15:30:00
   title: "Innovative tools to decarbonize transportation UNICA + CBI + CARB + UBRABIO\
-    \ + COALIZ\xC3O + FPB"
+    \ + COALIZ\xC3O + FPBio"
 - day: *id001
   end: 2018-12-10 18:10:00
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 17:00:00
-  title: The Sustainable Development Goals (SDG) in the Brazilian business agenda
-    APEX + UNOSSC + UNGC + MRE GCN-ID/KE/BR + VOTORANTIM
+  title: The Sustainable Development Goals (SDG) in the business agenda APEX + UNOSSC
+    + UNGC + MRE GCN-ID/KE/BR + VOTORANTIM
 - day: *id001
   end: 2018-12-10 19:40:00
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 18:30:00
-  title: "Brazil\u2019s Long-Term Strategy (LTS) for 2050 FBMC + WRI + CEBDS +\_Escolhas"
+  title: "Brazil\u2019s Long-Term Strategy (LTS) for 2050 FBMC + WRI + CEBDS +\_ESCOLHAS"
 - day: &id002 2018-12-11
   end: 2018-12-11 11:10:00
   location: Brazilian Pavilion
@@ -191,8 +191,8 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-11 17:00:00
-  title: "Forest governance: management of legal and illegal deforestation and implications\
-    \ for Brazilian agriculture SRB + COALIZ\xC3O + CAN + FGVces"
+  title: "Forest governance: management of land use and implications for Brazilian\
+    \ agriculture FGVces + COALIZ\xC3O + CNA + MMA + PGR"
 - day: *id002
   end: 2018-12-11 19:40:00
   location: Brazilian Pavilion
@@ -206,8 +206,7 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-12 10:00:00
   title: "What is the future of forests and agriculture in Brazil? COALIZ\xC3O + UNICA\
-    \ +IMAZON + IPAM + CEBDS COALIZ\xC3O + SRB + IPAM + WRI + IDS + WWF + SOLIDARIDAD\
-    \ + CEBDS"
+    \ + IMAZON + IPAM + CEBDS"
 - day: *id003
   end: 2018-12-12 12:40:00
   location: Brazilian Pavilion
@@ -284,4 +283,4 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-13 18:30:00
   title: Contributions and initiatives of the Brazilian private sector under the climate
-    change agenda CEBDS + VOTORANTIM CIMENTOS + BRASKEM + BAYER + VOTORANTIM
+    change agenda CEBDS + BAYER + VOTORANTIM C + VOTORANTIM H + BRASKEM

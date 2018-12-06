@@ -784,7 +784,11 @@
 
     Speakers: TBD'
   end: 2018-12-05 14:45:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=P5F5JSCBF69RBJR8CY5ZTSQGBDJ9FG93
+    text: "Flyer [789\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=D5DFGBWXSSI1NNM4HOR4ACBSFQ2HDYVL
+    text: "Report [2\_Mb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-05 13:15:00
@@ -2132,10 +2136,12 @@
     NGO representatives tbc.'
   end: 2018-12-07 20:00:00
   links:
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=L9AHDOBUQQTBFHVW8DT61OLHZ7YI8K90
-    text: "Flyer/Programme Side Event [195\_kb]"
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=E5AB0HLOS971XJU6T47S7I34VZDO6IOJ
     text: "GHLG Study Right to Health and CC: Legal Perspective [1\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=ZJ486473H694U2TH7PMC96TSESSJNCLX
+    text: "Background Note & Speakers [719\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=KZUN15WFXB4QDFT0BN83LFKXDBQ91CR0
+    text: "Flyer/Programme Side Event [196\_kb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-07 18:30:00
@@ -2654,7 +2660,9 @@
     world closer to its climate goals.
 
 
-    Speakers: tbc.'
+    Speakers: Niklas Hohne, NewClimate Institute; Mariana Panuncio-Feldman, WWF; Bobbi
+    Plecas, Deputy Minister of Climate Change, B.C.; Nate Hultman, UMD Center for
+    Global Sustainability'
   end: 2018-12-10 16:30:00
   links: []
   location: Pieniny
@@ -2971,18 +2979,19 @@
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-11 11:30:00
   title: Policy response to address Climate Induced Migration in South Asia
-- description: 'Implementing and strengthening the Paris Agreement will depend significantly
-    on the joint effort of governments and businesses to finance the shift to a world
-    well below 2 degrees. This requires a strategic discussion what business needs
-    from policymakers to leverage investments and vice versa.
-
-
-    Speakers: Business representatives and policymakers from developed & developing
-    countries.'
+- description: "Implementing and strengthening the Paris Agreement will depend significantly\
+    \ on the joint effort of governments and businesses to finance the shift to a\
+    \ world well below 2 degrees. This requires a strategic discussion what business\
+    \ needs from policymakers to leverage investments and vice versa.\n\nSpeakers:\
+    \ Mr Mauro Petriccione, European Commission; Mr Olivier Imbault, BusinessEurope/Air\
+    \ Liquide; Ms Sandrine Dixson-Decl\xE8ve, The Club of Rome; Ms Helena Vines Fiestas,BNP\
+    \ Paribas; Ms Tytti Peltonen, Mets\xE4 Group; Mr Pascal Chalvon, Solvay; Moderator:\
+    \ Mr Nick Campbell, International Chamber of Commerce."
   end: 2018-12-11 13:00:00
   links:
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=NTOSWEA646F0CQ41CL8ZP7HVXP8DZZCI
-    text: "Agenda [112\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=FE6P6NGAYY5BTT90TGMT62CYKYPALYI2
+    text: "2018-12-11 COP24 side event agenda - unlocking private finance final [112\_\
+      kb]"
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-11 11:30:00
@@ -3218,10 +3227,13 @@
     \ on climate stabilization. A safe operating space for humanity within Planetary\
     \ Boundaries and the sustainable use of Global Commons like the atmosphere are\
     \ concepts combining natural and social sciences to safeguard our future.\n\n\
-    Speakers: Johan Rockstr\xF6m (PIK), Ottmar Edenhofer (PIK), plus yet to be confirmed\
-    \ further speakers"
+    Speakers: Johan Rockstr\xF6m, PIK, Ottmar Edenhofer, PIK/MCC, Jan Minx, MCC, Naoko\
+    \ Ishii, Global Environment Facility, Joanna Ma\u0107kowiak Pandera, Forum Energii,\
+    \ Simon Sharpe, Department for Business, Energy and Industrial Strategy (BEIS)"
   end: 2018-12-11 16:30:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=L1XV6IUQOR93QLJISUYLYH52IY3UG1Z8
+    text: "Side Event Flyer [117\_kb]"
   location: Pieniny
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-11 15:00:00
@@ -3556,16 +3568,14 @@
   start: 2018-12-12 11:30:00
   title: Bringing socio-economic benefits through enhanced deployment of renewable
     energy
-- description: 'Building on a decade of working on REDD+, the event will bring together
-    diverse stakeholders for an engaging discussion and practical examples of transformative
-    partnerships, new technological approaches and innovative financial instruments
-    which are key for scaling up forest-based climate action.
-
-
-    Speakers: Ola Elvestuen, Minister Climate and Environment, Norway Roselyn F. Adjeh,
-    Director Climate Change, Forestry Commission, Ghana Pierre Rousseau, Senior Advisor
-    Sustainable Business, BNP Paribas David Saah, Director Geospatial Analysis Lab,
-    USFCA Maria H. Semedo, Deputy Director-General, FAO'
+- description: "Building on a decade of working on REDD+, the event will bring together\
+    \ diverse stakeholders for an engaging discussion and practical examples of transformative\
+    \ partnerships, new technological approaches and innovative financial instruments\
+    \ which are key for scaling up forest-based climate action.\n\nSpeakers: Fabiola\
+    \ Mu\xF1oz, Minister Environment, Peru; Ola Elvestuen, Minister Climate and Environment,\
+    \ Norway; Roselyn F. Adjeh, Director Climate Change, Forestry Commission, Ghana;\
+    \ Pierre Rousseau, Senior Advisor Sustainable Business, BNP Paribas; David Saah,\
+    \ Director Geospatial Analysis Lab, USFCA"
   end: 2018-12-12 13:00:00
   links:
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=UAJL2HI3HAPO6JP4X01I4C3Y6520LOUD
@@ -3863,11 +3873,13 @@
     \ risks and opportunities of climate change. This high-level panel explores the\
     \ role of finance in achieving the Paris Agreement and ensuring the transition\
     \ towards a low-emission, resilient future, as envisioned by Article 2.1.c.\n\n\
-    Speakers: Angel Gurr\xEDa, OECD Secretary-General; Erik Solheim, UN Environment\
-    \ Executive Director; high-level representative from World Bank Group; ministers;\
-    \ CEOs of financial institutions."
+    Speakers: Angel Gurr\xEDa, OECD Secretary-General; Satya S. Tripathi, Assistant\
+    \ Secretary-General, UN Environment; high-level representative from World Bank\
+    \ Group; ministers; CEOs of financial institutions."
   end: 2018-12-12 18:15:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=T75UL9TDI1BNAVVQ54BCWTMHE0GASINA
+    text: "OECD-UNEPFI Flyer side-event [426\_kb]"
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-12 16:45:00
@@ -3979,6 +3991,12 @@
   links:
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=8PG2EB5EOL6D6MED41GWJCOSWJB52QV0
     text: "Event Flyer [3\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=LN71XJMEOYUWQU8J960V5YFUNZCZQ4JN
+    text: "Gianyar Declaration on Climate Change and Cultural Heritage [207\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=SFL1FI7YRK2ZG0ITGS9SJDCFDCD2YEW4
+    text: "Heritage Conservation and the SDGs [3\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=4LAHWH1HVCZGBYSFH93PGPF76XAOGAKN
+    text: "What is INTO? [113\_kb]"
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-13 11:30:00
@@ -4472,10 +4490,10 @@
     of accreditation and capacity building also discussed.
 
 
-    Speakers: Intro, A Tomlinson MS Standards, M Baxter Sector Perspectives: Marine,
-    E Hughes ISO GHG quantification, R Poivet /Products TBD ICAO CORSIA & Accredited
-    Verification, J Hupe TBC/C Makino Climate Action & Sendai Framework, C Makino
-    ISO Adaptation Standards, J Dora Capacity Building, N Blyth'
+    Speakers: Intro A. Tomlinson, MS Standards M. Baxter, ISO GHG quantification R.
+    Poivet / D. Pernigotti, ICAO CORSIA video, Accredited Verification D. Pernigotti,
+    Climate Action &Sendai Framework N. Wardojo, Adaptation L. Wilson, New Standards
+    W. Kahlenborn/J. Shideler, Capacity Building N. Blyth'
   end: 2018-12-14 13:00:00
   links: []
   location: Warmia

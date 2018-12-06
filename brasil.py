@@ -17,7 +17,6 @@ week1 = week1.drop(5, axis=1)
 week1.columns = columns.drop([1])
 week1 = week1.drop([0, 1])
 week1 = week1.set_index("WEEK 1")
-week1 = week1.drop('1pm – 2pm')
 
 for day in week1.columns:
     print("------")
@@ -27,6 +26,8 @@ for day in week1.columns:
         start = timeparse(f"{date.isoformat()} {start}")
         end = timeparse(f"{date.isoformat()} {end}")
         title = week1.loc[time, day]
+        if title == "LUNCH":
+            continue
         if not pd.isnull(title):
             events.append({
                 "start": start,
@@ -40,6 +41,7 @@ for day in week1.columns:
 week2 = pd.read_html("cache/brasil-week-2.html")
 assert len(week2) == 1
 week2 = week2[0]
+week2 = week2.drop(5, axis=1)
 columns = week2.iloc[0]
 week2.columns = columns
 week2 = week2.drop([0, 1])
