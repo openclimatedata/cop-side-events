@@ -4,3 +4,4 @@ jinja2-time
 pyyaml
 ics
 html5lib
+python-slugify

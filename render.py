@@ -1,4 +1,5 @@
 import yaml
+from slugify import slugify
 from jinja2 import Environment, FileSystemLoader
 
 template_loader = FileSystemLoader(searchpath="./")
@@ -21,8 +22,9 @@ for day in range(2, 15):
             event["first"] = True
             break
 
-for idx, event in enumerate(events):
-    event["idx"] = idx
+for event in events:
+    # Create Hash from location and start time, cutting of seconds.
+    event["idx"] = slugify(f"{event['location']}-{event['start']}")[:-3]
 
 with open("index.html", "w") as f:
     f.write(template.render(events=events))
