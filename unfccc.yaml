@@ -1772,6 +1772,8 @@
   links:
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=JSLD98B2YI0RKZFQS35YX47OTVV8TY2S
     text: "Agenda [331\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=GII5ND3NC4F3AOME9O1T9RDM1VW0NCHA
+    text: "Agenda updates [331\_kb]"
   location: Bug
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-07 13:15:00
@@ -1936,8 +1938,12 @@
     \ South Asia, Zareen Myles, INSEDA/WAFD."
   end: 2018-12-07 16:30:00
   links:
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=P106FPE54E6XMHDBS85MG2SNL4PFCTM5
-    text: "Program [797\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=549OJL8EI8USGI41T6JH5YONMADH30CW
+    text: "Policy Brief West Africa Renewables Social Dimension ENGLISH [236\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=EEHWCLI31UTTR62OL7C7PXF1ABX66E4C
+    text: "Policy Brief West Africa Renewables Social Dimension FRENCH [247\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=C4L5R81KX39OZ86EWTS5W1O2URETSINJ
+    text: "PROGRAM Dec 7 INFORSE-ENDA_INSEDA Side Event [165\_kb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-07 15:00:00
@@ -3963,16 +3969,17 @@
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-12 18:30:00
   title: 'GCF high-level side-event: Successful start. Ambitious future.'
-- description: 'The EU has approved its Member State level non-ETS targets until 2030.
-    A key compliance mechanism is the trading of allocations between Member States.
-    We will discuss implementation of trading, especially the EBRD''s ESRGIS project
-    that develops guidelines for Member States that help trading
-
-
-    Speakers: Barbara Botos, ITM, Jan-Willem van de Ven, EBRD, Istvan Bart, CSI2050,
-    Dian Phylipsen, SQ Consult, Wolfgang Diernhofer, KPC'
+- description: "The EU has approved its Member State level non-ETS targets until 2030.\
+    \ A key compliance mechanism is the trading of allocations between Member States.\
+    \ We will discuss implementation of trading, especially the EBRD's ESRGIS project\
+    \ that develops guidelines for Member States that help trading.\n\nSpeakers: Barbara\
+    \ Botos (Hungary); Jan-Willem van de Ven (EBRD); Istvan Bart (Climate Strategy\
+    \ 2050 Institute); Jakob Graichen; Wolfgang Diernhofer (Kommunalkredit Public\
+    \ Consulting); Hannu Lamp (Estonia); Gabriela Fischerov\xE1 (Slovak Republic)"
   end: 2018-12-12 20:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=6H8CG5QG4O7DCLD2R2UG2XQ10RW7HLFN
+    text: "Bart presentation [345\_kb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-12 18:30:00
