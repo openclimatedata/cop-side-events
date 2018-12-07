@@ -13,8 +13,7 @@ week1 = pd.read_html("cache/brasil-week-1.html")
 assert len(week1) == 1
 week1 = week1[0]
 columns = week1.iloc[0]
-week1 = week1.drop(5, axis=1)
-week1.columns = columns.drop([1])
+week1.columns = columns
 week1 = week1.drop([0, 1])
 week1 = week1.set_index("WEEK 1")
 
@@ -41,7 +40,6 @@ for day in week1.columns:
 week2 = pd.read_html("cache/brasil-week-2.html")
 assert len(week2) == 1
 week2 = week2[0]
-week2 = week2.drop(5, axis=1)
 columns = week2.iloc[0]
 week2.columns = columns
 week2 = week2.drop([0, 1])
