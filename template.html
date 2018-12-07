@@ -17,6 +17,13 @@
         padding-top: 110px;
         margin-top: -110px;
       }
+      section.section a.anchor-link {
+        opacity: 0.2;
+      }
+      section.section a.anchor-link:hover {
+        opacity: 1;
+      }
+
     </style>
   </head>
   <body class="has-navbar-fixed-top">
@@ -109,8 +116,9 @@
     </section>
     {% for event in events %}
       {% if event["first"] %}<a id="{{ event.start.strftime("%d") }}" class="anchor"></a>{% endif %}
-      <section class="section is-size-6 is-size-7-touch" id="event-{{ event["idx"] }}">
-      <p class="is-size-5 is-size-6-touch">{{ event.start.strftime('%A, %d %B') }}<br>
+      <section class="section is-size-6 is-size-7-touch">
+      <a id="{{ event['idx'] }}" class="anchor"></a>
+      <p class="is-size-5 is-size-6-touch">{{ event.start.strftime('%A, %d %B') }}<a class="anchor-link" href="#{{ event['idx'] }}"> 🔗</a><br>
       <time datetime="{{ event.start.strftime("%Y-%m-%d %H:%M") }}">{{ event.start.strftime("%H:%M") }}</time> -
       {% if event.end %}
         {{ event.end.strftime("%H:%M") }}
