@@ -12,7 +12,7 @@
       .section {
         padding: 0 1rem 0 1rem;
       }
-      a.anchor {
+      .anchor {
         display:block;
         padding-top: 110px;
         margin-top: -110px;
@@ -116,8 +116,7 @@
     </section>
     {% for event in events %}
       {% if event["first"] %}<a id="{{ event.start.strftime("%d") }}" class="anchor"></a>{% endif %}
-      <section class="section is-size-6 is-size-7-touch">
-      <a id="{{ event['idx'] }}" class="anchor"></a>
+      <section id="{{ event['idx'] }}" class="section is-size-6 is-size-7-touch anchor">
       <p class="is-size-5 is-size-6-touch">{{ event.start.strftime('%A, %d %B') }}<a class="anchor-link" href="#{{ event['idx'] }}"> 🔗</a><br>
       <time datetime="{{ event.start.strftime("%Y-%m-%d %H:%M") }}">{{ event.start.strftime("%H:%M") }}</time> -
       {% if event.end %}
@@ -147,7 +146,7 @@
         {% endfor %}
         </p>
       {% endif %}
-      <a class="clipboard-action button is-primary is-small" data-clipboard-target="#event-{{ event["idx"] }}">Copy to Clipboard</a>
+      <a class="clipboard-action button is-primary is-small" data-clipboard-target="#{{ event['idx'] }}">Copy to Clipboard</a>
       <hr>
       </section>
     {% endfor %}
@@ -156,6 +155,7 @@
   <script>
     var clipboard = new ClipboardJS('.clipboard-action')
     clipboard.on('success', function(e) {
+        console.log("Copied")
         e.clearSelection();
     })
 
