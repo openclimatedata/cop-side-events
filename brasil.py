@@ -25,7 +25,7 @@ for day in week1.columns:
         start = timeparse(f"{date.isoformat()} {start}")
         end = timeparse(f"{date.isoformat()} {end}")
         title = week1.loc[time, day]
-        if title == "LUNCH":
+        if title == "LUNCH" or title == "BREAK":
             continue
         if not pd.isnull(title):
             events.append({

@@ -115,8 +115,8 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 11:30:00
-  title: Financing initiatives for large-scale forest restoration in Brazil MMA +
-    IBAMA + PETROBRAS + BNDES + CEF
+  title: 'Political instruments to boost forest restoration: the cases of Brazil,
+    China and India  MMA + MEE + MoEF'
 - day: *id001
   end: 2018-12-10 13:50:00
   location: Brazilian Pavilion
@@ -130,7 +130,7 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 14:00:00
   title: Valuation and exchange of environmental assets SFB + KFW +GIZ + BIRD + SEMA-AP
-    + SEAMA-ES
+    + SEAMA-ES + SEMA-AM
 - day: *id001
   end: 2018-12-10 16:40:00
   location: Brazilian Pavilion
@@ -144,7 +144,7 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 17:00:00
   title: The Sustainable Development Goals (SDG) in the business agenda APEX + UNOSSC
-    + UNGC + MRE GCN-ID/KE/BR + VOTORANTIM
+    + UNGC + MRE + GCN-ID/KE/BR + VOTORANTIM
 - day: *id001
   end: 2018-12-10 19:40:00
   location: Brazilian Pavilion
@@ -177,8 +177,8 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-11 14:00:00
-  title: 'Political instruments to boost forest restoration: the cases of Brazil,
-    China and India MMA + MEE + MoEF'
+  title: Financing initiatives for large-scale forest restoration in Brazil MMA +
+    IBAMA + PETROBRAS + BNDES + CEF
 - day: *id002
   end: 2018-12-11 16:40:00
   location: Brazilian Pavilion
