@@ -115,8 +115,8 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 11:30:00
-  title: 'Political instruments to boost forest restoration: the cases of Brazil,
-    China and India  MMA + MEE + MoEF'
+  title: 'Results based payments for REDD+: challenges and opportunities for Brazil
+    MMA + BNDES + GOV-NO/DE + GOV-AC/MT'
 - day: *id001
   end: 2018-12-10 13:50:00
   location: Brazilian Pavilion
@@ -163,8 +163,9 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-11 11:30:00
-  title: 'Results based payments for REDD+: challenges and opportunities for Brazil
-    MMA + BNDES + GOV-NO/DE + GOV-AC/MT'
+  title: 'Connecting markets and territories: the role of the value chain and jurisdictional
+    initiatives to promote sustainable business PCI + TFA + GTPS + RTRS + EDF + IPAM
+    + ICV + IDH'
 - day: *id002
   end: 2018-12-11 13:50:00
   location: Brazilian Pavilion
@@ -212,9 +213,8 @@
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-12 11:30:00
-  title: 'Connecting markets and territories: the role of the value chain and jurisdictional
-    initiatives to promote sustainable business PCI + TFA + GTPS + RTRS + EDF + IPAM
-    + ICV + IDH'
+  title: The private sector in the leadership of voluntary movements to reduce climate
+    risks in Brazil MDIC + IEC + BRASKEN + ITAIPU + MMA
 - day: *id003
   end: 2018-12-12 13:50:00
   location: Brazilian Pavilion
@@ -257,13 +257,6 @@
   start: 2018-12-13 10:00:00
   title: 'Proposal for carbon pricing in Brazil: challenges and opportunities CEBDS
     + UNGC + CDP + FGVces + ICS + BRASKEM'
-- day: *id004
-  end: 2018-12-13 12:40:00
-  location: Brazilian Pavilion
-  source: http://espacobrasil.gov.br/en/brasil-pavilion/
-  start: 2018-12-13 11:30:00
-  title: The private sector in the leadership of voluntary movements to reduce climate
-    risks in Brazil MDIC + IEC + BRASKEN + ITAIPU + MMA
 - day: *id004
   end: 2018-12-13 15:10:00
   location: Brazilian Pavilion
