@@ -116,7 +116,7 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-10 11:30:00
   title: 'Results based payments for REDD+: challenges and opportunities for Brazil
-    MMA + BNDES + GOV-NO/DE + GOV-AC/MT'
+    MMA + BNDES + GOV-NO/DE'
 - day: *id001
   end: 2018-12-10 13:50:00
   location: Brazilian Pavilion
@@ -157,14 +157,14 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-11 10:00:00
   title: 'Brazil-Peru: experiences exchange in management of protected areas and climate
-    financing FAS + SEMA-AM + MINAM + ANECAP'
+    financing FAS + COICA + ANECAP'
 - day: *id002
   end: 2018-12-11 12:40:00
   location: Brazilian Pavilion
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-11 11:30:00
   title: 'Markets and territories connection: the role of supply chain and jurisdictional
-    initiatives promoting sustainable trade PCI + GTPS + RTRS + IDH'
+    initiatives promoting sustainable trade PCI-MT + GTPS + RTRS + IDH'
 - day: *id002
   end: 2018-12-11 13:50:00
   location: Brazilian Pavilion
@@ -178,7 +178,7 @@
   source: http://espacobrasil.gov.br/en/brasil-pavilion/
   start: 2018-12-11 14:00:00
   title: Financing initiatives for large-scale forest restoration in Brazil MMA +
-    IBAMA + PETROBRAS + BNDES + CEF
+    IBAMA + MAPA + BNDES
 - day: *id002
   end: 2018-12-11 16:40:00
   location: Brazilian Pavilion
