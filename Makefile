@@ -6,7 +6,7 @@ cache/eu-database.js:
 
 cache/eu-schedule-rooms.json: cache/eu-database.js
 	mv cache/eu-database.js cache/eu-local-database.js
-	sed -i 's/var opDayEvent/\/\/var opDayEvent/' cache/eu-local-database.js
+	sed -i "" 's/var opDayEvent/\/\/var opDayEvent/' cache/eu-local-database.js
 	cat eu-write-output.js >> cache/eu-local-database.js
 	node cache/eu-local-database.js
 

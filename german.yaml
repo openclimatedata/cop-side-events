@@ -1,112 +1,3 @@
-- end: 2018-12-11 11:30:00
-  links:
-  - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181211_Climate-resilient-urban-infrastructure_10_00.pdf
-    text: Event information
-  location: German Pavilion
-  organiser: Federal Ministry for Economic Cooperation and Development (BMZ), Government
-    of Argentinia
-  participants:
-  - 'Moderator: Emani Kumar, ICLEI New Delhi'
-  - Sergio Bergman, Minister of the Environment and Sustainable Development, Argentina
-  - Carlos Gentile, Ministry of the Environment and Sustainable Development, Argentina
-  - Kaoru Magosaki, Climate Change Division of Ministry of Foreign Affairs (MOFA),
-    Japan
-  - Ottmar Edenhofer, Potsdam Institute for Climate Impact Research
-  - Ingrid-Gabriela Hoven, Federal Ministry for Economic Cooperation and Development
-    (BMZ), Germany
-  - Michael Mullan, OECD
-  - Stephen A. Hammer, World Bank Group
-  - Ekhosuehi Iyahen, Insurance Development Forum (IDF)
-  - Debra Roberts, IPCC Working Group II on Adaptation, Durban, South Africa
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 10:00:00
-  title: 'Climate resilient urban infrastructure: The G20 work on adaptation'
-- end: 2018-12-11 13:30:00
-  links: null
-  location: German Pavilion
-  organiser: ICC Germany / BDI / econsense
-  participants:
-  - "Key Note: Rita Schwarzel\xFChr-Sutter, Parliamentary State Secretary at Ministry\
-    \ for Environment, Nature Conservation and Nuclear Safety (BMU), Germany"
-  - 'Moderation: Carsten Rolle, BDI'
-  - "Jan Sch\xF6nig, Siemens AG"
-  - Stephan Krinke, Volkswagen AG
-  - Bernhard Schwager, Robert Bosch GmbH
-  - "Hans-J\xF6rn Weddige, thyssenkrupp AG"
-  - Wolfgang Teubner, ICLEI representative
-  - Stephan Krinke, Volkswagen AG
-  - Oliver Wieck, ICC Germany
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 12:00:00
-  title: "Smart Cities \u2013 How Innovations Accelerate Action in Cities and Regions"
-- end: 2018-12-11 14:45:00
-  links:
-  - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181211_Green-peoples-energy-for-Africa_14_00.pdf
-    text: Event information
-  location: German Pavilion
-  organiser: Federal Ministry for Economic Cooperation and Development (BMZ)
-  participants:
-  - 'Moderator: Dorothea Otremba, GIZ'
-  - "B\xE4rbel H\xF6hn, BMZ Special Representative for Energy in Africa and former\
-    \ State Minister of Environment and Agriculture of North Rhine-Westphalia, MdB\
-    \ a.d. D\xFCsseldorf, Germany"
-  - "Manuel Ara\xFAjo, Mayor, Quelimane, Mozambique & Member of ICLEI\u2019s Global\
-    \ Executive Committee"
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 14:00:00
-  title: "Green People\u2019s Energy for Africa: Empowering people to generate their\
-    \ own renewable energies"
-- end: 2018-12-11 17:00:00
-  links: null
-  location: German Pavilion
-  organiser: Federal Ministry for Economic Affairs and Energy (BMWi) and IEA (International
-    Energy Agency Paris)
-  participants:
-  - Thorsten Herdan, Federal Ministry for Economic Affairs and Energy (BMWi), Germany
-  - "Mechthild W\xF6rsdorfer, International Energy Agency Paris"
-  - David Turk, IEA
-  - Simon Mueller, IEA
-  - Dolf Gielen, IRENA ITC
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 15:30:00
-  title: Grid Integration of Variable Renewables
-- end: 2018-12-11 19:00:00
-  links: null
-  location: German Pavilion
-  organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
-    Safety (BMU) / IK I I 4 / K III 6 I 4 together with GIZ
-  participants:
-  - 'Moderator: Rob Bradley, NDC Partnership'
-  - Jochen Flasbarth, State Secretary at Federal Ministry for the Environment, Nature
-    Conservation and Nuclear Safety (BMU), Germany
-  - Mario Ragwitz, Fraunhofer ISI
-  - Tom van Ierland, DG CLIMA, European Commission
-  - Juan Pedro Searle, Ministry of Energy, Government of Chile
-  - Josaphat Rizal Primana, Ministry of National Development Planning of Indonesia
-  - Hugo Lucas, IDEA - Ministry for the Ecologic Transition
-  - David Turk, International Energy Agency (IEA)
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 17:30:00
-  title: Pick up pace with innovation for more ambitious NDCs - How falling prices
-    for renewables and new business models help to raise ambition of NDCs
-- end: 2018-12-11 19:30:00
-  links: null
-  location: German Pavilion
-  organiser: VENRO/ World Vision
-  participants:
-  - Tony Rinaudo, winner of this years ""Alternative Nobelprice"", Principal Advisor
-    Natural Resources Food Security and Climate Change; World Vision Australia
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 19:00:00
-  title: Rapid, Low Cost, Scalable reforestation to combat climate change
-- end: 2018-12-11 21:30:00
-  links: null
-  location: German Pavilion
-  organiser: VENRO/ World Vision
-  participants: null
-  source: https://www.bmu.de/en/german-climate-pavilion/events/
-  start: 2018-12-11 20:00:00
-  title: Evening reception with NGOs and German Federal Government
 - end: 2018-12-12 11:30:00
   links:
   - href: http://www.bmz.de/de/zentrales_downloadarchiv/cop24/181212_Pursuing-1-5-degrees_10_00.pdf
@@ -115,19 +6,14 @@
   organiser: Federal Ministry for Economic Cooperation and Development (BMZ) / New
     Climate Economy NCE; German Development Institute (DIE)
   participants:
-  - "Maja G\xF6pel, Secretary General, German Advisory Council on Global Change (WBGU)\
-    \ (Moderation)"
-  - "Gerd M\xFCller, Federal Minister for Economic Cooperation and Development (BMZ),\
-    \ Germany"
+  - "Moderation: Maja G\xF6pel, Secretary General, German Advisory Council on Global\
+    \ Change (WBGU)"
+  - "Martin J\xE4ger, Federal Ministry for Economic Cooperation and Development (BMZ)"
   - Nicholas Stern, Co-Chair of the Global Commission on the Economy and Climate;
     London School of Economics
-  - Christiana Figueres , Former Executive Secretary UNFCCC; Vice-Chair of the Global
-    Covenant of Mayors for Climate & Energy (tbc)
   - Irina Ghaplanyan, First Deputy Minister for Nature Protection, Armenia
-  - Ottmar Edenhofer, Designated Director, Potsdam Institute for Climate Impact Research
-    (PIK)
-  - Preety M. Bhandari, Director, Climate Change & Disaster Risk Management, Asian
-    Development Bank, Manila
+  - Ottmar Edenhofer, Potsdam Institute for Climate Impact Research
+  - Preety M. Bhandari, Asian Development Bank, Manila
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-12 10:00:00
   title: 'Pursuing 1.5 degrees: Opening up new opportunities for economy & development,
@@ -135,17 +21,17 @@
 - end: 2018-12-12 13:30:00
   links: null
   location: German Pavilion
-  organiser: 'Cities Matter: Capacity building for transformative climate action in
-    sub-Saharan African cities'
+  organiser: C40 Climate Leadership Group, Ricardo Energy and Environment
   participants:
-  - 'Moderator: Andrea Fernandez, C40 Director'
-  - Solly Msimanga, Executive Mayor of Tshwane
+  - "Moderator: Andrea Fern\xE1ndez, C40"
+  - Max Jamieson, C40
   - Chris Dodwell, Director of Ricardo Energy & Environment
-  - Hermann Amecke, German Federal Ministry for the Environment, Nature Conservation
-    and Nuclear Safety
+  - Hermann Amecke, Federal Ministry for the Environment, Nature Conservation and
+    Nuclear Safety (BMU), Germany
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-12 12:00:00
-  title: C40 Climate Leadership Group
+  title: 'Cities Matter: Capacity building for transformative climate action in sub-Saharan
+    African cities'
 - end: 2018-12-12 14:45:00
   links: null
   location: German Pavilion
@@ -202,12 +88,13 @@
 - end: 2018-12-12 19:30:00
   links: null
   location: German Pavilion
-  organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
-    Safety (BMU)
-  participants: null
+  organiser: BDI/ICC Germany
+  participants:
+  - Majda Dabaghi, Director Green Growth, ICC
+  - "Michael Sch\xE4fer, Director Climate and Energy, WWF Deutschland"
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-12 19:00:00
-  title: BDI/ICC Germany
+  title: Progress of the day
 - end: 2018-12-13 11:15:00
   links: null
   location: German Pavilion
@@ -256,14 +143,13 @@
   organiser: Federal Ministry for the Environment, Nature Conversation and Nuclear
     Safety (BMU) / UN Environment International Resource Panel (IRP)
   participants:
-  - 'Moderator: Mauro Petriccione, DG Climate, European Commission (EC)'
-  - Jochen Flasbarth, State Secretary, Federal Ministry for the Environment, Nature
-    Conservation and Nuclear Safety
-  - Janez Potocnik, Co-Chair, UN Environment International Resource Panel (IRP)
-  - Hoesung Lee, Chair, Intergovernmental Panel on Climate Change (IPCC)
-  - Robert Watson, Chair, Intergovernmental Platform on Biodiversity an Ecosystem
-    Services (IPBES)
-  - Mauro Petriccione, Director General, DG Climate, European Commission (EC)
+  - 'Moderator: Yvon Slingenberg, DG CLIMA, European Commission'
+  - Jochen Flasbarth, Federal Ministry for the Environment, Nature Conservation and
+    Nuclear Safety (BMU), Germany
+  - Yasuo Takahashi, Ministry of the Environment of Japan
+  - Carlos Gentile, Ministry of Environment and Sustainable Development, Argentina
+  - Hans Bruyninckx, member of the International Resource Panel and Executive Director
+    of the European Environment Agency
   source: https://www.bmu.de/en/german-climate-pavilion/events/
   start: 2018-12-13 14:00:00
   title: Natural Resources, Climate and Biodiversity
