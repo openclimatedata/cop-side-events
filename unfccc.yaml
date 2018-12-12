@@ -4671,7 +4671,11 @@
     \ (BloCS), Sergey Lonshakov (Chain\u2019M), Martin Clermont (Solutions Will),\
     \ Theresa Carbonneau (The Carbon Fund), live cases leaders"
   end: 2018-12-14 13:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=0LX2NPSMURN5739QUAPZE0SU7DXYBA9F
+    text: "Blockchain for Climate [221\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=NWTA83HGCBVBKN24O1QCWT5VVOFN124E
+    text: "DAO IPCI [361\_kb]"
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-14 11:30:00

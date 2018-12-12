@@ -1,4 +1,4 @@
-index.html: german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml uk.yaml render.py template.html venv
+index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml uk.yaml render.py template.html venv
 	./venv/bin/python render.py
 
 cache/eu-database.js:
