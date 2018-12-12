@@ -1,12 +1,11 @@
-index.html: eu.yaml german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml uk.yaml render.py template.html venv
+index.html: german.yaml unfccc.yaml wwf.yaml ndc.yaml brasil.yaml uk.yaml render.py template.html venv
 	./venv/bin/python render.py
 
 cache/eu-database.js:
 	wget http://ec.europa.eu/clima/events/0124/js/database.js -O cache/eu-database.js
 
 cache/eu-schedule-rooms.json: cache/eu-database.js
-	mv cache/eu-database.js cache/eu-local-database.js
-	sed -i "" 's/var opDayEvent/\/\/var opDayEvent/' cache/eu-local-database.js
+	sed s/'var opDayEvent'/'\/\/var opDayEvent'/ cache/eu-database.js > cache/eu-local-database.js
 	cat eu-write-output.js >> cache/eu-local-database.js
 	node cache/eu-local-database.js
 
