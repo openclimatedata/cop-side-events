@@ -2255,8 +2255,6 @@
     \ IPCC representative, Representative of UNFCCC Secretariat, TFB and TFI TSU members"
   end: 2018-12-07 20:00:00
   links:
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=GAJ4684AWNOEKVCNG6KRHD0ENME1JVZ7
-    text: "Agenda [74\_kb]"
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=004LEB71LKTFIOS4JUW4UZBB4BJMLLE0
     text: "Overview and introduction by Andrej Kranjc - Head, TFI Technical Support\
       \ Unit) [1\_Mb]"
@@ -2269,6 +2267,13 @@
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=9DOZQ046FN1RW3UI7HVJVVTYUP57GR2D
     text: "IPCC Emission Factor Database - EFDB by Pavel Shermanau (TFI TSU) [2\_\
       Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=SSOH1TSQN77AZ83G5063QYKG5A4OL06B
+    text: "The IPCC Guidance and the New Climate Regime by UNFCCC Secretariat [145\_\
+      kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=73FZ8A2EWUCQ6JVJ9SQI4MPQ7ZC67QTR
+    text: "IPCC Inventory Software by Sekai Ngarize (TFI TSU) [2\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=BJSZUIA1UFBC78ROKOFW52N30W0UD6C8
+    text: "Agenda [74\_kb]"
   location: Wisla
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-07 18:30:00
@@ -4069,8 +4074,10 @@
     text: "Bart presentation [345\_kb]"
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=UEF2ZATBRXJ0U6YLTQ3HOS5PILAS4HO3
     text: "J Graichen pres [234\_kb]"
-  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=LZJISR1ZUFXF8ZBKXDL41BZ6TW4956KX
-    text: "cover screens [115\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=NRK2UFKUN11BTWT32N56RQ7S2UX2L0NR
+    text: "background screens [115\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=J2NHVX750HJ4NUH0TWS3TIJQWPA4W9KS
+    text: "Side event agenda [62\_kb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-12 18:30:00
@@ -4713,6 +4720,21 @@
   start: 2018-12-14 13:15:00
   title: Leveraging innovative technology RD&D for mobilizing international resources
     towards Talanoa pledges
+- description: 'Better data management can lead to more transparency, engagement and
+    trust, and help overcome capacity barriers to the implementation of the ETF. As
+    we transition to the implementation of Paris Rulebook at COP24, it''s time to
+    share and discuss these ideas.
+
+
+    Speakers: Mikhail Vartanyan (Armenia / Spherical), Katerina Sokolskaya (JetStyle),
+    tbd'
+  end: 2018-12-14 14:45:00
+  links: []
+  location: Warmia
+  source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
+  start: 2018-12-14 13:15:00
+  title: Data management pain points in building national MRV systems and ways to
+    address them with software
 - description: "ENVOLVEMENT OF CIVIL SOCIETY IN IMPLEMENTING THE ANGOLA NATIONAL CLIMATE\
     \ CHANGE STRATEGY\n\nSpeakers: ANT\xD3NIO ARMANDO - JEA GENERAL SECRETARY AND\
     \ FOCAL POINT"
