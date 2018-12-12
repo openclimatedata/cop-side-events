@@ -62,6 +62,6 @@ venv: requirements.txt
 	touch venv
 
 clean:
-	rm -rf index.html *.yaml cache/*.*html cache/*.json cache/*.ics cache/*.js
+	rm -rf index.html *.yaml cache/*.html cache/*.json cache/*.ics cache/*.js
 
 .PHONY: clean
