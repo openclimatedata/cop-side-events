@@ -28,11 +28,11 @@ for item in table.iterrows():
         start = start.strip()
         end = end.strip()
         print(item[1].Time)
-        start = timeparse(f"2018 {day} {start}".replace("th ", " ").replace("rd ", " "))
+        start = timeparse(f"2018 {day} {start}".replace("\xa0", " ").replace("th ", " ").replace("rd ", " "))
         if end.lower() == "close":
             end = None
         else:
-            end = timeparse(f"2018 {day} {end}".replace("th ", " ").replace("rd ", " "))
+            end = timeparse(f"2018 {day} {end}".replace("\xa0", " ").replace("th ", " ").replace("rd ", " "))
         try:
             (title, description) = item[1].Event.split("####", maxsplit=1)
             title = title.strip()

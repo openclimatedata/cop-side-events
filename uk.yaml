@@ -293,7 +293,7 @@
     \ Deputy Ambassador to Poland, Jason Rheinberg"
   end: 2018-12-08 14:00:00
   location: UK Pavilion
-  organiser: PWC<br>  UNDP<br>  EBRD<br>  EIB<br>  GZM<br>  DISE
+  organiser: PWC<br>  UNDP
   source: https://www.events.great.gov.uk/ehome/index.php?eventid=200184147
   start: 2018-12-08 13:00:00
   title: Mobilising & engaging the private sector to address climate change threats
@@ -333,28 +333,6 @@
   source: https://www.events.great.gov.uk/ehome/index.php?eventid=200184147
   start: 2018-12-08 17:00:00
   title: Blockchain for scaling up green finance flows
-- description: Renewable energies have seen a strong growth over the past decade,
-    but the rate falls short of the growth target consistent with an accelerated climate
-    change pathway. Proinso will share some of the success stories and lessons learned
-    from its deployment of almost 3,000MW of solar projects on 5 continents.
-  end: 2018-12-09 14:30:00
-  location: UK Pavilion
-  organiser: Proinso
-  source: https://www.events.great.gov.uk/ehome/index.php?eventid=200184147
-  start: 2018-12-09 14:00:00
-  title: 'Global energy transition to 100% renewables: Barriers for diffusion, success
-    stories and lessons learned'
-- description: "A comprehensive sustainability ranking of 60 global cities on 20 indicators\
-    \ will be presented. The exceptional performance of San Francisco, Stockholm and\
-    \ Seoul will be considered, examining their policies. A robust urban CO2 emissions\
-    \ model will be discussed. Finally, a new \u2018Ecosystems\u2019 album, illustrating\
-    \ the role of ecosystems, will be launched."
-  end: 2018-12-09 16:00:00
-  location: UK Pavilion
-  organiser: Environment Europe
-  source: https://www.events.great.gov.uk/ehome/index.php?eventid=200184147
-  start: 2018-12-09 15:00:00
-  title: Cities, ecosystems and climate change
 - description: Offshore wind is a UK success story. A combination of innovation support
     and a constructive policy framework has driven rapid cost reduction enabling wide-scale
     deployment. As global projections reach 100GW over the next ten years, this session
@@ -609,6 +587,28 @@
   start: 2018-12-13 13:15:00
   title: "Official UN side event - Powering Past Coal Alliance: Accelerating the Global\
     \ Coal Transition \u2013"
+- description: "A comprehensive sustainability ranking of 60 global cities on 20 indicators\
+    \ will be presented. The exceptional performance of San Francisco, Stockholm and\
+    \ Seoul will be considered, examining their policies. A robust urban CO2 emissions\
+    \ model will be discussed. Finally, a new \u2018Ecosystems\u2019 album, illustrating\
+    \ the role of ecosystems, will be launched."
+  end: 2018-12-13 15:00:00
+  location: UK Pavilion
+  organiser: Environment Europe
+  source: https://www.events.great.gov.uk/ehome/index.php?eventid=200184147
+  start: 2018-12-13 14:00:00
+  title: Cities, ecosystems and climate change
+- description: Renewable energies have seen a strong growth over the past decade,
+    but the rate falls short of the growth target consistent with an accelerated climate
+    change pathway. Proinso will share some of the success stories and lessons learned
+    from its deployment of almost 3,000MW of solar projects on 5 continents.
+  end: 2018-12-13 16:00:00
+  location: UK Pavilion
+  organiser: Proinso
+  source: https://www.events.great.gov.uk/ehome/index.php?eventid=200184147
+  start: 2018-12-13 15:00:00
+  title: 'Global energy transition to 100% renewables: barriers for diffusion, success
+    stories and lessons learned'
 - description: "Ten years after the passing of the UK Climate Change Act, UK Minister\
     \ of State for Energy and Clean Growth Claire Perry and business leaders join\
     \ to reflect on the UK\u2019s leadership on clean growth \u2013 growing the economy\

@@ -756,19 +756,6 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-13 11:30:00
   title: 'Accelerating climate action in large cities: Ideas from Asia'
-- description: This event, on the day following the closing plenary of the Talanoa
-    Dialogue, will provide an opportunity for observers and negotiators to take stock
-    of the Talanoa process, and exchange views on potential COP outcomes from Talanoa
-    and other matters related to increasing ambition of NDCs by 2020, including the
-    IPCC SR1.5 report, the UNSG Climate Summit planned for 2019, and relevant provisions
-    of the Paris Agreement and related COP decisions. Such outcomes can include COP
-    decision text, as well as Presidency reports, declarations, etc.
-  end: 2018-12-13 14:45:00
-  location: WWF Pavilion
-  participants: []
-  source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
-  start: 2018-12-13 13:15:00
-  title: 'COP outcomes on Talanoa and Ambition: The final countdown'
 - description: "WWF Poland prepared a report: \u201CFrom restructuring to sustainable\
     \ development. The case of Upper Silesia\". The findings should lay ground for\
     \ a discussion among stakeholders: unions, communities and local authorities.\
@@ -776,7 +763,11 @@
     \ prepared."
   end: 2018-12-13 16:15:00
   location: WWF Pavilion
-  participants: []
+  participants:
+  - "Samantha\_Smith, Director of the Just Transition Centre, International Trade\
+    \ Union Confederation"
+  - "Miros\u0142aw Proppe, CEO of WWF Poland"
+  - Mariusz Skiba, Deputy Mayor, City of Katowice.
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-13 15:00:00
   title: We are from here! Success factors of the Silesian transformation (Movie screening
