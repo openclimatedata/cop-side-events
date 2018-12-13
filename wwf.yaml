@@ -822,10 +822,17 @@
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-13 18:00:00
   title: 100% Renewables Powering BRI
-- description: Description of event to come shortly.
+- description: "87% of the people without modern energy today\_live in remote, rural\
+    \ areas far from electricity grids without\_social and economic opportunities\
+    \ (in \u2018the last mile\u2019)"
   end: 2018-12-14 11:15:00
   location: WWF Pavilion
-  participants: []
+  participants:
+  - ACCESS Coalition representative
+  - "Carlos Sordo, Energy Access Partnership &\_Innovation Manager, Practical Action"
+  - Government representative TBD
+  - "Andr\xE9 Costa Nahur, Head of Climate Change\_and Energy, WWF- Brazil"
+  - "John Kioli, Kenyan Climate Change Working\_Group, Kenya"
   source: https://wwf.panda.org/our_work/climate_and_energy/cop24/
   start: 2018-12-14 10:00:00
   title: Unraveling the mystery towards green and universal energy access for the
