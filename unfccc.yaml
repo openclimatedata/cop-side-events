@@ -579,7 +579,17 @@
     Speakers: LEG Chair, LEG members, LDC Chair, Parties, GCF, GEF and agencies, regional
     centres and networks'
   end: 2018-12-04 20:00:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=3BYOZZVHA6QE4I2GLMQ7YH3B0EAX4BQU
+    text: "Programme [491\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=UK6PKRORTGWOXYBZ65XFZKFME89AYU50
+    text: "LEG Presentation [1\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=R9JUHI3TD5NF781MT60DXI6888LJFPO4
+    text: "GCF Presentation [1\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=KE9FMJ6PW21L487G43JB3M4RYD0VF8RB
+    text: "Solomon Islands presentation [3\_Mb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=9M1KWII1D5XJTO9M65V7Z1F6U1T3N16R
+    text: "Uganda presentation [483\_kb]"
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-04 18:30:00
@@ -3959,6 +3969,8 @@
   links:
   - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=0TER5RP57K3U6S7AEG8WHY7EKURUCWUZ
     text: "Current Programme and Speakers [86\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=16XMRMI7YOX4MBJ2T97GF7P7KBUJXYBF
+    text: "Presentations [48\_kb]"
   location: Narew
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-12 16:45:00
@@ -4756,7 +4768,12 @@
     Speakers: Mikhail Vartanyan (Armenia / Spherical), Katerina Sokolskaya (JetStyle),
     Maryke van Staden (ICLEI)'
   end: 2018-12-14 14:45:00
-  links: []
+  links:
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=5M5FTPA9F5277GYPE6SM0EFLSZX6NAWX
+    text: "Data management pain points in building national MRV systems and ways to\
+      \ address them with software - Spherical slides [937\_kb]"
+  - href: https://seors.unfccc.int/seors/attachments/get_attachment?code=TCV7JNP09HP6PCTSLWBOHXJH76XUP4XD
+    text: "MRV\_Processes - ICLEI\_slides [1\_Mb]"
   location: Warmia
   source: https://seors.unfccc.int/seors/reports/events_list.html?session_id=COP%2024
   start: 2018-12-14 13:15:00
